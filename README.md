@@ -14,6 +14,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 되도록이면 한글로 된 자료 중에 쉽고 알아보기 쉬운 자료를 차용할 것이며, 직접 코드를 써야할 경우에는
 비전공자들도 쉽게 알아볼 수 있는 python3으로 작성할 예정이다.
 
-목차나 순서는 jwasham의 Coding Interview University의 원본에서 차용할 것이며 CC-BY-4.0라이센스를 취하고 있으니 문제는 없을 거라 본다.
+목차나 순서는 jwasham의 Coding Interview University의 원본에서 차용할 것이다.
+원본이 CC-BY-4.0라이센스를 취하고 있으니 문제는 없을 거라 본다.
 
- 
+## 컨텐츠 정리
