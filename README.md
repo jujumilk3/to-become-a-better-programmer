@@ -18,3 +18,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 원본이 CC-BY-4.0라이센스를 취하고 있으니 문제는 없을 거라 본다.
 
 ## 컨텐츠 정리
+
+-[컴퓨터 공학](#컴퓨터-공학)
+
+##컴퓨터 공학
