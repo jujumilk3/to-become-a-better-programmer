@@ -21,4 +21,4 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 -[컴퓨터 공학](#컴퓨터-공학)
 
-##컴퓨터 공학
+## 컴퓨터 공학
