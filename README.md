@@ -19,8 +19,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 컨텐츠 정리
 
-- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학(Computer-engineering))
-- [네트워크(Network)](#네트워크(Network))
+- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학(computer-engineering))
+- [네트워크(Network)](#네트워크(network))
 
 ## 컴퓨터 공학(Computer engineering)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
