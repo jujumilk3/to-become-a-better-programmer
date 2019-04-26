@@ -19,14 +19,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 컨텐츠 정리
 
-- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학(Compute-engineering))
-- [네트워크(Network)](#네트워크(Network))  
+- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학(Computer-engineering))
+- [네트워크(Network)](#네트워크(Network))
+
+## 컴퓨터 공학(Computer engineering)
 
 
-##컴퓨터 공학(Computer engineering)
-
-
-##네트워크(Network)  
+## 네트워크(Network)  
 - 로드밸런싱
     - [로드밸런서란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
     - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
