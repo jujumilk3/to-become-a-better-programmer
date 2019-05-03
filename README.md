@@ -19,13 +19,19 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 컨텐츠 정리
 
-- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)
 - [네트워크(Network)](#네트워크)
-
-## 컴퓨터 공학
+- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)
+= [알고리즘(Algorithm)](#알고리즘)
 
 ## 네트워크
 - 로드밸런싱
     - [로드밸런서란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
     - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
+
+## 컴퓨터 공학
+- [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
+
+## 알고리즘
+- [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
+- [FizzBuzz 문제](https://bryan.wiki/260)
 
