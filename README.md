@@ -14,19 +14,23 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 되도록이면 한글로 된 자료 중에 쉽고 알아보기 쉬운 자료를 차용할 것이며, 직접 코드를 써야할 경우에는
 비전공자들도 쉽게 알아볼 수 있는 python3으로 작성할 예정이다.
-목차나 내용은 jwasham의 Coding Interview University의 원본에서 차용할 것이나 완전히 같지는 않을 것이며, 정렬은 123->abc->가나다 순서대로 할 것이다.
+목차나 내용은 jwasham의 Coding Interview University을 참고할 것이나 완전히 같지는 않을 것이며, 정렬은 123->abc->가나다 순서대로 할 것이다.
+그리고 [내 블로그](https://this-programmer.tistory.com/)에 있는 글들도 이용할 예정이다.
 
-## 컨텐츠 정리
-
+## 목차
 - [네트워크(Network)](#네트워크)
+- [소프트웨어 공학(Software engineering)](#소프트웨어-공학)
 - [알고리즘(Algorithm)](#알고리즘)
-- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
+- [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
 
 ## 네트워크
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
+- RestAPI
+    - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+    - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
 - 로드밸런싱(Load Balancing)
     - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
     - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
@@ -34,6 +38,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 프록시 서버(Proxy Server)
     - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
+
+## 소프트웨어 공학
+- [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
@@ -45,9 +52,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [탐욕법(Greedy Algorithm)과 그 종류](https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 
-## 컴퓨터 공학
-- [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
-
 ## 좋은 글들
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+- [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
+
+## 컴퓨터 공학
+- [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
+
+
 
