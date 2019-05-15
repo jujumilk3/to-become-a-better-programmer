@@ -322,6 +322,7 @@ A little retrospection shows that although many fine, useful software systems ha
 |Modula|MVS/370|
 |Smalltalk|MS-DOS|
 |Fortran|
+
 *Fig. 1 Exciting products*
 
 Hence, although I strongly support the technology transfer and curriculum development efforts now underway, I think the most important single effort we can mount is to develop ways to grow great designers.  
