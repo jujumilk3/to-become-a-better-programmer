@@ -22,6 +22,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [생산성 향상 도구들(Utilities)](#생산성-향상-도구들)
 - [소프트웨어 공학(Software engineering)](#소프트웨어-공학)
 - [알고리즘(Algorithm)](#알고리즘)
+- [언어(Language)](#언어)
 - [운영체제(Operating System)](#운영체제)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
@@ -54,6 +55,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
 
 ## 소프트웨어 공학
+- [Array와 List의 차이](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
@@ -66,6 +68,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [에라토스테네스의 체(Sieve of Eratosthenes)](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
 - [탐욕법(Greedy Algorithm)과 그 종류](https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
+
+## 언어
+<details>
+<summary>자바스크립트(Javascript)</summary>
+- [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
+</details> 
 
 ## 운영체제
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
