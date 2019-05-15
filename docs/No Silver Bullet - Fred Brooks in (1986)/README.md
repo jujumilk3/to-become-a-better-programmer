@@ -331,8 +331,7 @@ No software organization can ignore this challenge. Good managers, scarce though
 &nbsp;
 My first proposal is that each software organization must determine and proclaim that great designers are as important to its success as great managers are, and that they can be expected to be similarly nurtured and rewarded. Not only salary, but the perquisites of recognition−office size, furnishings, personal technical equipment, travel funds, staff support−must be fully equivalent.  
 &nbsp;
-How to grow great designers? Space does not permit a lengthy discussion, but some steps are obvious:  
-&nbsp;
+How to grow great designers? Space does not permit a lengthy discussion, but some steps are obvious:
 - Systematically identify top designers as early as possible. The best are often not the most experienced.
 - Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
 - Devise and maintain a career development plan for each prospect, including carefully selected apprenticeships with top designers, episodes of advanced formal education, and short courses, all interspersed with solo design and technical leadership assignments.
