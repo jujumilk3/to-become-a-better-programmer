@@ -313,31 +313,26 @@ The differences are not minor−it is rather like Salieri and Mozart. Study afte
 &nbsp;
 A little retrospection shows that although many fine, useful software systems have been designed by committees and built by multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast with Cobol, PL/I, Algol, MVS/370, and MS-DOS (fig. 1)  
 &nbsp;
+
 |Yes| No|
 |----|-----|
-|asd|asdasd|
+|Unix|Cobol|
+|APL|PL/1|
+|Pascal|Algol|
+|Modula|MVS/370|
+|Smalltalk|MS-DOS|
+|Fortran|
+*Fig. 1 Exciting products*
 
-
-
-Yes No
-Unix Cobol
-APL PL/1
-Pascal Algol
-Modula MVS/370
-Smalltalk MS-DOS
-Fortran
-Fig. 1 Exciting products
-Hence, although I strongly support the technology transfer and curriculum development efforts now underway, I think the most important single effort we can mount is to develop ways to grow great designers.
-12 Boehm, B. W., “A spiral model of software development and enhancement,” Computer, 20, 5 (May, 1985), pp. 43-57.
-F. Brooks: No Silver Bullet—Essence and accident in software engineering (1986) 16
-No software organization can ignore this challenge. Good managers, scarce though they be, are no scarcer than good designers. Great designers and great managers are both very rare. Most organizations spend considerable effort in finding and cultivating the management prospects; I know of none that spends equal effort in finding and developing the great designers upon whom the technical excellence of the products will ultimately depend.
-My first proposal is that each software organization must determine and proclaim that great designers are as important to its success as great managers are, and that they can be expected to be similarly nurtured and rewarded. Not only salary, but the perquisites of recognition−office size, furnishings, personal technical equipment, travel funds, staff support−must be fully equivalent.
-How to grow great designers? Space does not permit a lengthy discussion, but some steps are obvious:
-•
-•
-•
-•
-Systematically identify top designers as early as possible. The best are often not the most experienced.
-Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
-Devise and maintain a career development plan for each prospect, including carefully selected apprenticeships with top designers, episodes of advanced formal education, and short courses, all interspersed with solo design and technical leadership assignments.
-Provide opportunities for growing designers to interact with and stimulate each other.
+Hence, although I strongly support the technology transfer and curriculum development efforts now underway, I think the most important single effort we can mount is to develop ways to grow great designers.  
+&nbsp;
+No software organization can ignore this challenge. Good managers, scarce though they be, are no scarcer than good designers. Great designers and great managers are both very rare. Most organizations spend considerable effort in finding and cultivating the management prospects; I know of none that spends equal effort in finding and developing the great designers upon whom the technical excellence of the products will ultimately depend.  
+&nbsp;
+My first proposal is that each software organization must determine and proclaim that great designers are as important to its success as great managers are, and that they can be expected to be similarly nurtured and rewarded. Not only salary, but the perquisites of recognition−office size, furnishings, personal technical equipment, travel funds, staff support−must be fully equivalent.  
+&nbsp;
+How to grow great designers? Space does not permit a lengthy discussion, but some steps are obvious:  
+&nbsp;
+- Systematically identify top designers as early as possible. The best are often not the most experienced.
+- Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
+- Devise and maintain a career development plan for each prospect, including carefully selected apprenticeships with top designers, episodes of advanced formal education, and short courses, all interspersed with solo design and technical leadership assignments.
+- Provide opportunities for growing designers to interact with and stimulate each other.
