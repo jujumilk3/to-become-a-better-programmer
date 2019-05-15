@@ -7,6 +7,7 @@ University of North Carolina at Chapel Hill
 which by itself promises even one order-of-magnitude improvement within a decade in productivity,
 in reliability, in simplicity.
 
+
 ## Abstract<sup>1</sup>
 All software construction involves essential tasks,
 the fashioning of the complex conceptual structures that composethe abstract software entity,
@@ -28,6 +29,7 @@ I suggest:
 - Using rapid prototyping as part of a planned iteration in establishing software requirements. 
 - Growing software organically, adding more and more function to systems as they are run, used, and tested. 
 - Identifying and developing the great conceptual designers of the rising generation. 
+
 
 ## Introduction
 &nbsp; Of all the monsters who fill the nightmares of our folklore,
@@ -65,6 +67,7 @@ It told workers the progress would be made stepwise, at great effort,
 and that a persistent, unremitting care would have to be paid to a discipline of
 cleanliness. So it is with software engineering today.  
  &nbsp;
+
 
 ## Does It Have To Be Hard? – Essential Difficulties
 Not only are there no silver bullets now in view, the very nature of software makes it unlikely that there will be any−no inventions that will do for software productivity, reliability, and simplicity what electronics, transistors, and large-scale integration did for computer hardware. We cannot expect ever to see twofold gains every two years.  
@@ -117,6 +120,7 @@ The reality of software is not inherently embedded in space. Hence it has no rea
 &nbsp;
 In spite of progress in restricting and simplifying the structures of software, they remain inherently unvisualizable, thus depriving the mind of some of its most powerful conceptual tools. This lack not only impedes the process of design within one mind, it severely hinders communication among minds.
 
+
 ## Past Breakthroughs Solved Accidental Difficulties
 If we examine the three steps in software technology that have been most fruitful in the past, we discover that each attacked a different major difficulty in building software, but they have been the accidental, not the essential, difficulties. We can also see the natural limits to the extrapolation of each such attack.
 
@@ -141,6 +145,7 @@ They attack the accidental difficulties of using programs together, by providing
 This breakthrough in turn stimulated the development of whole toolbenches, since each new tool could be applied to any programs by using the standard formats.  
 &nbsp;
 Because of these successes, environments are the subject of much of today’s software engineering research. We will look at their promise and limitations in the next section.
+
 
 ## Hopes for the Silver
 Now lets us consider the technical developments that are most often advanced as potential silver bullets. What problems do they address? Are they the problems of essence, or are they remainders of our accidental difficulties? Do they offer revolutionary advances, or incremental ones?
@@ -168,3 +173,147 @@ I agree completely with this critique. The techniques used for speech recognitio
 &nbsp;
 Expert systems technology, AI-2, deserves a section of its own.
 
+**Expert systems.** The most advanced part of the artificial intelligence art, and the most widely applies, is the technology for building expert systems. Many software scientists are hard at work applying this technology to the software-building environment.6 What is the concept, and what are the prospects?  
+&nbsp;
+An expert system is a program containing a generalized inference engine and a rule base, designed to take input data and assumptions and explore the logical consequences through the inferences derivable from the rule base, yielding conclusions and advice, and offering to explain its results by retracing its reasoning for the user. The inference engines typically can deal with fuzzy or probabilistic data and rules in addition to purely deterministic logic.  
+&nbsp;
+Such systems offer some clear advantages over programmed algorithms for arriving at the same solutions to the same problems:
+- Inference engine technology is developed in an application-independent way, and then applied to many uses. One can justify much more effort on the inference engines. Indeed, that technology is well advanced.
+- The changeable parts of the application-peculiar materials are encoded in the rule base in a uniform fashion, and tools are provided for developing, changing, testing, and documenting the rule base. This regularizes much of the complexity of the application itself.  
+
+&nbsp;Edward Feigenbaum says that the power of such systems does not come from ever-fancier inference mechanisms, but rather from ever-richer knowledge bases that reflect the real world more accurately. I believe the most important advance offered by the technology is the separation of the application complexity from the program itself.  
+&nbsp;
+How can this be applied to the software task? In many ways: suggesting interface rules, advising on testing strategies, remembering but-type frequencies, offering optimization hints, etc.
+&nbsp;
+Consider an imaginary testing advisor, for example. In its most rudimentary form, the diagnostic expert system is very like a pilot’s checklist, fundamentally offering suggestions as to possible causes of difficulty. As the rule base is developed, the suggestions become more specific, taking more sophisticated account of the trouble symptoms reported. One can visualize a debugging assistant that offers very generalized suggestions at first, but as more and more system structure is embodied in the rule base, comes more and more particular in the hypotheses is generates and the tests it recommends. Such an expert system may depart most radically from the conventional ones in that its rule base should probably be hierarchically modularized in the same way the corresponding software product is, so that as the product is modularly modified, the diagnostic rule base can be modularly modified as well.  
+&nbsp;
+The work required to generate the diagnostic rules is work that will have to be done anyway in generating the set of test cases for the modules and for the system. If it is done in a suitably general manner, with a uniform structure for rules and a good inference engine available, it may actually reduce the total labor of generating bring-up test cases, as well as helping in lifelong maintenance and modification testing. In the same way, we can postulate other advisors probably many of them and probably simple ones for the other parts of the software construction task.  
+&nbsp;
+Many difficulties stand in the way of early realization of useful expert advisors to the program developer. A crucial part of our imaginary scenario is the development of easy ways to get from program structure specification to the automatic or semi-automatic generation of diagnostic rules. Even more difficult and important is the twofold task of knowledge acquisition: finding articulate, self-analytical experts who know why they do things; and developing efficient techniques for extracting what they know and distilling it into rule bases. The essential prerequisite for building an expert system is to have an expert.  
+&nbsp;
+The most powerful contribution of expert systems will surely be to put at the service of the inexperienced programmer the experience and accumulated wisdom of the best programmers. This is no small contribution. The gap between the best software engineering practice and the average practice is very wide−perhaps wider than in any other engineering discipline. A tool that disseminates good practice would be important.
+
+**"Automatic" programming.** For almost 40 years, people have been anticipating and writing about “automatic programming”, the generation of a program for solving a problem from a statement of the problem specifications. Some people today write as if they expected this technology to provide the next breakthrough.<sup>7</sup>
+
+>Parnas implies that the term is used for glamour and not semantic content, asserting,<br><br>
+*In short, automatic programming always has been a euphemism for programming with a higher-level language than was presently available to the programmer.<sup>8</sup>*
+
+He argues, in essence, that in most cases it is the solution method, not the problem, whose specification has to be given.  
+&nbsp;
+Exceptions can be found. The technique of building generators is very powerful, and it is routinely used to good advantage in programs for sorting. Some systems for integrating differential equations have also permitted direct specification of the problem. The system assessed the parameters, chose from a library of methods of solution, and generated the programs.  
+&nbsp;
+- These applications have very favorable properties. :
+- The problems are readily characterized by relatively few parameters.
+- There are many known methods of solution to provide a library of alternatives.
+- Extensive analysis has led to explicit rules for selecting solution techniques, given problem parameters.
+
+&nbsp;It is hard to see how such techniques generalize to the wider world of the ordinary software system, where cases with such neat properties are the exception. It is hard even to imagine how this breakthrough in generalization could conceivably occur.
+
+**Graphical programming.** A favorite subject for PH.D. dissertations in software engineering is graphical, or visual, programming, the application of computer graphics to software design.9 Sometimes the promise of such an approach is postulated from the analogy with VLSI chip design, where computer graphics plays so fruitful a role. Sometimes the approach is justified by considering flowcharts as the ideal program design medium, and providing powerful facilities for constructing them.  
+&nbsp;
+Nothing even convincing, much less exciting, has yet emerged from such efforts. I am persuaded that nothing will.  
+&nbsp;
+In the first place, as I have argued elsewhere, the flow chart is a very poor abstraction of software structure.<sup>10</sup> Indeed, it is best viewed as Burks, von Neumann, and Goldstine’s attempt to provide a desperately needed high-level control language for their proposed computer. In the pitiful, multipage, connection-boxed form to which the flow chart has today been elaborated, it has proved to be essentially useless as a design-tool programmers draw flow charts after, not before, writing the programs they describe.
+&nbsp;
+Second, the screens of today are too small, in pixels, to show both the scope and the resolution of any serious detailed software diagram. The so-called “desktop metaphor” of today’s workstation is instead an “airplane-seat” metaphor. Anyone who has shuffled a lapful of papers while seated in a coach between two portly passengers will recognize the difference−one can see only a very few things at once. The true desktop provides overview of and random access to a score of pages. Moreover, when fits of creativity run strong, more than one programmer or writer has been known to abandon the desktop for the more spacious floor. The hardware technology will have to advance quite substantially before the scope of our scopes is sufficient to the software design task.  
+&nbsp;
+More fundamentally, as I have argued above, software is very difficult to visualize. Whether we diagram control flow, variable scope nesting, variable cross-references, data blow, hierarchical data structures, or whatever, we feel only one dimension of the intricately interlocked software elephant. If we superimpose all the diagrams generated by the many relevant views, it is difficult to extract any global overview. The VLSI analogy is fundamentally misleading−a chip design is a layered two-dimensional object whose geometry reflects its essence. A software system is not.  
+
+**Program verification.** Much of the effort in modern programming goes into the testing and repair of bugs. Is there perhaps a silver bullet to be found by eliminating the errors at the source, in the system design phase? Can both productivity and product reliability be radically enhance by following the profoundly different strategy of proving designs correct before the immense effort is poured into implementing and testing them?  
+&nbsp;
+I do not believe we will find the magic here. Program verification is a very powerful concept, and it will be very important for such things as secure operating system kernels. The technology does not promise, however, to save labor. Verifications are so much work that only a few substantial programs have ever been verified.  
+&nbsp;
+Program verification does not mean error-proof programs. There is no magic here, either. Mathematical proofs also can be faulty. So whereas verification might reduce the program-testing load, it cannot eliminate it.  
+&nbsp;
+More seriously, even perfect program verification can only establish that a program meets its specification. The hardest part of the software task is arriving at a complete and consistent specification, and much of the essence of building a program is in fact the debugging of the specification.  
+&nbsp;
+
+**Environments and tools.** How much more gain can be expected from the exploding researches into better programming environments? One’s instinctive reaction is that the big-payoff problems were the first attacked, and have been solved: hierarchical file systems, uniform file formats so as to have uniform program interfaces, and generalized tools. Language-specific smart editors are developments not yet widely used in practice, but the most they promise is freedom from syntactic errors and simple semantic errors.  
+&nbsp;
+Perhaps the biggest gain yet to be realized in the programming environment is the use of integrated database systems to keep track of the myriads of details that must be recalled accurately by the individual programmer and kept current in a group of collaborators on a single system.  
+&nbsp;
+Surely this work is worthwhile, and surely it will bear some fruit in both productivity and reliability. But by its very nature, the return from now on must be marginal.  
+&nbsp;
+
+**Workstations.** What gains are to be expected for the software art from the certain and rapid increase in the power and memory capacity of the individual workstation? Well, how many MIPS can one use fruitfully? The composition and editing of programs and documents is fully supported by today’s speeds. Compiling could stand a boost, but a factor of 10 in machine speed would surely leave think-time the dominant activity in the programmer’s day. Indeed, it appears to be so now.  
+&nbsp;
+More powerful workstations we surely welcome. Magical enhancements from them we cannot expect.  
+&nbsp;
+
+
+## Promising Attacks on the Conceptual Essence
+Even though no technological breakthrough promises to give the soft of magical results with which we are so familiar in the hardware area, there is both an abundance of good working going on now, and the promise of steady, if unspectacular progress.  
+&nbsp;
+All of the technological attacks on the accidents of the software process are fundamentally limited by the productivity equation:  
+  
+    Time of task = Σ (Frequency) i x (Time) i
+    
+If, as I believe, the conceptual components of the task are now taking most of the time, then no amount of activity on the task components that are merely the expression of the concepts can give large productivity gains.  
+&nbsp;
+Hence we must consider those attacks that address the essence of the software problem, the formulation of these complex conceptual structures. Fortunately, some of these are very promising.
+
+**Buy versus build.** The most radical possible solution for constructing software is not to construct it at all.  
+&nbsp;
+Every day this becomes easier, as more and more vendors offer more and better software products for a dizzying variety of applications. While we software engineers have labored on production methodology, the personal computer revolution has created not one, but m any, mass markets for software. Every newsstand carried monthly magazines which, sorted by machine type, advertise and review dozens of products at prices from a few dollars to a few hundred dollars. More specialized sources offer very powerful products for the workstation and other Unix markets. Even software tolls and environments can be bought off-the-shelf. I have elsewhere proposed a market place for individual modules.  
+&nbsp;
+Any such product is cheaper to buy than to build afresh. Even at a cost of $100,000, a purchased piece of software is costing only about as much as one programmer-year. And delivery is immediate! Immediate at least for products that really exist, products whose developer can refer the prospect to a happy user. Moreover, such products tend to be much better documented and somewhat better maintained than homegrown software.  
+&nbsp;
+The development of the mass market is, I believe, the most profound long-run trend in software engineering. The cost of software has always been development cost, not replication cost. Sharing that cost among even a few users radically cuts the per-user cost. Another way of looking at it is that the use of n copies of a software system effectively multiplies the productivity of its developers by n. That is an enhancement of the productivity of the discipline and of the nation.  
+&nbsp;
+The key issue, of course, is applicability. Can I use an available off-the-shelf package to do my task? A surprising thing has happened here. During the 1950s and 1960s, study after study showed that users would not use off-the-shelf packages for payroll, inventory control, accounts receivable, etc. The requirements were too specialized, the case-to-case variation too high. During the 1980s, we find such packages in high demand and widespread use. What has changed?  
+&nbsp;
+Not really the packages. They may be somewhat more generalized and somewhat more customizable than formerly, but not much. Not really the applications, either. If anything, the business and scientific needs of today are more diverse, more complicated than those of 20 years ago.  
+&nbsp;
+The big change has been in the hardware/software cost ratio. The buyer of a $2-million machine in 1960 felt that he could afford $250,000 more for a customized payroll program, one that slipped easily and nondisruptively into the computer-hostile social environment. Buyers of $50,000 office machines today cannot conceivably afford customized payroll programs; so they adapt their payroll procedures to the packages available. Computers are now so commonplace, if not yet so beloved, that the adaptations are accepted as a matter of course.  
+&nbsp;
+There are dramatic exceptions to my argument that the generalization of the software packages has changed little over the years: electronic spreadsheets and simple database systems. These powerful tools, so obvious in retrospect and yet so late appearing, lend themselves to myriad uses, some quite unorthodox. Articles and even books now abound on how to tackle unexpected tasks with the spreadsheet. Large numbers of applications that would formerly have been written as custom programs in Cobol or Report Program Generator are now routinely done with these tools.  
+&nbsp;
+Many users now operate their own computers day in and day out on varied applications without ever writing a program. Indeed, many of these users cannot write new programs for their machines, but they are nevertheless adept at solving new problems with them.  
+&nbsp;
+I believe the single most powerful software productivity strategy for man organizations to day is to equip the computer-naïve intellectual workers on the firing line with personal computers and good generalized writing, drawing, file and spreadsheet programs, and turn them loose. The same strategy, with simple programming capabilities, will also work for hundreds of laboratory scientists.  
+&nbsp;
+
+
+**Requirements refinement and rapid prototyping.** The hardest single part of building a software system is deciding precisely what to build. No other part of the conceptual work is to difficult as establishing the detailed technical requirements, including all the interfaces to people, to machines, and to other software systems. No other part of the work so cripples the resulting system if done wrong. No other part is more difficult go rectify later.
+Therefore the most important function that software builders do for their clients is the iterative extraction and refinement of the product requirements. For the truth is, the clients do not know what they want. They usually do not know what questions must be answered, and they almost never have thought of the problem in the detail that must be specified. Even the simple answer−”Make the new software system work like our old manual information-processing system” −is in fact too simple. Clients never want exactly that. Complex software systems are, moreover, things that act, that move, that work. The dynamics of that action are hard to imagine. So in planning any software activity, it is necessary to allow for an extensive iteration between the client and the designer as part of the system definition.
+I would go a step further and assert that it is really impossible for clients, even those working with software engineers, to specify completely, precisely, and correctly the exact requirements of a modern software product before having built and tried some versions of the product they are specifying.
+F. Brooks: No Silver Bullet—Essence and accident in software engineering (1986) 14
+Therefore one of the most promising of the current technological efforts, and one which attacks the essence, not the accidents, of the software problem, is the development of approaches and tools for rapid prototyping of systems as part of the iterative specification of requirements.
+A prototype software system is one that simulates the important interfaces and performs the main functions of the intended system, while not being necessarily bound by the same hardware speed, size, or cost constraints. Prototypes typically perform the mainline tasks of the application, but make no attempt to handle the exceptions, respond correctly to invalid inputs, abort cleanly, etc. The purpose of the prototype is to make real the conceptual structure specified, so that the client can test it for consistency and usability
+Much of present-day software acquisition procedures rests upon the assumption that one can specify a satisfactory system in advance, get bids for its construction, have it built, and install it. I think this assumption is fundamentally wrong, and that many software acquisition problems spring from that fallacy. Hence they cannot be fixed without fundamental revision, one that provides for iterative development and specification of prototypes and products.
+Incremental development−grow, not build, software. I still remember the jolt I felt in 1958 when I first heard a friend talk about building a program, as opposed to writing one. In a flash be broadened my whole view of the software process. The metaphor shift was powerful, and accurate. Today we understand how like other building processes the construction of software is, and we freely use other elements of the metaphor, such as specifications, assembly of components, and scaffolding.
+The building metaphor has outlived its usefulness. It is time to change again. If, as I believe, the conceptual structures we construct today are too complicated to be accurately specified in advance, and too complex to be built faultlessly, then we must take a radically different approach.
+Let us turn to nature and study complexity in living things, instead of just the dead works of man. Here we find constructs whose complexities thrill us with awe. The brain alone is intricate beyond mapping, powerful beyond imitation, rich in diversity, self-protecting, and self-renewing. The secret is that it is grown, not built.
+So it must be with our software systems. Some years ago Harlan Mills proposed that any software system should be grown by incremental development.11 That is, the system should first be made to run, even though it does nothing useful except call the proper set of dummy subprograms. Then, bit-by-bit it is fleshed out, with the subprograms in turn being developed into actions or calls to empty stubs in the level below.
+I have seen the most dramatic results since I began urging this technique on the project builders in my software engineering laboratory class. Nothing in the past decade has so radically changed my own practice, or its effectiveness. The approach necessitates top-down design, for it is a top-down growing of the software. It allows easy backtracking. It lends itself to early prototypes. Each added function and new provision for more complex data or circumstances grown organically out of what is already there.
+11 Mills, H. D., “Top-down programming in large systems,” Debugging Techniques in Large Systems, R. Rustin, ed., Englewood Cliffs, N.J., Prentice-Hall, 1971.
+F. Brooks: No Silver Bullet—Essence and accident in software engineering (1986) 15
+The morale effects are startling. Enthusiasm jumps when there is a running system, even a simple one. Efforts redouble when the first picture from a new graphics software system appears on the screen, even if it is only a rectangle. One always has, at every stage in the process, a working system. I find that teams can grow much more complex entities in four months than they can build.
+The same benefits can be realized on large projects as on my small ones.12
+Great designers. The central question of how to improve the software art centers, as it always, on people.
+We can get good designs by following good practices instead of poor ones. Good design practices can be taught. Programmers are among the most intelligent part of the population, so they can learn good practice. Thus a major thrust in the United States is to promulgate good modern practice. New curricula, new literature, new organizations such as the Software Engineering Institute, all have come into being in order to raise the level of our practice from poor to good. This is entirely proper.
+Nevertheless, I do not believe we can make the next step upward in the same way. Whereas the difference between poor conceptual designs and good ones may lie in the soundness of design method, the difference between good designs and great ones surely does not. Great designs come from great designers. Software construction is a creative process. Sound methodology can empower and liberate the creative mind; it cannot enflame or inspire the drudge.
+The differences are not minor−it is rather like Salieri and Mozart. Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+A little retrospection shows that although many fine, useful software systems have been designed by committees and built by multipart projects, those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers. Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast with Cobol, PL/I, Algol, MVS/370, and MS-DOS (fig. 1)
+Yes No
+Unix Cobol
+APL PL/1
+Pascal Algol
+Modula MVS/370
+Smalltalk MS-DOS
+Fortran
+Fig. 1 Exciting products
+Hence, although I strongly support the technology transfer and curriculum development efforts now underway, I think the most important single effort we can mount is to develop ways to grow great designers.
+12 Boehm, B. W., “A spiral model of software development and enhancement,” Computer, 20, 5 (May, 1985), pp. 43-57.
+F. Brooks: No Silver Bullet—Essence and accident in software engineering (1986) 16
+No software organization can ignore this challenge. Good managers, scarce though they be, are no scarcer than good designers. Great designers and great managers are both very rare. Most organizations spend considerable effort in finding and cultivating the management prospects; I know of none that spends equal effort in finding and developing the great designers upon whom the technical excellence of the products will ultimately depend.
+My first proposal is that each software organization must determine and proclaim that great designers are as important to its success as great managers are, and that they can be expected to be similarly nurtured and rewarded. Not only salary, but the perquisites of recognition−office size, furnishings, personal technical equipment, travel funds, staff support−must be fully equivalent.
+How to grow great designers? Space does not permit a lengthy discussion, but some steps are obvious:
+•
+•
+•
+•
+Systematically identify top designers as early as possible. The best are often not the most experienced.
+Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
+Devise and maintain a career development plan for each prospect, including carefully selected apprenticeships with top designers, episodes of advanced formal education, and short courses, all interspersed with solo design and technical leadership assignments.
+Provide opportunities for growing designers to interact with and stimulate each other.
