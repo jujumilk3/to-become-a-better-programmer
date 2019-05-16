@@ -1,5 +1,5 @@
 # No Silver Bullet —Essence and Accident in Software Engineering
-# 은 탄환은 없다 —소프트웨어공학의 본질과 
+# 은 탄환은 없다 —소프트웨어공학의 본질과 위험성
 
 Frederick P. Brooks, Jr.  
 University of North Carolina at Chapel Hill
