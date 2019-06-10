@@ -31,9 +31,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
+- [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
+- [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
 - RestAPI
     - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
     - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
+- [SSO(Single Sign-On)이란?](https://toma0912.tistory.com/75)
 - 로드밸런싱(Load Balancing)
     - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
     - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
