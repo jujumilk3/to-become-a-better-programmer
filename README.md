@@ -19,8 +19,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 목차
 - [네트워크(Network)](#네트워크)
+- [데이터베이스(Database)](#데이터베이스)
 - [생산성 향상 도구들(Utilities)](#생산성-향상-도구들)
 - [소프트웨어 공학(Software engineering)](#소프트웨어-공학)
+- [소프트웨어 인프라(Software infrastructure)](#소프트웨어-인프라)
 - [알고리즘(Algorithm)](#알고리즘)
 - [언어(Language)](#언어)
 - [운영체제(Operating System)](#운영체제)
@@ -29,6 +31,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 네트워크
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
+- [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
@@ -45,6 +48,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
     
+## 데이터베이스
+- [인덱스(index)란?](https://mangkyu.tistory.com/96)
+- [트랜잭션(transaction)이란?(1)](https://mommoo.tistory.com/62)
+- [트랜잭션(transaction)이란?(2)](https://devuna.tistory.com/30)
+- [효과적인 DB index 설정하기](https://velog.io/@jwpark06/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-DB-index-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+    
 ## 생산성 향상 도구들
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [gitstar-ranking(깃허브 별 개수 랭킹 알려주는 사이트)](https://gitstar-ranking.com)
@@ -60,7 +69,15 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 소프트웨어 공학
 - [Array와 List의 차이](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
+- [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+## 소프트웨어 인프라
+- [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
+- [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
+- [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
+- [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
+- [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
@@ -73,10 +90,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 
 ## 언어
-<details>
-<summary>자바스크립트(Javascript)</summary>
+### 자바스크립트(Javascript)
 - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
-</details> 
+### 파이썬(Python)
+- [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
+- [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
+- [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
+- [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
 
 ## 운영체제
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
@@ -84,6 +104,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 좋은 글들
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
+- [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 
