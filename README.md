@@ -94,6 +94,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
 ### 파이썬(Python)
 - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
+- [Python PEP8 요약](https://datacook.tistory.com/12)
 - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
 - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
 - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
