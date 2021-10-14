@@ -24,6 +24,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [소프트웨어 공학(Software engineering)](#소프트웨어-공학)
 - [소프트웨어 인프라(Software infrastructure)](#소프트웨어-인프라)
 - [알고리즘(Algorithm)](#알고리즘)
+- [인공지능(Artificial Intelligence)](#인공지능)
 - [언어(Language)](#언어)
 - [운영체제(Operating System)](#운영체제)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
@@ -74,6 +75,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 인프라
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
+- [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
@@ -88,6 +90,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [에라토스테네스의 체(Sieve of Eratosthenes)](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
 - [탐욕법(Greedy Algorithm)과 그 종류](https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
+
+## 인공지능
+- [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 
 ## 언어
 ### 자바스크립트(Javascript)
@@ -106,6 +111,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 좋은 글들
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
+- [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 
