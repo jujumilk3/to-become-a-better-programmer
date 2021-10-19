@@ -50,6 +50,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
     
 ## 데이터베이스
+- [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [인덱스(index)란?](https://mangkyu.tistory.com/96)
 - [트랜잭션(transaction)이란?(1)](https://mommoo.tistory.com/62)
 - [트랜잭션(transaction)이란?(2)](https://devuna.tistory.com/30)
@@ -92,6 +93,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 
 ## 인공지능
+- [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 
 ## 언어
@@ -114,8 +116,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
+- [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 
 ## 컴퓨터 공학
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
-
-
