@@ -73,6 +73,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [효과적인 DB index 설정하기](https://velog.io/@jwpark06/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-DB-index-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ## 디자인패턴
+- [Design Patterns on python](https://brownbears.tistory.com/category/%EA%B3%B5%EB%B6%80/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 - [MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
     
 ## 생산성 향상 도구들
@@ -91,7 +92,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 
 ## 소프트웨어 공학
-- [Array와 List의 차이](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -111,6 +111,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
 - [FizzBuzz 문제](https://bryan.wiki/260)
+- [Lock Free 알고리즘(Non-Blocking 알고리즘)](https://effectivesquid.tistory.com/entry/Lock-Free-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Non-Blocking-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [논 블로킹 알고리즘(Non-blocking Algorithms)](https://parkcheolu.tistory.com/33)
 - [동적 계획법(Dynamic Programming)](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 - [브루트 포스(Brute Force)](https://steemit.com/kr-dev/@gyeryak/easyalgo-2-bruteforce)
 - [빅오 표기법(Big-O Notation), 시간 복잡도, 공간 복잡도](https://cjh5414.github.io/big-o-notation/)
@@ -122,12 +124,14 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 
 ## 자료구조
+- [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
 - [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
 - [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
 - [효율적인 긴 문자열 연산을 위한 Rope 자료구조](http://www.secmem.org/blog/2019/03/09/rope/)
+- [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
 ## 언어
 - 자바스크립트(Javascript)
@@ -155,5 +159,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 
 ## 컴퓨터 공학
+- [10분 Actor Model 정리](https://hyojabal.tistory.com/1)
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
+- [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
