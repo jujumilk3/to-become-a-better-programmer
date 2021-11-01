@@ -58,6 +58,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
+- [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
 - [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 - [왜 데이터베이스(DB) 튜닝을 해야할까?](https://travislife.tistory.com/25)
