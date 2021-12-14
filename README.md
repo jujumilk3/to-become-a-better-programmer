@@ -162,6 +162,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 
 ## 운영체제
+- [cgroup 이란?](https://sonseungha.tistory.com/535)
+- [Deadlock 개념이란? 그에 대한 해결책/회피책](https://jwprogramming.tistory.com/12)
+- [Linux - Namespace 란?](https://galid1.tistory.com/442)
+- [데드락(Deadlock, 교착 상태)이란?](https://chanhuiseok.github.io/posts/cs-2/)
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
 - 리눅스(Linux) / 유닉스(Unix)
     - [cgroup 이란?](https://sonseungha.tistory.com/535)
