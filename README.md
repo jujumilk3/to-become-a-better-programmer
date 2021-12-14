@@ -49,6 +49,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
     - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
 - [브라우저의 렌더링 과정](https://medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%ED%92%88%EA%B2%A9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95-5c01c4158ce)
+- [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - 프록시 서버(Proxy Server)
@@ -66,6 +67,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [저장 프로시저](https://ko.wikipedia.org/wiki/%EC%A0%80%EC%9E%A5_%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80)
 - [정규화(Normalization)](https://mangkyu.tistory.com/28?category=761304)
 - [클러스터링 vs 리플리케이션 vs 샤딩](https://velog.io/@gkskaks1004/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-vs-%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-vs-%EC%83%A4%EB%94%A9)
+- [트랜잭션 격리 수준(Transaction Isolation Level)](https://dar0m.tistory.com/225)
 - [트랜잭션이란? (Transaction)](https://limkydev.tistory.com/100?category=974039)
 - [트랜잭션과 격리성](https://sabarada.tistory.com/117)
 - [트랜잭션(transaction)이란?(1)](https://mommoo.tistory.com/62)
@@ -80,9 +82,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 생산성 향상 도구들
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [gitstar-ranking(깃허브 별 개수 랭킹 알려주는 사이트)](https://gitstar-ranking.com)
+- [Graphviz 소개](https://narusas.github.io/2019/01/25/Graphviz.html)
 - [POSTMAN과 JSON Placeholder(JSON을 테스트하는 가장 좋은 방법)](https://this-programmer.tistory.com/entry/JSON%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%95-POSTMAN%EA%B3%BC-JSON-Placeholder?category=767889)
 - [regex101.com(정규식 짤 때 도움되는 사이트)](https://this-programmer.tistory.com/entry/%EC%A0%95%EA%B7%9C%EC%8B%9D-%EC%A7%A4-%EB%95%8C-%EC%97%84%EC%B2%AD%EB%82%98%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-regex101com?category=772368)
+- [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91])
 - [Wappalyzer(웹사이트 구성요소를 볼 수 있는 크롬 확장 프로그램)](https://this-programmer.tistory.com/entry/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EB%AD%98%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EC%A7%80-%EC%95%8C-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Wappalyzer?category=772368)
+- [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
 - 깃(Git)
     - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
     - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
@@ -91,7 +96,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
     - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
     - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
-
+- 쿠버네티스(Kubernetes, k8s)
+    - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
+    
 ## 소프트웨어 공학
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
@@ -123,6 +130,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [정렬 알고리즘 비교](https://ratsgo.github.io/data%20structure&algorithm/2017/10/19/sort/)
 - [탐욕법(Greedy Algorithm)과 그 종류](https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
+- [해시 함수](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98)
 
 ## 자료구조
 - [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
@@ -130,11 +138,16 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
+- [이진 트리](https://thebook.io/007031/part01/ch03/07/01/)
 - [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
+- [자료구조와 시간복잡도](https://daelumgi.postype.com/post/5270208)
+- [해시맵 (HashMap) / 맵 (Map)](https://hapbbying.tistory.com/81)
 - [효율적인 긴 문자열 연산을 위한 Rope 자료구조](http://www.secmem.org/blog/2019/03/09/rope/)
 - [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
 ## 언어
+- 자바(Java)
+    - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
     - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
 - 파이썬(Python)
@@ -150,14 +163,20 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 운영체제
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
-- [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- 리눅스(Linux) / 유닉스(Unix)
+    - [cgroup 이란?](https://sonseungha.tistory.com/535)
+    - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+    - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
+- 윈도우(Window)
 
 ## 좋은 글들
+- [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
+- [통합관제 EMS(종합관제)](http://hamonsoft.co.kr/solution/integrated-control/integrated-management/netis-ems/)
 
 ## 컴퓨터 공학
 - [10분 Actor Model 정리](https://hyojabal.tistory.com/1)
