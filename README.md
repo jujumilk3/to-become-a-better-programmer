@@ -26,7 +26,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [소프트웨어 인프라(Software infrastructure)](#소프트웨어-인프라)
 - [알고리즘(Algorithm)](#알고리즘)
 - [인공지능(Artificial Intelligence)](#인공지능)
-- [언어(Language)](#언어)
+- [언어와 프레임워크(Language and Framework)](#언어와-프레임워크)
 - [운영체제(Operating System)](#운영체제)
 - [자료구조(Data Structure)](#자료구조)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
@@ -36,6 +36,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
+- [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
@@ -52,6 +53,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
+- [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - 프록시 서버(Proxy Server)
     - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
@@ -92,6 +94,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
     - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
     - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
+    - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
 - gRPC
     - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
     - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
@@ -100,8 +103,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
     - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - 쿠버네티스(Kubernetes, k8s)
+    - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
     - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
-    - [[Kubernetes] 쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
+    - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
     
 ## 소프트웨어 공학
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
@@ -112,6 +116,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 인프라
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
+- [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
@@ -149,7 +154,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [효율적인 긴 문자열 연산을 위한 Rope 자료구조](http://www.secmem.org/blog/2019/03/09/rope/)
 - [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
-## 언어
+## 언어와 프레임워크
 - 자바(Java)
     - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
@@ -160,6 +165,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
     - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
     - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
+    - 장고(Django)
+        - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
+        - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
 
 ## 인공지능
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
@@ -174,6 +182,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [cgroup 이란?](https://sonseungha.tistory.com/535)
     - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
+    - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
 - 윈도우(Window)
 
 ## 좋은 글들
