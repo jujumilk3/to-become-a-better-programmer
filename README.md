@@ -34,6 +34,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 네트워크
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
+- gRPC
+    - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
+    - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
 - [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
@@ -57,6 +60,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 프록시 서버(Proxy Server)
     - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
+
     
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
@@ -90,22 +94,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91])
 - [Wappalyzer(웹사이트 구성요소를 볼 수 있는 크롬 확장 프로그램)](https://this-programmer.tistory.com/entry/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EB%AD%98%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EC%A7%80-%EC%95%8C-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Wappalyzer?category=772368)
 - [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
-- 깃(Git)
-    - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
-    - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
-    - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
-    - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
-- gRPC
-    - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
-    - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
-- 도커(Docker)
-    - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
-    - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
-    - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
-- 쿠버네티스(Kubernetes, k8s)
-    - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
-    - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
-    - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
+
     
 ## 소프트웨어 공학
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
@@ -116,7 +105,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 인프라
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
-- [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
+- [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
@@ -124,6 +113,31 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
+- CircleCI
+    - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
+- 깃(Git)
+    - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
+    - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
+    - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
+    - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
+    - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
+    - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
+    - [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
+- 깃옵스(Gitops)
+    - [GitOps and Kubernetes](https://kangwoo.kr/2019/12/18/gitops-and-kubernetes/)
+    - [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
+    - [GipOps와 ArgoCD란?](https://gruuuuu.github.io/cloud/argocd-gitops/)
+- 도커(Docker)
+    - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+    - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
+    - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+- 젠킨스(Jenkins)
+    - [[Jenkins] 젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
+    - [[Jenkins] Git과 연동하기](https://yeonyeon.tistory.com/58)
+- 쿠버네티스(Kubernetes, k8s)
+    - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
+    - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
+    - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
 
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
