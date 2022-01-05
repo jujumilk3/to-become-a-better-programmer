@@ -18,6 +18,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 그리고 [내 블로그](https://this-programmer.tistory.com/)에 있는 글들도 이용할 예정이다.
 
 ## 목차
+- [강의(Lecture)](#강의)
 - [네트워크(Network)](#네트워크)
 - [데이터베이스(Database)](#데이터베이스)
 - [디자인패턴(Design Pattern)](#디자인패턴)
@@ -32,11 +33,15 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
 
+## 강의
+- [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
+
 ## 네트워크
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
 - gRPC
     - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
     - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
+    - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
 - [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
@@ -44,6 +49,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
+- [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
 - RestAPI
     - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
     - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
@@ -86,6 +92,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
     
 ## 생산성 향상 도구들
+- [Python용 AWS SDK(Boto3)](https://aws.amazon.com/ko/sdk-for-python/)
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [gitstar-ranking(깃허브 별 개수 랭킹 알려주는 사이트)](https://gitstar-ranking.com)
 - [Graphviz 소개](https://narusas.github.io/2019/01/25/Graphviz.html)
@@ -95,9 +102,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Wappalyzer(웹사이트 구성요소를 볼 수 있는 크롬 확장 프로그램)](https://this-programmer.tistory.com/entry/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EB%AD%98%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EC%A7%80-%EC%95%8C-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Wappalyzer?category=772368)
 - [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
 
-    
 ## 소프트웨어 공학
+- [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
+- [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [프로세스 격리란 무엇입니까?](https://www.netinbag.com/ko/internet/what-is-process-isolation.html)
@@ -116,6 +124,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - CircleCI
     - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
 - 깃(Git)
+    - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
+    - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
     - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
     - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
     - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
@@ -132,9 +142,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
     - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - 젠킨스(Jenkins)
+    - [[Jenkins]Git 연동하기(Git Token 발급 + Jenkins Credential 등록)](https://velog.io/@zzarbttoo/JenkinsGit-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0Git-Token-%EB%B0%9C%EA%B8%89-Jenkins-Credential-%EB%93%B1%EB%A1%9D)
     - [[Jenkins] 젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
     - [[Jenkins] Git과 연동하기](https://yeonyeon.tistory.com/58)
+    - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
+    - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
 - 쿠버네티스(Kubernetes, k8s)
+    - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
     - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
     - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
     - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
@@ -192,6 +206,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데드락(Deadlock, 교착 상태)이란?](https://chanhuiseok.github.io/posts/cs-2/)
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
 - 리눅스(Linux) / 유닉스(Unix)
+    - [[Linux] supervisor를 사용하여 지속적으로 실행해야 하는 프로세스 관리하기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shino1025&logNo=221472860840)
     - [Linux - Namespace 란?](https://galid1.tistory.com/442)
     - [cgroup 이란?](https://sonseungha.tistory.com/535)
     - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
