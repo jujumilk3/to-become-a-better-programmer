@@ -37,11 +37,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
 
 ## 네트워크
+- [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
+- [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
-- gRPC
-    - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
-    - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
-    - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
 - [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
 - [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
@@ -49,30 +47,34 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
-- [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
-- RestAPI
-    - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-    - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
 - [SSO(Single Sign-On)이란?](https://toma0912.tistory.com/75)
 - [TCP/IP의 이해](https://m.blog.naver.com/jhc9639/221411218450?referrerCode=1)
-- 로드밸런싱(Load Balancing)
-    - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
-    - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
 - [브라우저의 렌더링 과정](https://medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%ED%92%88%EA%B2%A9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95-5c01c4158ce)
+- [실시간 스트리밍 프로토콜-RTSP(Real Time Streaming Protocol)란?](https://mingtrace.tistory.com/442)
 - [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+- gRPC
+    - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
+    - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
+    - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
+- RestAPI
+    - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+    - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
+- 로드밸런싱(Load Balancing)
+    - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
+    - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
 - 프록시 서버(Proxy Server)
     - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
     - [프록시 서버란?(2)](https://soul0.tistory.com/230)
 
-    
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
+- [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)
 - [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 - [왜 데이터베이스(DB) 튜닝을 해야할까?](https://travislife.tistory.com/25)
 - [인덱스(index)란?](https://mangkyu.tistory.com/96)
@@ -86,6 +88,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [트랜잭션(transaction)이란?(2)](https://devuna.tistory.com/30)
 - [트리거(Trigger)란?](https://limkydev.tistory.com/154)
 - [효과적인 DB index 설정하기](https://velog.io/@jwpark06/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-DB-index-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- MySQL
+  - [How to bind MySQL server to more than one IP address?](https://serverfault.com/questions/139323/how-to-bind-mysql-server-to-more-than-one-ip-address)
 
 ## 디자인패턴
 - [Design Patterns on python](https://brownbears.tistory.com/category/%EA%B3%B5%EB%B6%80/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
@@ -115,6 +119,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
+- [KOPS로 AWS에 Kubernetes 클러스터 구축하기](https://swalloow.github.io/aws-kops/)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
@@ -148,6 +153,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
     - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
 - 쿠버네티스(Kubernetes, k8s)
+    - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
+    - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
     - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
     - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
     - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
