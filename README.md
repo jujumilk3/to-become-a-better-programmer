@@ -35,6 +35,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
+- InfluxDB
+  - [인플럭스DB(InfluxDB) #1 - 개요 및 특징](https://andro-jinu.tistory.com/14)
+- k8s
+  - https://gurumee92.tistory.com/254?category=957852
 
 ## 네트워크
 - [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
@@ -56,18 +60,18 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - gRPC
-    - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
-    - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
-    - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
+  - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
+  - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
+  - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
 - RestAPI
-    - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
-    - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
+  - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
+  - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
 - 로드밸런싱(Load Balancing)
-    - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
-    - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
+  - [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
+  - [로드밸런싱방식 종류](https://medium.com/@pakss328/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C%EB%9E%80-l4-l7-501fd904cf05)
 - 프록시 서버(Proxy Server)
-    - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
-    - [프록시 서버란?(2)](https://soul0.tistory.com/230)
+  - [프록시 서버란?(1)](https://brownbears.tistory.com/191)
+  - [프록시 서버란?(2)](https://soul0.tistory.com/230)
 
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
@@ -90,6 +94,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [효과적인 DB index 설정하기](https://velog.io/@jwpark06/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-DB-index-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - MySQL
   - [How to bind MySQL server to more than one IP address?](https://serverfault.com/questions/139323/how-to-bind-mysql-server-to-more-than-one-ip-address)
+- Telegraf
+  - [How to Use Custom Telemetry From Telegraf in New Relic One](https://newrelic.com/blog/how-to-relic/how-to-collect-telegraf-metrics)
+  - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
 
 ## 디자인패턴
 - [Design Patterns on python](https://brownbears.tistory.com/category/%EA%B3%B5%EB%B6%80/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
@@ -126,39 +133,43 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
+- Airflow
+  - [[Airflow] 에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)
 - CircleCI
-    - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
-- 깃(Git)
-    - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
-    - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
-    - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
-    - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
-    - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
-    - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
-    - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
-    - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
-    - [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
-- 깃옵스(Gitops)
-    - [GitOps and Kubernetes](https://kangwoo.kr/2019/12/18/gitops-and-kubernetes/)
-    - [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
-    - [GipOps와 ArgoCD란?](https://gruuuuu.github.io/cloud/argocd-gitops/)
-- 도커(Docker)
-    - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
-    - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
-    - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
-- 젠킨스(Jenkins)
-    - [[Jenkins]Git 연동하기(Git Token 발급 + Jenkins Credential 등록)](https://velog.io/@zzarbttoo/JenkinsGit-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0Git-Token-%EB%B0%9C%EA%B8%89-Jenkins-Credential-%EB%93%B1%EB%A1%9D)
-    - [[Jenkins] 젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
-    - [[Jenkins] Git과 연동하기](https://yeonyeon.tistory.com/58)
-    - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
-    - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
-- 쿠버네티스(Kubernetes, k8s)
-    - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
-    - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
-    - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
-    - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
-    - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
-    - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
+  - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
+- Docker
+  - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+  - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
+  - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+- Git
+  - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
+  - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
+  - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
+  - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
+  - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
+  - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
+  - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
+  - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
+  - [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
+- Gitops
+  - [GitOps and Kubernetes](https://kangwoo.kr/2019/12/18/gitops-and-kubernetes/)
+  - [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
+  - [GipOps와 ArgoCD란?](https://gruuuuu.github.io/cloud/argocd-gitops/)
+- Jenkins
+  - [[Jenkins]Git 연동하기(Git Token 발급 + Jenkins Credential 등록)](https://velog.io/@zzarbttoo/JenkinsGit-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0Git-Token-%EB%B0%9C%EA%B8%89-Jenkins-Credential-%EB%93%B1%EB%A1%9D)
+  - [[Jenkins] 젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
+  - [[Jenkins] Git과 연동하기](https://yeonyeon.tistory.com/58)
+  - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
+  - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
+- Kafka
+  - [Kafka란?](https://galid1.tistory.com/793)
+- Kubernetes, k8s
+  - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
+  - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
+  - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
+  - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
+  - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
+  - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
 
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
@@ -191,18 +202,19 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 언어와 프레임워크
 - 자바(Java)
-    - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
+  - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
-    - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
+  - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
 - 파이썬(Python)
-    - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
-    - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
-    - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
-    - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
-    - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
-    - 장고(Django)
-        - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
-        - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
+  - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
+  - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
+  - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
+  - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
+  - [조금 더 체계적인 Python Logging](https://hwangheek.github.io/2019/python-logging/)
+  - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
+  - 장고(Django)
+    - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
+    - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
 
 ## 인공지능
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
@@ -213,12 +225,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데드락(Deadlock, 교착 상태)이란?](https://chanhuiseok.github.io/posts/cs-2/)
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
 - 리눅스(Linux) / 유닉스(Unix)
-    - [[Linux] supervisor를 사용하여 지속적으로 실행해야 하는 프로세스 관리하기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shino1025&logNo=221472860840)
-    - [Linux - Namespace 란?](https://galid1.tistory.com/442)
-    - [cgroup 이란?](https://sonseungha.tistory.com/535)
-    - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
-    - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
-    - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
+  - [cgroup 이란?](https://sonseungha.tistory.com/535)
+  - [[Linux] supervisor를 사용하여 지속적으로 실행해야 하는 프로세스 관리하기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shino1025&logNo=221472860840)
+  - [Linux - Namespace 란?](https://galid1.tistory.com/442)
+  - [NFS서버란 무엇인가?](https://jhnyang.tistory.com/279)
+  - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+  - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
+  - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
 - 윈도우(Window)
 
 ## 좋은 글들
@@ -235,3 +248,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
 - [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
+
+## 유용한 사이트
+- [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
+- [VULTR](https://www.vultr.com/products/cloud-compute/)
+
