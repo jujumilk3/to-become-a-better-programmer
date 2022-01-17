@@ -75,6 +75,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
+- [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
@@ -100,6 +101,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 디자인패턴
 - [Design Patterns on python](https://brownbears.tistory.com/category/%EA%B3%B5%EB%B6%80/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
+- [Monorepo? Yarn Workspace!](https://medium.com/@deptno/monorepo-yarn-workspace-e81e3e078100)
 - [MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
     
 ## 생산성 향상 도구들
@@ -125,8 +127,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 소프트웨어 인프라
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
+- [[ELK] ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [KOPS로 AWS에 Kubernetes 클러스터 구축하기](https://swalloow.github.io/aws-kops/)
+- [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
@@ -162,6 +166,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
   - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
 - Kafka
+  - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
   - [Kafka란?](https://galid1.tistory.com/793)
 - Kubernetes, k8s
   - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
@@ -205,6 +210,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
   - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
+  - 타입스크립트(TypeScript)
+    - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/) 
 - 파이썬(Python)
   - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
   - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
