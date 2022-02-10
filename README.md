@@ -59,6 +59,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+- GraphQL
+  - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
+  - [GraphQL이란 무엇인가요?](https://www.redhat.com/ko/topics/api/what-is-graphql)
 - gRPC
   - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
   - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
