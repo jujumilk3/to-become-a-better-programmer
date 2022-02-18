@@ -39,6 +39,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [인플럭스DB(InfluxDB) #1 - 개요 및 특징](https://andro-jinu.tistory.com/14)
 - k8s
   - https://gurumee92.tistory.com/254?category=957852
+  
+## 기타등등
+- [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
+- [https://devuna.tistory.com/41](https://devuna.tistory.com/41)
 
 ## 네트워크
 - [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
@@ -121,6 +125,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 소프트웨어 공학
 - [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
+- [Coroutine과 Subroutine의 차이](https://kotlinworld.com/214)
+- [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
+- [Coroutine 기초](https://medium.com/@sunminlee89/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-coroutine-%EA%B8%B0%EC%B4%88-1342ae6916ce)
 - [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -170,7 +177,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
 - Kafka
   - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
+  - [Introducing ksqlDB](https://devidea.tistory.com/73)
+  - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
   - [Kafka란?](https://galid1.tistory.com/793)
+  - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
 - Kubernetes, k8s
   - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
   - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
@@ -197,8 +207,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 자료구조
 - [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
-- [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- [Hash, Hashing, Hash Table(해시, 해싱 해시테이블) 자료구조의 이해](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
+- [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
 - [이진 트리](https://thebook.io/007031/part01/ch03/07/01/)
