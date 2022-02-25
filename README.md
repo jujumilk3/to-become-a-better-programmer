@@ -42,7 +42,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   
 ## 기타등등
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
-- [https://devuna.tistory.com/41](https://devuna.tistory.com/41)
+- [Base64이란 무엇일까? / Base64 사용 이유와 인코딩과 디코딩](https://devuna.tistory.com/41)
+- [NVIDIA-SMI 확인방법 및 활용하기](https://kyumdoctor.co.kr/10)
 
 ## 네트워크
 - [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
