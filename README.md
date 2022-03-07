@@ -146,6 +146,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
+- [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
