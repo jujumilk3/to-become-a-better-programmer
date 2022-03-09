@@ -84,7 +84,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 데이터베이스
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
-- [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
+- [Inner Join과 Outer Join 차이점](https://server-engineer.tistory.com/306)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
@@ -131,6 +131,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
 - [Coroutine 기초](https://medium.com/@sunminlee89/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-coroutine-%EA%B8%B0%EC%B4%88-1342ae6916ce)
 - [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
+- [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [프로세스 격리란 무엇입니까?](https://www.netinbag.com/ko/internet/what-is-process-isolation.html)
@@ -138,8 +139,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 인프라
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
-- [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
-- [[ELK] ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
@@ -151,13 +150,21 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - Airflow
   - [[Airflow] 에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)
+- AWS
+  - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
 - CircleCI
   - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
 - Docker
   - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
   - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
   - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+- ElasticSearch
+  - [[ELK] ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+  - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
+  - [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
+  - [macOS에서 ELK stack 구성하기 (elasticksearch)](https://this-programmer.tistory.com/476)
 - Git
+  - [django로 github actions찍먹해보기](https://this-programmer.tistory.com/474) 
   - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
   - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
   - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
@@ -231,6 +238,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - 타입스크립트(TypeScript)
     - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/) 
 - 파이썬(Python)
+  - [[Python] asyncio 파헤치기](https://brownbears.tistory.com/540)
   - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
   - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
   - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
@@ -240,6 +248,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - 장고(Django)
     - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
     - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
+  - FastAPI
+    - [FastAPI Schema를 제대로 다루는 방법](https://this-programmer.tistory.com/471)
 
 ## 인공지능
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
@@ -258,7 +268,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
   - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
   - [리눅스, 유닉스 백그라운드프로세스 방법 정리 (&, bg, nohup, screen)](https://this-programmer.tistory.com/468)
-- 윈도우(Window)
 
 ## 좋은 글들
 - [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
