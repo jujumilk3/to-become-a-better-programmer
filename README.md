@@ -234,6 +234,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 자바(Java)
   - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
+  - [var, let, const 차이점](https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90)
   - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
   - 타입스크립트(TypeScript)
     - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/) 
