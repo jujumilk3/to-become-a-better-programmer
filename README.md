@@ -236,6 +236,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 자바스크립트(Javascript)
   - [var, let, const 차이점](https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90)
   - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
+  - Node.js
+    - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
   - 타입스크립트(TypeScript)
     - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/) 
 - 파이썬(Python)
