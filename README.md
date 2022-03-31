@@ -131,6 +131,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
 - [Coroutine 기초](https://medium.com/@sunminlee89/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-coroutine-%EA%B8%B0%EC%B4%88-1342ae6916ce)
 - [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
+- [고가용성](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
 - [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -172,6 +173,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
   - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
   - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
+  - [맥북에서 GitHub 계정 여러개 사용하는 방법!](https://somjang.tistory.com/entry/%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-GitHub-%EA%B3%84%EC%A0%95-%EC%97%AC%EB%9F%AC%EA%B0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
   - [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
 - Gitops
@@ -192,6 +194,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
 - Kubernetes, k8s
   - [AWS에 kops로 쿠버네티스 클러스터 구축하기](https://twofootdog.tistory.com/43#:~:text=1.%20kops%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80,%EC%82%AD%EC%A0%9C%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%A7%80%EC%9B%90%ED%95%9C%EB%8B%A4.)
+  - [[K8S] Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
   - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
   - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
   - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
