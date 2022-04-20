@@ -32,6 +32,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [자료구조(Data Structure)](#자료구조)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
+- [유용한 사이트 & 블로그(Good sites & blogs)](#유용한-사이트-&-블로그)
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
@@ -58,6 +59,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
 - [SSO(Single Sign-On)이란?](https://toma0912.tistory.com/75)
 - [TCP/IP의 이해](https://m.blog.naver.com/jhc9639/221411218450?referrerCode=1)
+- [TLS (Transport Layer Security)](https://brownbears.tistory.com/402)
 - [브라우저의 렌더링 과정](https://medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%ED%92%88%EA%B2%A9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95-5c01c4158ce)
 - [실시간 스트리밍 프로토콜-RTSP(Real Time Streaming Protocol)란?](https://mingtrace.tistory.com/442)
 - [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
@@ -125,6 +127,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
 
 ## 소프트웨어 공학
+- [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
+- [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 - [Coroutine과 Subroutine의 차이](https://kotlinworld.com/214)
@@ -139,34 +143,67 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 ## 소프트웨어 인프라
+- [datadog integrations](https://docs.datadoghq.com/integrations/#all)
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
+- [마이크로서비스 인증/인가 패턴](https://engineering-skcc.github.io/microservice%20outer%20achitecture/outer-arch-Auth/)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
+- [안정적인 운영을 완성하는 모니터링, 프로메테우스와 그라파나](https://velog.io/@moey920/%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
 - [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - Airflow
+  - [Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
+  - [Airflow란?](https://velog.io/@jjongbumeee/Airflow1)
+  - [Airflow vs. Kubeflow](https://velog.io/@rhee519/airflow-vs-kubeflow)
   - [[Airflow] 에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)
+  - [Apache 에어플로우(Airflow) 시작하기 - Airflow란?](https://lsjsj92.tistory.com/631)
+  - [DAG가 뭔가요?](https://bossm0n5t3r.github.io/posts/71/)
+  - [Helm Chart for Apache Airflow](https://airflow.apache.org/docs/helm-chart/stable/index.html)
+  - [Kubeflow vs Airflow – Which is Better For Your Business: 4 Critical Differences](https://hevodata.com/learn/kubeflow-vs-airflow/)
 - AWS
   - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
+  - [Mac OS에 AWS Cli 설정하기](https://longtermsad.tistory.com/13)
 - CircleCI
   - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
 - Docker
+  - [Docker container가 localhost를 볼 수 있게 하는 방법](https://this-programmer.tistory.com/494)
+  - [docker, cronjob 하는 container 만들기 + supervisor, 환경변수 적용하기](https://this-programmer.tistory.com/488)
+  - [Podman 소개](https://dejavuhyo.github.io/posts/podman/)
   - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
   - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
   - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - ElasticSearch
+  - [CRUD - 입력, 조회, 수정, 삭제](https://esbook.kimjmin.net/04-data/4.2-crud)
+  - [EFK Stack 구성](http://www.iorchard.net/2019/06/17/efk_stack_%EA%B5%AC%EC%84%B1.html)
   - [[ELK] ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+  - [Elasticsearch-Kibana를 이용한 로그 모니터링 (1)](https://gintrie.tistory.com/45?category=389204)
+  - [Elasticsearch에 fluentd를 얹은 EFK stack 구축하기(with kubernetes)](https://nangman14.tistory.com/68)
   - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
   - [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
+  - [Using ElasticSearch, Fluentd and Kibana (for log aggregation)](https://technology.amis.nl/continuous-delivery/containers/using-elasticsearch-fluentd-and-kibana-for-log-aggregation/)
   - [macOS에서 ELK stack 구성하기 (elasticksearch)](https://this-programmer.tistory.com/476)
+  - [엘라스틱서치로 파이썬(Python) 어플의 구조화 로깅(Structured Logging) 구현하기 (1)](https://blog.naver.com/olpaemi/221967869387)
+- FluentD
+  - [Fluentd(td-agent) 설치 및 실행 방법](https://jangseongwoo.github.io/fluentd/fluentd_install/)
+  - [Fluentd + Elasticsearch + Kibana EFK Stack 구축하기](https://smoh.tistory.com/415)
+  - [Fluentd(td-agent) output plugin](https://jangseongwoo.github.io/fluentd/fluentd_output_plugin_operation_check/)
+  - [[Fluentd] 로그 수집 패턴, Fluentd 개념 정리](https://nyyang.tistory.com/120)
+  - [[FluentD] FluentD 설치 및 실행 방법](https://jinseongsoft.tistory.com/339)
+  - [Fluentd란?](https://velog.io/@seho100/Fluentd%EB%9E%80)
+  - [[Fluentd]를 이용한 로그 수집 -1.Fluentd란?](https://dev-life.tistory.com/2)
+  - [Fluentd 와 LogStash 비교](https://grip.news/archives/1340)
+  - [Fluentd 의 활용. ElasticSearch, Kibana 을 사용한 Nginx Log 수집](https://grip.news/archives/1344)
+  - [Kuberentes 에서 fluentd + elasticsearch 연동하기](https://ksr930.tistory.com/146)
 - Git
   - [django로 github actions찍먹해보기](https://this-programmer.tistory.com/474) 
   - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
+  - [github actions로 자동 1일 1커밋 봇 만들기](https://this-programmer.tistory.com/490)
+  - [Github Action을 마켓에 등록해보자](https://medium.com/jung-han/github-action%EC%9D%84-%EB%A7%88%EC%BC%93%EC%97%90-%EB%93%B1%EB%A1%9D%ED%95%B4%EB%B3%B4%EC%9E%90-7a181a0b4a8f)
   - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
   - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
   - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
@@ -181,10 +218,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [GitOps란?](https://www.redhat.com/ko/topics/devops/what-is-gitops)
   - [GipOps와 ArgoCD란?](https://gruuuuu.github.io/cloud/argocd-gitops/)
 - Jenkins
-  - [[Jenkins]Git 연동하기(Git Token 발급 + Jenkins Credential 등록)](https://velog.io/@zzarbttoo/JenkinsGit-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0Git-Token-%EB%B0%9C%EA%B8%89-Jenkins-Credential-%EB%93%B1%EB%A1%9D)
+  - [[Jenkins]Git 연동하기(Git Token 발급 + Jenkins Credential 등록)](https://velog.io/@zzarbttoo/JenkinsGit-%EC%97%B0https://velog.io/@jay2u8809/Crontab%ED%81%AC%EB%A1%A0%ED%83%AD-%EC%8B%9C%EA%B0%84-%EC%84%A4%EC%A0%95%EB%8F%99%ED%95%98%EA%B8%B0Git-Token-%EB%B0%9C%EA%B8%89-Jenkins-Credential-%EB%93%B1%EB%A1%9D)
   - [[Jenkins] 젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
   - [[Jenkins] Git과 연동하기](https://yeonyeon.tistory.com/58)
   - [[Jenkins] [github] Jenkins와 github 연동하기](https://goddaehee.tistory.com/258)
+  - [[Jenkins] Jenkins와 Github로 CI 구성하기(Blue Ocean)](https://velog.io/@solchan/Jenkins-Jenkins%EC%99%80-Github%EB%A1%9C-CI-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
   - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
 - Kafka
   - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
@@ -192,15 +230,37 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
   - [Kafka란?](https://galid1.tistory.com/793)
   - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
+- Kubeflow
+  - [Airflow vs. Kubeflow](https://velog.io/@rhee519/airflow-vs-kubeflow)
+  - [Kubeflow vs Airflow – Which is Better For Your Business: 4 Critical Differences](https://hevodata.com/learn/kubeflow-vs-airflow/)
 - Kubernetes, k8s
+  - [Affinity & NodeSelector 사용하기](https://aws-diary.tistory.com/123)
   - [AWS에 kops로 쿠버네티스 클러스터 구축하기](https://twofootdog.tistory.com/43#:~:text=1.%20kops%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80,%EC%82%AD%EC%A0%9C%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%A7%80%EC%9B%90%ED%95%9C%EB%8B%A4.)
+  - [Calico CNI 동작원리 이해하기](https://velog.io/@200ok/Kubernetes-Calico-CNI-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+  - [Hello Minikube](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
+  - [Helm 이란?](https://tech.ktcloud.com/51)
+  - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
+  - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
+  - [Job/CronJob](https://kimjingo.tistory.com/135)
   - [[K8S] Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
+  - [kubectl 개요](https://kubernetes.io/ko/docs/reference/kubectl/overview/)
   - [[Kubernetes] ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
   - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
-  - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
+  - [Kubernetes 좀 더 잘 이해하기](https://suhwan.dev/2019/04/22/understanding-kubernetes-design/)
+  - [Kubernetes 환경에 affinity, anti-affinity 적용하기](https://malgogi-developer.tistory.com/32)
+  - [Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
   - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
+  - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
+  - [쿠버네티스 컴포넌트](https://kubernetes.io/ko/docs/concepts/overview/components/)
   - [쿠버네티스 Ingress 개념 및 적용방법](https://twofootdog.tistory.com/23)
   - [쿠버네티스 - 매니페스트, YAML파일, 파드(manifest, YAML 파일, pod)](https://blog.naver.com/PostView.naver?blogId=ghdalswl77&logNo=222388293445&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search)
+  - [파드 라이프사이클](https://kubernetes.io/ko/docs/concepts/workloads/pods/pod-lifecycle/)
+  - [프라이빗 레지스트리에서 이미지 받아오기](https://kubernetes.io/ko/docs/tasks/configure-pod-container/pull-image-private-registry/)
+- Prometheus
+  - [MySQL 데이터 모니터링 – Prometheus MySQL Expoter](http://mysqldbadmtech.blogspot.com/2016/12/pmm-180-mysql-prometheus-mysql-exporter.html)
+  - [Prometheus란?](https://medium.com/finda-tech/prometheus%EB%9E%80-cf52c9a8785f)
+  - [Prometheus란 무엇인가](https://gurumee92.tistory.com/220)
+  - [Prometheus and Grafana setup in Minikube](https://blog.marcnuri.com/prometheus-grafana-setup-minikube)
 
 ## 알고리즘
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
@@ -234,6 +294,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
 ## 언어와 프레임워크
+- 고(go)
+  - [Go언어로 나만의 Query Exporter 만들어보기!](https://gywn.net/2021/07/make-own-query-exporter-with-go/)
+  - [Go CLI - Go Developer Road Map](https://earntrust.tistory.com/entry/gdrm-go-cli)
+  - [Go: flag 패키지로 CLI 도구 만들기](https://pronist.dev/97)
+- 쉘 스크립트(shell script)
+  - [Bash 실행결과를 변수에 담기](https://zetawiki.com/wiki/Bash_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EB%A5%BC_%EB%B3%80%EC%88%98%EC%97%90_%EB%8B%B4%EA%B8%B0)
 - 자바(Java)
   - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
@@ -244,8 +310,15 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - 타입스크립트(TypeScript)
     - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/) 
 - 파이썬(Python)
+  - [A guide to logging in Python](https://www.bloomberg.com/company/stories/guide-logging-python/)
+  - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
+  - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
   - [[Python] asyncio 파헤치기](https://brownbears.tistory.com/540)
+  - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
+  - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
   - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
+  - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
+  - [Pytorch weight 저장에 대해 우리가 알아야하는 모든 것](https://comlini8-8.tistory.com/50)
   - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
   - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
   - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
@@ -276,6 +349,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [리눅스, 유닉스 백그라운드프로세스 방법 정리 (&, bg, nohup, screen)](https://this-programmer.tistory.com/468)
 
 ## 좋은 글들
+- [APM (Application Performance management)](https://blog.daum.net/ossogood/8435674)
 - [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
@@ -290,7 +364,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
 - [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
 
-## 유용한 사이트
+## 유용한 사이트 & 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
+- [Tech At Bloomberg](https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
-
+- [구르미의 개발 이야기](https://gurumee92.tistory.com/)
+- [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
