@@ -38,7 +38,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - InfluxDB
   - [인플럭스DB(InfluxDB) #1 - 개요 및 특징](https://andro-jinu.tistory.com/14)
 - k8s
-  - https://gurumee92.tistory.com/254?category=957852
+  - [도커와 쿠버네티스 시작하기](https://gurumee92.tistory.com/254?category=957852)
   
 ## 기타등등
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
