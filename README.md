@@ -36,6 +36,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
+- SE
+  - [IT 기술 노트](https://wikidocs.net/book/2184)
+- golang
+  - [Go를 향한 여행](https://go-tour-ko.appspot.com/list)
+  - [가장 빨리 만나는 Go 언어](http://pyrasis.com/go.html)
+  - [예제로 배우는 Go 프로그래밍](http://golang.site/)
 - InfluxDB
   - [인플럭스DB(InfluxDB) #1 - 개요 및 특징](https://andro-jinu.tistory.com/14)
 - k8s
@@ -307,9 +313,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 언어와 프레임워크
 - 고(go)
+  - [Defer, Panic, and Recover](https://go.dev/blog/defer-panic-and-recover)
+  - [Golang 에서의 명명 규칙](https://blog.billo.io/devposts/golang_naming_convention/)
   - [Go언어로 나만의 Query Exporter 만들어보기!](https://gywn.net/2021/07/make-own-query-exporter-with-go/)
   - [Go CLI - Go Developer Road Map](https://earntrust.tistory.com/entry/gdrm-go-cli)
   - [Go: flag 패키지로 CLI 도구 만들기](https://pronist.dev/97)
+  - [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://byounghoonkim.github.io/posts/2020-06-27-go-project-layout/)
 - 쉘 스크립트(shell script)
   - [Bash 실행결과를 변수에 담기](https://zetawiki.com/wiki/Bash_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EB%A5%BC_%EB%B3%80%EC%88%98%EC%97%90_%EB%8B%B4%EA%B8%B0)
 - 자바(Java)
@@ -381,6 +390,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 유용한 사이트 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [Tech At Bloomberg](https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/)
+- [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
 - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
 - [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
