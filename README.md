@@ -24,6 +24,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [디자인패턴(Design Pattern)](#디자인패턴)
 - [생산성 향상 도구들(Utilities)](#생산성-향상-도구들)
 - [소프트웨어 공학(Software engineering)](#소프트웨어-공학)
+- [소프트웨어 아키텍쳐(Software architecture)](#소프트웨어-아키텍쳐)
 - [소프트웨어 인프라(Software infrastructure)](#소프트웨어-인프라)
 - [알고리즘(Algorithm)](#알고리즘)
 - [인공지능(Artificial Intelligence)](#인공지능)
@@ -32,7 +33,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [자료구조(Data Structure)](#자료구조)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
-- [유용한 사이트 & 블로그(Good sites & blogs)](#유용한-사이트-블로그)
+- [유용한 사이트 & 블로그(Good sites & blogs)](#유용한-사이트-혹은-블로그)
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
@@ -96,6 +97,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
+- [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91])
 - [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)
 - [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 - [왜 데이터베이스(DB) 튜닝을 해야할까?](https://travislife.tistory.com/25)
@@ -122,13 +124,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
     
 ## 생산성 향상 도구들
-- [Python용 AWS SDK(Boto3)](https://aws.amazon.com/ko/sdk-for-python/)
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [gitstar-ranking(깃허브 별 개수 랭킹 알려주는 사이트)](https://gitstar-ranking.com)
 - [Graphviz 소개](https://narusas.github.io/2019/01/25/Graphviz.html)
+- [JSON to YAML](https://www.json2yaml.com/)
 - [POSTMAN과 JSON Placeholder(JSON을 테스트하는 가장 좋은 방법)](https://this-programmer.tistory.com/entry/JSON%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EB%B0%A9%EB%B2%95-POSTMAN%EA%B3%BC-JSON-Placeholder?category=767889)
+- [Python용 AWS SDK(Boto3)](https://aws.amazon.com/ko/sdk-for-python/)
 - [regex101.com(정규식 짤 때 도움되는 사이트)](https://this-programmer.tistory.com/entry/%EC%A0%95%EA%B7%9C%EC%8B%9D-%EC%A7%A4-%EB%95%8C-%EC%97%84%EC%B2%AD%EB%82%98%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-regex101com?category=772368)
-- [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91])
 - [Wappalyzer(웹사이트 구성요소를 볼 수 있는 크롬 확장 프로그램)](https://this-programmer.tistory.com/entry/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EB%AD%98%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EC%A7%80-%EC%95%8C-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Wappalyzer?category=772368)
 - [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
 
@@ -147,6 +149,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [프로세스 격리란 무엇입니까?](https://www.netinbag.com/ko/internet/what-is-process-isolation.html)
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+## 소프트웨어 아키텍쳐
+- 리액티브 프로그래밍(Reactive Programming)
+  - [사용하면서 알게 된 Reactor, 예제 코드로 살펴보기](https://tech.kakao.com/2018/05/29/reactor-programming/)
+  - [Reactive Programming 101 : 리액티브 프로그래밍이 뭔가요](https://juneyr.dev/reactive-programming)
+  - [ReactiveX](https://reactivex.io/)
 
 ## 소프트웨어 인프라
 - [ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
@@ -302,6 +310,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Hash, Hashing, Hash Table(해시, 해싱 해시테이블) 자료구조의 이해](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
 - [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- [YAML](https://ko.wikipedia.org/wiki/YAML)
+- [YAML이란?](https://www.redhat.com/ko/topics/automation/what-is-yaml)
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
 - [이진 트리](https://thebook.io/007031/part01/ch03/07/01/)
@@ -390,10 +400,17 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
 - [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
 
-## 유용한 사이트 블로그
+## 유용한 사이트 혹은 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
-- [Tech At Bloomberg](https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/)
+- [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
-- [구르미의 개발 이야기](https://gurumee92.tistory.com/)
-- [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
+- 개발자 블로그
+  - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
+- 기업 테크 블로그
+  - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
+  - [카카오 테크](https://tech.kakao.com/)
+  - [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
+  - [SOCAR Tech Blog](https://tech.socarcorp.kr/)
+  - [spoqa 기술 블로그](https://spoqa.github.io/)
+  - [Tech At Bloomberg](https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/)
