@@ -267,6 +267,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Hello Minikube](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
   - [Helm 이란?](https://tech.ktcloud.com/51)
   - [How To Manage Your Kubernetes Configurations with Kustomize](https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize)
+  - [Istio 🌶️ 트래픽 흐름 Life of a packet](https://www.notion.so/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
   - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
   - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
   - [Job/CronJob](https://kimjingo.tistory.com/135)
@@ -412,6 +413,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 기업 테크 블로그
   - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
   - [카카오 테크](https://tech.kakao.com/)
+  - [CloudNet@ Blog](https://www.notion.so/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
   - [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
   - [SOCAR Tech Blog](https://tech.socarcorp.kr/)
   - [spoqa 기술 블로그](https://spoqa.github.io/)
