@@ -154,9 +154,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 아키텍쳐
 - 리액티브 프로그래밍(Reactive Programming)
+  - [리액티브 프로그래밍 (Reactive Programming) RxJava](https://coding-food-court.tistory.com/136)
   - [사용하면서 알게 된 Reactor, 예제 코드로 살펴보기](https://tech.kakao.com/2018/05/29/reactor-programming/)
+  - [왕초보를 위한 <Reactive programming이 뭔지 알기 전에>](https://zeddios.tistory.com/m/303)
   - [Reactive Programming 101 : 리액티브 프로그래밍이 뭔가요](https://juneyr.dev/reactive-programming)
   - [ReactiveX](https://reactivex.io/)
+  - [[RxPy] Reactive Programming? Rx? 그게뭐야?](https://jay-ji.tistory.com/56)
 
 ## 소프트웨어 인프라
 - [ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
@@ -238,6 +241,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
   - [맥북에서 GitHub 계정 여러개 사용하는 방법!](https://somjang.tistory.com/entry/%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-GitHub-%EA%B3%84%EC%A0%95-%EC%97%AC%EB%9F%AC%EA%B0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   - [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
+  - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
   - [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
   - [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530/)
 - Gitops
