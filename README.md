@@ -136,6 +136,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Helm Chart for Apache Airflow](https://airflow.apache.org/docs/helm-chart/stable/index.html)
   - [How to run conditional task in Airflow with previous http operator requested value](https://stackoverflow.com/questions/57097620/how-to-run-conditional-task-in-airflow-with-previous-http-operator-requested-val)
   - [Kubeflow vs Airflow – Which is Better For Your Business: 4 Critical Differences](https://hevodata.com/learn/kubeflow-vs-airflow/)
+  - [Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) – 1](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/)
+  - [Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) – 2](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
   - [SimpleHTTPOperator in Apache Airflow](https://dzone.com/articles/simplehttpoperator-in-apache-airflow)
   - [에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)
 - Kubeflow
