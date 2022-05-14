@@ -201,6 +201,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - AWS
   - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
+  - [CloudWatch 에이전트를 사용하여 Amazon EC2 인스턴스 및 온프레미스 서버에서 지표 및 로그 수집](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
   - [Mac OS에 AWS Cli 설정하기](https://longtermsad.tistory.com/13)
 - CircleCI
   - [CircleCI 맛보기](https://velog.io/@priveate/CircleCI-%EB%A7%9B%EB%B3%B4%EA%B8%B0)
@@ -215,8 +216,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - DVC (Data Version Control)
   - [DVC - (1) Data Management](https://dong-life.tistory.com/33)
+  - [DVC(Data Version Control) with Docker](https://visionhong.tistory.com/37?category=946471)
   - [DVC(Data Version Control) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163379)
   - [The ultimate guide to building maintainable Machine Learning pipelines using DVC](https://towardsdatascience.com/the-ultimate-guide-to-building-maintainable-machine-learning-pipelines-using-dvc-a976907b2a1b)
+  - [Versioning data and models in ML projects using DVC and AWS S3](https://medium.com/analytics-vidhya/versioning-data-and-models-in-ml-projects-using-dvc-and-aws-s3-286e664a7209)
 - ElasticSearch
   - [CRUD - 입력, 조회, 수정, 삭제](https://esbook.kimjmin.net/04-data/4.2-crud)
   - [EFK Stack 구성](http://www.iorchard.net/2019/06/17/efk_stack_%EA%B5%AC%EC%84%B1.html)
@@ -274,10 +277,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
   - [Kafka란?](https://galid1.tistory.com/793)
   - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
+  - [Mac에 카프카 설치하고 실행해보기!](https://somjang.tistory.com/entry/Kafka-Mac%EC%97%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
 - Kubernetes, k8s
   - [Affinity & NodeSelector 사용하기](https://aws-diary.tistory.com/123)
   - [AWS에 kops로 쿠버네티스 클러스터 구축하기](https://twofootdog.tistory.com/43#:~:text=1.%20kops%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80,%EC%82%AD%EC%A0%9C%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%A7%80%EC%9B%90%ED%95%9C%EB%8B%A4.)
   - [Calico CNI 동작원리 이해하기](https://velog.io/@200ok/Kubernetes-Calico-CNI-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+  - [HA(High Availability) 구성 - master node](https://psnote.tistory.com/210)
   - [Hello Minikube](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
   - [Helm 이란?](https://tech.ktcloud.com/51)
   - [How To Manage Your Kubernetes Configurations with Kustomize](https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize)
