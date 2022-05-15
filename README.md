@@ -48,6 +48,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [인플럭스DB(InfluxDB) #1 - 개요 및 특징](https://andro-jinu.tistory.com/14)
 - k8s
   - [도커와 쿠버네티스 시작하기](https://gurumee92.tistory.com/254?category=957852)
+- OpenCV
+  - [OpenCV - 1. 파이썬으로 만드는 OpenCV 프로젝트](https://bkshin.tistory.com/entry/OpenCV-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-OpenCV-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?category=1148027)
 - SE
   - [IT 기술 노트](https://wikidocs.net/book/2184)
   
