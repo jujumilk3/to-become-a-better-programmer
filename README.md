@@ -179,6 +179,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 ## 소프트웨어 아키텍쳐
+- [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - 리액티브 프로그래밍(Reactive Programming)
   - [Reactive Programming 101 : 리액티브 프로그래밍이 뭔가요](https://juneyr.dev/reactive-programming)
   - [ReactiveX](https://reactivex.io/)
@@ -371,6 +372,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
   - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
   - [asyncio 파헤치기](https://brownbears.tistory.com/540)
+  - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
   - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
   - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
   - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
@@ -381,13 +383,16 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
   - [조금 더 체계적인 Python Logging](https://hwangheek.github.io/2019/python-logging/)
   - [튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
+  - [파이썬 세 개의 점, ELLIPSIS 객체는 무엇인가요?](https://tech.madup.com/python-ellipsis/)
   - [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
   - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
   - 장고(Django)
     - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
     - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
   - FastAPI
+    - [Dependency Injector를 이용한 의존성 관리](https://blog.neonkid.xyz/279?category=434025#)
     - [FastAPI Schema를 제대로 다루는 방법](https://this-programmer.tistory.com/471)
+    - [FastAPI + SQLAlchemy example](https://python-dependency-injector.ets-labs.org/examples/fastapi-sqlalchemy.html)
 
 ## 인공지능
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
@@ -430,9 +435,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
 - 개발자 블로그
+  - [N.K LAB](https://blog.neonkid.xyz/)
   - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
 - 기업 테크 블로그
   - [CloudNet@ Blog](https://www.notion.so/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
+  - [MADTECH](https://tech.madup.com/)
   - [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
   - [SOCAR Tech Blog](https://tech.socarcorp.kr/)
   - [spoqa 기술 블로그](https://spoqa.github.io/)
