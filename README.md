@@ -278,6 +278,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - Kafka
   - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
   - [Introducing ksqlDB](https://devidea.tistory.com/73)
+  - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
   - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
   - [Kafka란?](https://galid1.tistory.com/793)
   - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
