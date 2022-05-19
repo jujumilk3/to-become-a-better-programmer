@@ -80,6 +80,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+- [프록시(proxy)란, forward proxy와 reverse proxy](https://sujinhope.github.io/2021/06/13/Network-%ED%94%84%EB%A1%9D%EC%8B%9C(Proxy)%EB%9E%80,-Forward-Proxy%EC%99%80-Reverse-Proxy.html)
 - GraphQL
   - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
   - [GraphQL이란 무엇인가요?](https://www.redhat.com/ko/topics/api/what-is-graphql)
@@ -87,6 +88,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Google Protobuf 정리 내용 및 사용방법](https://jins-dev.tistory.com/entry/Google-Protobuf-%EC%A0%95%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95)
   - [gRPC 1 - gRPC란?](https://chacha95.github.io/2020-06-15-gRPC1/)
   - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
+- nginx
+  - [nginx로 로드밸런싱 하기](https://kamang-it.tistory.com/entry/WebServernginxnginx%EB%A1%9C-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1-%ED%95%98%EA%B8%B0)
 - RestAPI
   - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
   - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
@@ -174,6 +177,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+- [『프로그래밍 언어 속 타입』(가제) 책 소개](https://blog.hjaem.info/2)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [프로세스 격리란 무엇입니까?](https://www.netinbag.com/ko/internet/what-is-process-isolation.html)
 - [함수(function)와 메소드(method)의 차이](https://this-programmer.tistory.com/entry/%ED%95%A8%EC%88%98Function%EC%99%80-%EB%A9%94%EC%86%8C%EB%93%9CMethod%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -187,6 +191,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [리액티브 프로그래밍 (Reactive Programming) RxJava](https://coding-food-court.tistory.com/136)
   - [사용하면서 알게 된 Reactor, 예제 코드로 살펴보기](https://tech.kakao.com/2018/05/29/reactor-programming/)
   - [왕초보를 위한 <Reactive programming이 뭔지 알기 전에>](https://zeddios.tistory.com/m/303)
+- 함수형 프로그래밍(Functional Programming)
+  - [모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
 
 ## 소프트웨어 인프라
 - [ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
@@ -378,11 +384,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
   - [asyncio 파헤치기](https://brownbears.tistory.com/540)
   - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
+  - [[pytest] python 코드를 테스트 해봅시다. (Feat. Fixture)](https://binux.tistory.com/47)
   - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
   - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
   - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
   - [Pytorch weight 저장에 대해 우리가 알아야하는 모든 것](https://comlini8-8.tistory.com/50)
   - [Tool for generating SQLAlchemy queries from JSON-esque values?](https://stackoverflow.com/questions/10342700/tool-for-generating-sqlalchemy-queries-from-json-esque-values)
+  - [Understand 5 Scopes of Pytest Fixtures](https://betterprogramming.pub/understand-5-scopes-of-pytest-fixtures-1b607b5c19ed)
   - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
   - [제네레이터(generator)란?(1)](https://bluese05.tistory.com/56)
   - [제네레이터(generator)란?(2)](https://wikidocs.net/16069)
@@ -396,6 +404,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
   - FastAPI
     - [Dependency Injector를 이용한 의존성 관리](https://blog.neonkid.xyz/279?category=434025#)
+    - [Dependency Injector + FastAPI + SQLAlchemy example](https://python-dependency-injector.ets-labs.org/examples/fastapi-sqlalchemy.html)
     - [FastAPI Schema를 제대로 다루는 방법](https://this-programmer.tistory.com/471)
     - [FastAPI + SQLAlchemy example](https://python-dependency-injector.ets-labs.org/examples/fastapi-sqlalchemy.html)
 
@@ -449,5 +458,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [SOCAR Tech Blog](https://tech.socarcorp.kr/)
   - [spoqa 기술 블로그](https://spoqa.github.io/)
   - [Tech At Bloomberg](https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/)
+  - [Dable Tech Blog](https://teamdable.github.io/techblog/)
   - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
   - [카카오 테크](https://tech.kakao.com/)
