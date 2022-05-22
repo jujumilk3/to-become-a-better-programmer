@@ -40,6 +40,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
 - Airflow
   - [Airflow란?](https://dydwnsekd.tistory.com/27?category=897626)
+- Elixir
+  - [엘릭서 스쿨(공식)](https://elixirschool.com/ko/lessons/basics/basics)
+  - [함수형 프로그래밍 언어 : Elixir](https://www.bitzflex.com/2)
 - golang
   - [Go를 향한 여행](https://go-tour-ko.appspot.com/list)
   - [가장 빨리 만나는 Go 언어](http://pyrasis.com/go.html)
@@ -370,6 +373,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://byounghoonkim.github.io/posts/2020-06-27-go-project-layout/)
 - 쉘 스크립트(shell script)
   - [Bash 실행결과를 변수에 담기](https://zetawiki.com/wiki/Bash_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EB%A5%BC_%EB%B3%80%EC%88%98%EC%97%90_%EB%8B%B4%EA%B8%B0)
+- 엘릭서(Elixir)
+  - [Elixir(엘릭서) 동시성 프로그래밍 - 1. 경량 프로세스](https://velog.io/@gudrb33333/Elixir%EC%97%98%EB%A6%AD%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1.-%EA%B2%BD%EB%9F%89-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 - 자바(Java)
   - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
