@@ -34,6 +34,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [자료구조(Data Structure)](#자료구조)
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
+- [컴퓨터 비전(Computer vision)](#컴퓨터-비전)  
 - [유용한 사이트 & 블로그(Good sites & blogs)](#유용한-사이트-혹은-블로그)
 
 ## 강의
@@ -125,6 +126,19 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [트랜잭션(transaction)이란?(2)](https://devuna.tistory.com/30)
 - [트리거(Trigger)란?](https://limkydev.tistory.com/154)
 - [효과적인 DB index 설정하기](https://velog.io/@jwpark06/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-DB-index-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- ElasticSearch
+  - [CRUD - 입력, 조회, 수정, 삭제](https://esbook.kimjmin.net/04-data/4.2-crud)
+  - [EFK Stack 구성](http://www.iorchard.net/2019/06/17/efk_stack_%EA%B5%AC%EC%84%B1.html)
+  - [ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+  - [Elasticsearch-Kibana를 이용한 로그 모니터링 (1)](https://gintrie.tistory.com/45?category=389204)
+  - [Elasticsearch에 fluentd를 얹은 EFK stack 구축하기(with kubernetes)](https://nangman14.tistory.com/68)
+  - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
+  - [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
+  - [fuzzy 알고리즘 (무엇을 찾고 있는가?)](https://knight76.tistory.com/entry/elasticsearch-fuzzy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%B0%BE%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
+  - [Using ElasticSearch, Fluentd and Kibana (for log aggregation)](https://technology.amis.nl/continuous-delivery/containers/using-elasticsearch-fluentd-and-kibana-for-log-aggregation/)
+  - [macOS에서 ELK stack 구성하기 (elasticksearch)](https://this-programmer.tistory.com/476)
+  - [엘라스틱서치로 파이썬(Python) 어플의 구조화 로깅(Structured Logging) 구현하기 (1)](https://blog.naver.com/olpaemi/221967869387)
+  - [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 - MySQL
   - [How to bind MySQL server to more than one IP address?](https://serverfault.com/questions/139323/how-to-bind-mysql-server-to-more-than-one-ip-address)
 - Telegraf
@@ -210,6 +224,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [안정적인 운영을 완성하는 모니터링, 프로메테우스와 그라파나](https://velog.io/@moey920/%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
+- [페일오버(Failover)란 무엇인가](https://oriyong.tistory.com/80)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - AWS
@@ -233,18 +248,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [DVC(Data Version Control) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163379)
   - [The ultimate guide to building maintainable Machine Learning pipelines using DVC](https://towardsdatascience.com/the-ultimate-guide-to-building-maintainable-machine-learning-pipelines-using-dvc-a976907b2a1b)
   - [Versioning data and models in ML projects using DVC and AWS S3](https://medium.com/analytics-vidhya/versioning-data-and-models-in-ml-projects-using-dvc-and-aws-s3-286e664a7209)
-- ElasticSearch
-  - [CRUD - 입력, 조회, 수정, 삭제](https://esbook.kimjmin.net/04-data/4.2-crud)
-  - [EFK Stack 구성](http://www.iorchard.net/2019/06/17/efk_stack_%EA%B5%AC%EC%84%B1.html)
-  - [ELK Stack 이란? 소개, 정의](https://velog.io/@holidenty/ELK-ELK-Stack-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
-  - [Elasticsearch-Kibana를 이용한 로그 모니터링 (1)](https://gintrie.tistory.com/45?category=389204)
-  - [Elasticsearch에 fluentd를 얹은 EFK stack 구축하기(with kubernetes)](https://nangman14.tistory.com/68)
-  - [ELK 스택](https://aws.amazon.com/ko/opensearch-service/the-elk-stack/)
-  - [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
-  - [fuzzy 알고리즘 (무엇을 찾고 있는가?)](https://knight76.tistory.com/entry/elasticsearch-fuzzy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%B0%BE%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
-  - [Using ElasticSearch, Fluentd and Kibana (for log aggregation)](https://technology.amis.nl/continuous-delivery/containers/using-elasticsearch-fluentd-and-kibana-for-log-aggregation/)
-  - [macOS에서 ELK stack 구성하기 (elasticksearch)](https://this-programmer.tistory.com/476)
-  - [엘라스틱서치로 파이썬(Python) 어플의 구조화 로깅(Structured Logging) 구현하기 (1)](https://blog.naver.com/olpaemi/221967869387)
 - FluentD
   - [Fluentd(td-agent) 설치 및 실행 방법](https://jangseongwoo.github.io/fluentd/fluentd_install/)
   - [Fluentd + Elasticsearch + Kibana EFK Stack 구축하기](https://smoh.tistory.com/415)
@@ -341,6 +344,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [정렬 알고리즘](https://namu.wiki/w/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [정렬 알고리즘 비교](https://ratsgo.github.io/data%20structure&algorithm/2017/10/19/sort/)
 - [탐욕법(Greedy Algorithm)과 그 종류](https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Greedy-Algorithm-%ED%83%90%EC%9A%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [퍼지 문자열 검색(Fuzzy string search)](https://juggernaut.tistory.com/entry/%ED%8D%BC%EC%A7%80-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%80%EC%83%89Fuzzy-string-search)
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 - [해시 함수](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98)
 
@@ -449,6 +453,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
 - [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
+
+## 컴퓨터 비전
+- [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
 ## 유용한 사이트 혹은 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
