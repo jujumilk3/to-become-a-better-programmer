@@ -54,6 +54,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [도커와 쿠버네티스 시작하기](https://gurumee92.tistory.com/254?category=957852)
 - OpenCV
   - [OpenCV - 1. 파이썬으로 만드는 OpenCV 프로젝트](https://bkshin.tistory.com/entry/OpenCV-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-OpenCV-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?category=1148027)
+- Rust
+  - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 - SE
   - [IT 기술 노트](https://wikidocs.net/book/2184)
   
@@ -184,6 +186,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 공학
 - [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
+- [Actor model 에 관하여…](https://pegasuskim.wordpress.com/2015/12/23/actor-model-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
 - [Coroutine과 Subroutine의 차이](https://kotlinworld.com/214)
 - [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
@@ -376,6 +379,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Go언어로 나만의 Query Exporter 만들어보기!](https://gywn.net/2021/07/make-own-query-exporter-with-go/)
   - [How to create a CLI in golang with cobra](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177)
   - [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://byounghoonkim.github.io/posts/2020-06-27-go-project-layout/)
+- 러스트(Rust)
+  - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 
+  - [일주일만에 Rust에 매료되다](https://blog.appleseed.dev/post/fascinated-by-rust-in-a-week/)
 - 쉘 스크립트(shell script)
   - [Bash 실행결과를 변수에 담기](https://zetawiki.com/wiki/Bash_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EB%A5%BC_%EB%B3%80%EC%88%98%EC%97%90_%EB%8B%B4%EA%B8%B0)
 - 엘릭서(Elixir)
