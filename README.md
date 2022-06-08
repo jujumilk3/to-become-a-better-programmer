@@ -55,7 +55,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - OpenCV
   - [OpenCV - 1. 파이썬으로 만드는 OpenCV 프로젝트](https://bkshin.tistory.com/entry/OpenCV-1-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-OpenCV-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?category=1148027)
 - Rust
-  - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
+  - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+  - [The Rust Programming Language(en)](https://doc.rust-lang.org/book/title-page.html)
+  - [The Rust Programming Language(ko)](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 - SE
   - [IT 기술 노트](https://wikidocs.net/book/2184)
   
@@ -382,8 +384,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [How to create a CLI in golang with cobra](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177)
   - [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://byounghoonkim.github.io/posts/2020-06-27-go-project-layout/)
 - 러스트(Rust)
-  - [Rusty Python](https://rangho.postype.com/post/6680526) 
-  - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 
+  - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+  - [The Rust Programming Language(en)](https://doc.rust-lang.org/book/title-page.html)
+  - [The Rust Programming Language(ko)](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 
   - [일주일만에 Rust에 매료되다](https://blog.appleseed.dev/post/fascinated-by-rust-in-a-week/)
 - 쉘 스크립트(shell script)
   - [Bash 실행결과를 변수에 담기](https://zetawiki.com/wiki/Bash_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EB%A5%BC_%EB%B3%80%EC%88%98%EC%97%90_%EB%8B%B4%EA%B8%B0)
