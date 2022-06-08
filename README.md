@@ -209,6 +209,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [사용하면서 알게 된 Reactor, 예제 코드로 살펴보기](https://tech.kakao.com/2018/05/29/reactor-programming/)
   - [왕초보를 위한 <Reactive programming이 뭔지 알기 전에>](https://zeddios.tistory.com/m/303)
 - 함수형 프로그래밍(Functional Programming)
+  - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  - [[JavaScript] - 커링에 대해 알아보자](https://velog.io/@hustle-dev/Javascript-%EC%BB%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) 
   - [모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
   - [함수형 프로그래밍(Functional Programming) 이란?](https://mangkyu.tistory.com/111)
 
@@ -380,6 +382,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [How to create a CLI in golang with cobra](https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177)
   - [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://byounghoonkim.github.io/posts/2020-06-27-go-project-layout/)
 - 러스트(Rust)
+  - [Rusty Python](https://rangho.postype.com/post/6680526) 
   - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 
   - [일주일만에 Rust에 매료되다](https://blog.appleseed.dev/post/fascinated-by-rust-in-a-week/)
 - 쉘 스크립트(shell script)
@@ -389,6 +392,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 자바(Java)
   - [코드로 알아보는 java의 Hashmap](https://sabarada.tistory.com/57)
 - 자바스크립트(Javascript)
+  - [[JavaScript] - 커링에 대해 알아보자](https://velog.io/@hustle-dev/Javascript-%EC%BB%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) 
   - [var, let, const 차이점](https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90)
   - [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
   - Node.js
@@ -406,6 +410,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
   - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
   - [Pytorch weight 저장에 대해 우리가 알아야하는 모든 것](https://comlini8-8.tistory.com/50)
+  - [Rusty Python](https://rangho.postype.com/post/6680526)
   - [Tool for generating SQLAlchemy queries from JSON-esque values?](https://stackoverflow.com/questions/10342700/tool-for-generating-sqlalchemy-queries-from-json-esque-values)
   - [Understand 5 Scopes of Pytest Fixtures](https://betterprogramming.pub/understand-5-scopes-of-pytest-fixtures-1b607b5c19ed)
   - [데코레이터(decorator)란?](https://hello-bryan.tistory.com/214)
