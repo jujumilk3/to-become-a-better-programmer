@@ -199,6 +199,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [명령형 프로그래밍 VS 선언형 프로그래밍](https://boxfoxs.tistory.com/430)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+- [클로저(Closure)](https://ko.wikipedia.org/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80_(%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D))
 - [『프로그래밍 언어 속 타입』(가제) 책 소개](https://blog.hjaem.info/2)
 - [프로그램과 프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [프로세스 격리란 무엇입니까?](https://www.netinbag.com/ko/internet/what-is-process-isolation.html)
@@ -215,6 +216,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [[JavaScript] - 커링에 대해 알아보자](https://velog.io/@hustle-dev/Javascript-%EC%BB%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) 
   - [모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
   - [함수형 프로그래밍(Functional Programming) 이란?](https://mangkyu.tistory.com/111)
+  - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 
 ## 소프트웨어 아키텍쳐
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
