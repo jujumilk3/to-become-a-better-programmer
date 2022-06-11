@@ -35,7 +35,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
 - [컴퓨터 비전(Computer vision)](#컴퓨터-비전)  
-- [유용한 사이트, 정보, 혹은 블로그(Good sites, informs, or blogs)](#유용한-사이트,-정보,-혹은-블로그)
+- [유용한 사이트 정보 혹은 블로그(Good sites, informs, or blogs)](#유용한-사이트-정보-혹은-블로그)
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
@@ -481,7 +481,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 컴퓨터 비전
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
-## 유용한 사이트, 정보, 혹은 블로그
+## 유용한 사이트 정보 혹은 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
