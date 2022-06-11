@@ -35,7 +35,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [좋은 글들(Wellmade Posts)](#좋은-글들)
 - [컴퓨터 공학(Computer engineering)](#컴퓨터-공학)  
 - [컴퓨터 비전(Computer vision)](#컴퓨터-비전)  
-- [유용한 사이트 & 블로그(Good sites & blogs)](#유용한-사이트-혹은-블로그)
+- [유용한 사이트, 정보, 혹은 블로그(Good sites, informs, or blogs)](#유용한-사이트,-정보,-혹은-블로그)
 
 ## 강의
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
@@ -153,6 +153,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
 - Airflow
+  - [airflow에서 각종 operator로 분기처리하기 (feat. SimpleHttpOperator)](https://this-programmer.tistory.com/499)
   - [Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
   - [Airflow란?](https://velog.io/@jjongbumeee/Airflow1)
   - [Airflow vs. Kubeflow](https://velog.io/@rhee519/airflow-vs-kubeflow)
@@ -198,6 +199,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [명령형 프로그래밍 VS 선언형 프로그래밍](https://boxfoxs.tistory.com/430)
+- [무슨 값들을 상수(constant)로 지정해야할까?](https://this-programmer.tistory.com/492)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [클로저(Closure)](https://ko.wikipedia.org/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80_(%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D))
 - [『프로그래밍 언어 속 타입』(가제) 책 소개](https://blog.hjaem.info/2)
@@ -212,6 +214,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [사용하면서 알게 된 Reactor, 예제 코드로 살펴보기](https://tech.kakao.com/2018/05/29/reactor-programming/)
   - [왕초보를 위한 <Reactive programming이 뭔지 알기 전에>](https://zeddios.tistory.com/m/303)
 - 함수형 프로그래밍(Functional Programming)
+  - [클로저(closure)란 무엇인가 (clojure 아님. Feat. Python)](https://this-programmer.tistory.com/510)
   - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   - [[JavaScript] - 커링에 대해 알아보자](https://velog.io/@hustle-dev/Javascript-%EC%BB%A4%EB%A7%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90) 
   - [모나드와 함수형 아키텍처](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
@@ -276,6 +279,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [github actions로 자동 1일 1커밋 봇 만들기](https://this-programmer.tistory.com/490)
   - [Github Action을 마켓에 등록해보자](https://medium.com/jung-han/github-action%EC%9D%84-%EB%A7%88%EC%BC%93%EC%97%90-%EB%93%B1%EB%A1%9D%ED%95%B4%EB%B3%B4%EC%9E%90-7a181a0b4a8f)
   - [Github Action을 이용한 CI/CD 개발 주기 자동화](https://velog.io/@youngerjesus/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EA%B8%B0-%EC%9E%90%EB%8F%99%ED%99%94)
+  - [github actions의 자세한 실행환경 + 요청 IP 알아보기](https://this-programmer.tistory.com/498)
   - [Git Rebase & Squash](https://velog.io/@ppl8709/git-rebase)
   - [Github Action 빠르게 시작하기](https://jonnung.dev/devops/2020/01/31/github_action_getting_started/)
   - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
@@ -425,8 +429,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
   - [파이썬 세 개의 점, ELLIPSIS 객체는 무엇인가요?](https://tech.madup.com/python-ellipsis/)
   - [파이썬 Object Interning](http://pythonstudy.xyz/python/article/512-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Object-Interning)
+  - [파이썬의 유닛테스트를 한번에 파악할 수 있는 코드](https://this-programmer.tistory.com/502)
   - [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
+  - [파이썬 인터닝 (Python Interning) - 객체 재사용](https://this-programmer.tistory.com/508)
   - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
+  - [파이썬 함수의 매개변수에 쓰이는 bare asterisk(*)의 의미](https://this-programmer.tistory.com/503)
   - 장고(Django)
     - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
     - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
@@ -474,11 +481,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 컴퓨터 비전
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
-## 유용한 사이트 혹은 블로그
+## 유용한 사이트, 정보, 혹은 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
+- [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
+- [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
 - 개발자 블로그
   - [N.K LAB](https://blog.neonkid.xyz/)
   - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
