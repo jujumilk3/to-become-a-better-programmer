@@ -154,6 +154,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 데이터-파이프라인
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
+- [하둡(hadoop)과 스파크(Spark)](https://velog.io/@cha-suyeon/%ED%95%98%EB%91%A1hadoop%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%ACSpark)
+- [하둡(hadoop)의 MapReduce](https://velog.io/@kimdukbae/MapReduce)
 - Airflow
   - [airflow에서 각종 operator로 분기처리하기 (feat. SimpleHttpOperator)](https://this-programmer.tistory.com/499)
   - [Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes)](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
@@ -227,6 +229,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 
 ## 소프트웨어 아키텍쳐
+- [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 
@@ -327,6 +330,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
   - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
   - [Job/CronJob](https://kimjingo.tistory.com/135)
+  - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
   - [Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
   - [kubectl 개요](https://kubernetes.io/ko/docs/reference/kubectl/overview/)
   - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
@@ -385,6 +389,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
 ## 언어와 프레임워크
+- CSS
+  - [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko)
+  - [GRID GARDEN](https://cssgridgarden.com/#ko)
 - 고(go)
   - [Defer, Panic, and Recover](https://go.dev/blog/defer-panic-and-recover)
   - [Golang 에서의 명명 규칙](https://blog.billo.io/devposts/golang_naming_convention/)
@@ -488,6 +495,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 유용한 사이트 정보 혹은 블로그
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
+- [T acamedy](https://tacademy.skplanet.com/live/player/listLecture.action)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/)
 - [VULTR](https://www.vultr.com/products/cloud-compute/)
