@@ -199,6 +199,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
 - [Coroutine 기초](https://medium.com/@sunminlee89/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-coroutine-%EA%B8%B0%EC%B4%88-1342ae6916ce)
 - [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
+- [What is the difference between JMP and CALL?](https://www.quora.com/What-is-the-difference-between-JMP-and-CALL)
 - [고가용성](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
 - [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
@@ -494,11 +495,17 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
 ## 유용한 사이트 정보 혹은 블로그
+- [CodebaseShow](https://codebase.show/) - qualified framework project examples
+- [codewars](https://www.codewars.com/) - codekata
+- [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
+- [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
+- [Postgres.app](https://postgresapp.com/)
 - [T acamedy](https://tacademy.skplanet.com/live/player/listLecture.action)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
-- [TIOBE](https://www.tiobe.com/tiobe-index/)
-- [VULTR](https://www.vultr.com/products/cloud-compute/)
+- [TIOBE](https://www.tiobe.com/tiobe-index/) - 언어 사용량 랭킹
+- [VULTR](https://www.vultr.com/products/cloud-compute/) - 저렴한 클라우드 서버
+- [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792)
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
 - 개발자 블로그
