@@ -64,6 +64,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 기타등등
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
 - [Base64이란 무엇일까? / Base64 사용 이유와 인코딩과 디코딩](https://devuna.tistory.com/41)
+- [Jupyter notebook 서브도메인 설정 및 Nginx https 설정 방법(certbot)](http://blog.ju-ing.com/posts/DNS-subdomain/)
 - [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
 - [NVIDIA-SMI 확인방법 및 활용하기](https://kyumdoctor.co.kr/10)
 - [람다 대수](https://ko.wikipedia.org/wiki/%EB%9E%8C%EB%8B%A4_%EB%8C%80%EC%88%98)
@@ -78,6 +79,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [HTTP 통신 과정](https://mysterico.tistory.com/29)
 - [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
+- [Let’s Encrypt 와일드카드로 여러개의 서브도메인 인증서 한번에 발급받기](https://oasisfores.com/letsencrypt-wildcard-ssl-certificate/)
+- [Let's Encrypt SSL 인증서 자동 갱신 설정 방법](https://devlog.jwgo.kr/2019/04/16/how-to-lets-encrypt-ssl-renew/)
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
@@ -499,6 +502,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [codewars](https://www.codewars.com/) - codekata
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
+- [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [Postgres.app](https://postgresapp.com/)
 - [T acamedy](https://tacademy.skplanet.com/live/player/listLecture.action)
