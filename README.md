@@ -297,6 +297,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Github Action에 대한 소개와 사용법](https://velog.io/@ggong/Github-Action%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95)
   - [Github에 push시 Jenkins Webhook 연동 방법](https://medium.com/hgmin/jenkins-github-webhook-3dc13efd2437)
   - [Github에 잘못 올라간 파일 삭제하기](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
+  - [[Git] Merge 이해하기 (Merge / Squash and Merge / Rebase and Merge)](https://im-developer.tistory.com/182)
   - [pre-commit 도구로 Git Hook 사용하기](https://www.daleseo.com/pre-commit/)
   - [맥북에서 GitHub 계정 여러개 사용하는 방법!](https://somjang.tistory.com/entry/%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-GitHub-%EA%B3%84%EC%A0%95-%EC%97%AC%EB%9F%AC%EA%B0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   - [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
