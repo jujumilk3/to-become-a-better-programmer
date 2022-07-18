@@ -483,11 +483,17 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 좋은 글들
 - [APM (Application Performance management)](https://blog.daum.net/ossogood/8435674)
 - [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
+- [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
+- [StackOverflow는 9대의 on-prem 서버로 운영중](https://news.hada.io/topic?id=6993&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
+- [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
+- [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과](http://channy.creation.net/blog/1600)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
+- [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](http://channy.creation.net/blog/1620)
+- [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 - [주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec#:~:text=%EC%8B%9C%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94%20%EC%A3%BC%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C,%EC%9E%91%EB%8F%99%EC%8B%9C%ED%82%AC%20%EC%83%9D%EA%B0%81%EB%A7%8C%20%ED%95%A9%EB%8B%88%EB%8B%A4.)
 - [통합관제 EMS(종합관제)](http://hamonsoft.co.kr/solution/integrated-control/integrated-management/netis-ems/)
 
@@ -508,6 +514,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [Postgres.app](https://postgresapp.com/)
+- [Programming Fonts](https://www.programmingfonts.org/)
 - [T acamedy](https://tacademy.skplanet.com/live/player/listLecture.action)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/) - 언어 사용량 랭킹
