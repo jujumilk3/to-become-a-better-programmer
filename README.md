@@ -511,7 +511,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [codewars](https://www.codewars.com/) - codekata
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
-- [Google 관리 콘솔 도구 상자 Dig](https://toolbox.googleapps.com/apps/dig/)
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [Postgres.app](https://postgresapp.com/)
