@@ -338,6 +338,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
   - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
   - [Job/CronJob](https://kimjingo.tistory.com/135)
+  - [k8s fission](https://fission.io/)
+  - [k8s kind](https://kind.sigs.k8s.io/)
   - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
   - [[kubernetes] 쿠버네티스 cr과 crd란?(쿠버네티스 확장)](https://frozenpond.tistory.com/111)
   - [Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
@@ -346,6 +348,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Kubernetes 좀 더 잘 이해하기](https://suhwan.dev/2019/04/22/understanding-kubernetes-design/)
   - [Kubernetes 환경에 affinity, anti-affinity 적용하기](https://malgogi-developer.tistory.com/32)
   - [Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
+  - [Rancher](https://www.rancher.com/)
   - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
   - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
   - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
@@ -433,7 +436,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [A guide to logging in Python](https://www.bloomberg.com/company/stories/guide-logging-python/)
   - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
   - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
-  - [asyncio 파헤치기](https://brownbears.tistory.com/540)
   - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
   - [[pytest] python 코드를 테스트 해봅시다. (Feat. Fixture)](https://binux.tistory.com/47)
   - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
@@ -456,7 +458,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
   - [파이썬 함수의 매개변수에 쓰이는 bare asterisk(*)의 의미](https://this-programmer.tistory.com/503)
   - AsyncIO
+    - [asyncio 파헤치기](https://brownbears.tistory.com/540)
     - [asyncio 뽀개기 1 - Coroutine과 Eventloop](https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/)
+    - [파이썬과 비동기 프로그래밍 #1, 비동기 프로그래밍이란](https://sjquant.tistory.com/13)
   - 장고(Django)
     - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
     - [ViewSet 과 Router](https://ssungkang.tistory.com/entry/Django-ViewSet-%EA%B3%BC-Router)
@@ -518,7 +522,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
+- [httpstat.us](https://httpstat.us/) - http request로 http protocol 임의로 바꿔서 response 받을 수 있는 사이트
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
+- [ngrok](https://ngrok.com/)
 - [Postgres.app](https://postgresapp.com/)
 - [Programming Fonts](https://www.programmingfonts.org/)
 - [T acamedy](https://tacademy.skplanet.com/live/player/listLecture.action)
