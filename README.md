@@ -24,6 +24,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [설명](#설명)
     - [목차](#목차)
     - [강의](#강의)
+    - [검색](#검색)
     - [기타등등](#기타등등)
     - [네트워크](#네트워크)
     - [데이터베이스](#데이터베이스)
@@ -36,8 +37,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [알고리즘](#알고리즘)
     - [자료구조](#자료구조)
     - [언어와 프레임워크](#언어와-프레임워크)
-    - [인공지능](#인공지능)
     - [운영체제](#운영체제)
+    - [인공지능](#인공지능)- 
     - [좋은 글들](#좋은-글들)
     - [컴퓨터 공학](#컴퓨터-공학)
     - [컴퓨터 비전](#컴퓨터-비전)
@@ -67,7 +68,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [The Rust Programming Language(ko)](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 - SE
     - [IT 기술 노트](https://wikidocs.net/book/2184)
-  
+
+## 검색
+- [단어 임베딩: 어휘의 의미(Lexical semantics)를 인코딩하기](https://tutorials.pytorch.kr/beginner/nlp/word_embeddings_tutorial.html)
+
 ## 기타등등
 
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
@@ -490,12 +494,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
         - [FastAPI Schema를 제대로 다루는 방법](https://this-programmer.tistory.com/471)
         - [FastAPI + SQLAlchemy example](https://python-dependency-injector.ets-labs.org/examples/fastapi-sqlalchemy.html)
 
-## 인공지능
-
-- [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
-- [Study Artificial Intelligence](http://www.aistudy.co.kr/)
-- [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
-
 ## 운영체제
 
 - [Deadlock 개념이란? 그에 대한 해결책/회피책](https://jwprogramming.tistory.com/12)
@@ -511,6 +509,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
     - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
     - [리눅스, 유닉스 백그라운드프로세스 방법 정리 (&, bg, nohup, screen)](https://this-programmer.tistory.com/468)
+
+## 인공지능
+- [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
+- [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
+- [Study Artificial Intelligence](http://www.aistudy.co.kr/)
+- [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
+- [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
 ## 좋은 글들
 
