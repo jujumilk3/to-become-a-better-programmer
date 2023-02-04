@@ -551,6 +551,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
+- [GeekNews](https://news.hada.io/)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
 - [httpstat.us](https://httpstat.us/) - http request로 http protocol 임의로 바꿔서 response 받을 수 있는 사이트
@@ -565,6 +566,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792)
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
+- [파이토치 한국 사용자 모임](https://pytorch.kr/)
 - 개발자 블로그
     - [N.K LAB](https://blog.neonkid.xyz/)
     - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
