@@ -227,6 +227,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [명령형 프로그래밍 VS 선언형 프로그래밍](https://boxfoxs.tistory.com/430)
 - [무슨 값들을 상수(constant)로 지정해야할까?](https://this-programmer.tistory.com/492)
+- [믹스인(Mixin)](https://ko.wikipedia.org/wiki/%EB%AF%B9%EC%8A%A4%EC%9D%B8)
 - [장애 허용 시스템](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9_%EC%8B%9C%EC%8A%A4%ED%85%9C)
 - [클로저(Closure)](https://ko.wikipedia.org/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80_(%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D))
 - [『프로그래밍 언어 속 타입』(가제) 책 소개](https://blog.hjaem.info/2)
@@ -289,6 +290,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
     - [도커(Docker)로 CentOS 이미지 systemctl 사용하기](https://this-programmer.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker%EB%A1%9C-CentOS-%EC%9D%B4%EB%AF%B8%EC%A7%80-systemctl-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-failed-to-get-DBus-connection-Operation-not-permitted)
     - [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+- Debezium
+    - [Debezium이란?](https://gunju-ko.github.io/kafka/2020/06/18/Debezium.html)
 - DVC (Data Version Control)
     - [DVC - (1) Data Management](https://dong-life.tistory.com/33)
     - [DVC(Data Version Control) with Docker](https://visionhong.tistory.com/37?category=946471)
@@ -338,6 +341,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
     - [젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
 - Kafka
+    - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
     - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
     - [Introducing ksqlDB](https://devidea.tistory.com/73)
     - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
