@@ -550,30 +550,31 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
-## 유용한 사이트 정보 혹은 블로그
-
+## 유용한 사이트, 정보, 블로그, 도구 등등
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [GeekNews](https://news.hada.io/)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
-- [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/)
+- [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/) - DNS 세팅 확인하기 좋음
 - [httpstat.us](https://httpstat.us/) - http request로 http protocol 임의로 바꿔서 response 받을 수 있는 사이트
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
-- [ngrok](https://ngrok.com/)
+- [ngrok](https://ngrok.com/) - 임시로 서버띄워서 확인할때 좋음
 - [Postgres.app](https://postgresapp.com/)
 - [Programming Fonts](https://www.programmingfonts.org/)
-- [T academy](https://tacademy.skplanet.com/live/player/listLecture.action)
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/) - 언어 사용량 랭킹
+- [UI Avatars](https://ui-avatars.com/) - 간단하게 글씨로 아바타 placeholder 만들어주는곳
 - [VULTR](https://www.vultr.com/products/cloud-compute/) - 저렴한 클라우드 서버
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792)
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
-- [파이토치 한국 사용자 모임](https://pytorch.kr/)
 - 개발자 블로그
     - [N.K LAB](https://blog.neonkid.xyz/)
     - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
+- 교육
+    - [K-MOOC](https://www.kmooc.kr/)
+    - [T academy](https://tacademy.skplanet.com/live/player/listLecture.action)
 - 기업 테크 블로그
     - [CloudNet@ Blog](https://www.notion.so/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
     - [MADTECH](https://tech.madup.com/)
@@ -584,3 +585,5 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Dable Tech Blog](https://teamdable.github.io/techblog/)
     - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
     - [카카오 테크](https://tech.kakao.com/)
+- 기타
+    - [파이토치 한국 사용자 모임](https://pytorch.kr/)
