@@ -1,7 +1,6 @@
 # To Become a Better Programmer
 
 ## 설명
-
 Description에도 써있다시피 jwasham의 Coding Interview University에서 영감을 받아 시작하게 되었다.
 물론 해당 저장소에도 [한국어로 번역된 판](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)이
 존재하지만
@@ -20,7 +19,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 그리고 [내 블로그](https://this-programmer.tistory.com/)에 있는 글들도 이용할 예정이다.
 
 ## 목차
-
 - [To Become a Better Programmer](#to-become-a-better-programmer)
   - [설명](#설명)
   - [목차](#목차)
@@ -46,7 +44,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [유용한 사이트 정보 혹은 블로그](#유용한-사이트-정보-혹은-블로그)
 
 ## 강의
-
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
 - Airflow
   - [Airflow란?](https://dydwnsekd.tistory.com/27?category=897626)
@@ -71,11 +68,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [IT 기술 노트](https://wikidocs.net/book/2184)
 
 ## 검색
-
 - [단어 임베딩: 어휘의 의미(Lexical semantics)를 인코딩하기](https://tutorials.pytorch.kr/beginner/nlp/word_embeddings_tutorial.html)
 
 ## 기타등등
-
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
 - [Base64이란 무엇일까? / Base64 사용 이유와 인코딩과 디코딩](https://devuna.tistory.com/41)
 - [Jupyter notebook 서브도메인 설정 및 Nginx https 설정 방법(certbot)](http://blog.ju-ing.com/posts/DNS-subdomain/)
@@ -84,7 +79,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [람다 대수](https://ko.wikipedia.org/wiki/%EB%9E%8C%EB%8B%A4_%EB%8C%80%EC%88%98)
 
 ## 네트워크
-
 - [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
 - [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
@@ -129,7 +123,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [프록시 서버란?(2)](https://soul0.tistory.com/230)
 
 ## 데이터베이스
-
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
 - [Inner Join과 Outer Join 차이점](https://server-engineer.tistory.com/306)
@@ -196,14 +189,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Kubeflow vs Airflow – Which is Better For Your Business: 4 Critical Differences](https://hevodata.com/learn/kubeflow-vs-airflow/)
 
 ## 디자인패턴
-
 - [Design Patterns on python](https://brownbears.tistory.com/category/%EA%B3%B5%EB%B6%80/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 - [Monorepo? Yarn Workspace!](https://medium.com/@deptno/monorepo-yarn-workspace-e81e3e078100)
 - [MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
 - [디자인 패턴들 (Refactoring guru)](https://refactoring.guru/ko/design-patterns)
 
 ## 생산성 향상 도구들
-
 - [ERD CLOUD](https://www.erdcloud.com/)
 - [gitstar-ranking(깃허브 별 개수 랭킹 알려주는 사이트)](https://gitstar-ranking.com)
 - [Graphviz 소개](https://narusas.github.io/2019/01/25/Graphviz.html)
@@ -215,7 +206,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [무료 DB Tool (DBeaver)](https://m.blog.naver.com/skykbc/221426494422)
 
 ## 소프트웨어 공학
-
 - [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
 - [Actor model 에 관하여…](https://pegasuskim.wordpress.com/2015/12/23/actor-model-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
@@ -255,13 +245,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [함수형 프로그래밍 요약](https://velog.io/@kyusung/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9A%94%EC%95%BD)
 
 ## 소프트웨어 아키텍쳐
-
 - [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 
 ## 소프트웨어 인프라
-
 - [ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
 - [datadog integrations](https://docs.datadoghq.com/integrations/#all)
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
@@ -391,7 +379,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Prometheus and Grafana setup in Minikube](https://blog.marcnuri.com/prometheus-grafana-setup-minikube)
 
 ## 알고리즘
-
 - [DFS와 BFS](https://this-programmer.tistory.com/entry/%EB%B0%B1%EC%A4%801260%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFS%EC%99%80-BFS)
 - [FizzBuzz 문제](https://bryan.wiki/260)
 - [Levenshtein Distance (편집거리 알고리즘) - 문장 유사도 분석을 어떻게 하는가?](https://renuevo.github.io/data-science/levenshtein-distance/)
@@ -412,7 +399,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [해시 함수](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98)
 
 ## 자료구조
-
 - [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
 - [Hash, Hashing, Hash Table(해시, 해싱 해시테이블) 자료구조의 이해](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
@@ -430,7 +416,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [힙(heap)이란](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
 
 ## 언어와 프레임워크
-
 - CSS
   - [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko)
   - [GRID GARDEN](https://cssgridgarden.com/#ko)
@@ -560,6 +545,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/) - DNS 세팅 확인하기 좋음
 - [httpstat.us](https://httpstat.us/) - http request로 http protocol 임의로 바꿔서 response 받을 수 있는 사이트
+- [infisical](https://infisical.com/) - Open Source SecretOps
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [ngrok](https://ngrok.com/) - 임시로 서버띄워서 확인할때 좋음
 - [Postgres.app](https://postgresapp.com/)
