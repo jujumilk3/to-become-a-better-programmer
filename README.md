@@ -538,6 +538,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
 
 ## 유용한 사이트, 정보, 블로그, 도구 등등
+- [chatpdf](https://www.chatpdf.com/) 
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
