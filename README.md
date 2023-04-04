@@ -524,6 +524,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](http://channy.creation.net/blog/1620)
+- [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 - [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 - [주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec#:~:text=%EC%8B%9C%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94%20%EC%A3%BC%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C,%EC%9E%91%EB%8F%99%EC%8B%9C%ED%82%AC%20%EC%83%9D%EA%B0%81%EB%A7%8C%20%ED%95%A9%EB%8B%88%EB%8B%A4.)
 - [통합관제 EMS(종합관제)](http://hamonsoft.co.kr/solution/integrated-control/integrated-management/netis-ems/)
