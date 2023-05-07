@@ -63,6 +63,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - Rust
   - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
   - [The Rust Programming Language(en)](https://doc.rust-lang.org/book/title-page.html)
+  - [The Rust Programming Language(en), (quiz)](https://rust-book.cs.brown.edu/experiment-intro.html)
   - [The Rust Programming Language(ko)](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
 - SE
   - [IT 기술 노트](https://wikidocs.net/book/2184)
