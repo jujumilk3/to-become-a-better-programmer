@@ -37,7 +37,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [자료구조](#자료구조)
   - [언어와 프레임워크](#언어와-프레임워크)
   - [운영체제](#운영체제)
-  - [인공지능](#인공지능)-
+  - [인공지능](#인공지능)
   - [좋은 글들](#좋은-글들)
   - [컴퓨터 공학](#컴퓨터-공학)
   - [컴퓨터 비전](#컴퓨터-비전)
@@ -546,6 +546,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [chatpdf](https://www.chatpdf.com/) 
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
+- [civitai](https://civitai.com/)
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [GeekNews](https://news.hada.io/)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
