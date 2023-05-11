@@ -267,7 +267,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - AWS
+  - [ACM을 이용한 HTTPS 설정](https://intermediate.inflearn.devopsart.dev/2./acm-https) 
   - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
+  - [[AWS] ACM + Route53을 이용한 SSL(Https) 인증서 발급](https://jjong-factory.tistory.com/92)
   - [CloudWatch 에이전트를 사용하여 Amazon EC2 인스턴스 및 온프레미스 서버에서 지표 및 로그 수집](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
   - [Mac OS에 AWS Cli 설정하기](https://longtermsad.tistory.com/13)
 - CircleCI
@@ -332,8 +334,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Mac 에서 Jenkins 설치하기](https://wan-blog.tistory.com/74)
   - [젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
 - Kafka
-  - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
   - [[Apache kafka 조금 아는 척하기] 카프카란?](https://freedeveloper.tistory.com/396)
+  - [Error Handling Patterns for Apache Kafka Applications](https://www.confluent.io/blog/error-handling-patterns-in-kafka/)
   - [Introducing ksqlDB](https://devidea.tistory.com/73)
   - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
   - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
@@ -341,6 +343,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Kafka란?](https://galid1.tistory.com/793)
   - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
   - [Mac에 카프카 설치하고 실행해보기!](https://somjang.tistory.com/entry/Kafka-Mac%EC%97%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
 - Kubernetes, k8s
   - [Affinity & NodeSelector 사용하기](https://aws-diary.tistory.com/123)
   - [AWS에 kops로 쿠버네티스 클러스터 구축하기](https://twofootdog.tistory.com/43#:~:text=1.%20kops%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80,%EC%82%AD%EC%A0%9C%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%A7%80%EC%9B%90%ED%95%9C%EB%8B%A4.)
