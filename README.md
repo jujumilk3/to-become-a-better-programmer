@@ -513,6 +513,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
+- [[추천시스템] Cold Start 문제는 어떻게 해결할까?](https://techblog-history-younghunjo1.tistory.com/166)
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
 ## 좋은 글들
@@ -581,5 +582,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Dable Tech Blog](https://teamdable.github.io/techblog/)
   - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
   - [카카오 테크](https://tech.kakao.com/)
+- 긱뉴스 스크랩(GeekNews)
+  - [Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임](https://news.hada.io/topic?id=9160)
 - 기타
   - [파이토치 한국 사용자 모임](https://pytorch.kr/)
