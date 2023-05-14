@@ -452,6 +452,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
   - Svelte
     - [How to deploy svelte app in Github Pages](https://hrishikeshpathak.com/blog/svelte-gh-pages/)
+    - [SvelteKit Introduction](https://kit.svelte.dev/docs/introduction)
   - 타입스크립트(TypeScript)
     - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/)
 - 파이썬(Python)
