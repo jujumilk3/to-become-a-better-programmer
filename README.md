@@ -165,7 +165,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
 
 ## 데이터-파이프라인
-
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
 - [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
 - [하둡(hadoop)과 스파크(Spark)](https://velog.io/@cha-suyeon/%ED%95%98%EB%91%A1hadoop%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%ACSpark)
@@ -353,7 +352,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [Helm 이란?](https://tech.ktcloud.com/51)
   - [HPA: Horizontal Pod Autoscaling](https://kubernetes.io/ko/docs/tasks/run-application/horizontal-pod-autoscale/)
   - [How To Manage Your Kubernetes Configurations with Kustomize](https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize)
-  - [Istio 🌶️ 트래픽 흐름 Life of a packet](https://www.notion.so/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
+  - [Istio 🌶️트래픽 흐름 Life of a packet](https://www.notion.so/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
   - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
   - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
   - [Job/CronJob](https://kimjingo.tistory.com/135)
@@ -527,6 +526,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [StackOverflow는 9대의 on-prem 서버로 운영중](https://news.hada.io/topic?id=6993&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
 - [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과](http://channy.creation.net/blog/1600)
+- [Git 커밋 메시지는 왜 중요할까?](https://insight.infograb.net/blog/2023/04/21/why-commit-convention-is-important/)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](http://channy.creation.net/blog/1620)
@@ -565,6 +565,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [UI Avatars](https://ui-avatars.com/) - 간단하게 글씨로 아바타 placeholder 만들어주는곳
 - [VULTR](https://www.vultr.com/products/cloud-compute/) - 저렴한 클라우드 서버
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792)
+- [아이보스 마케팅 캘린더](https://www.i-boss.co.kr/ab-marketing_calendar)
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
 - 개발자 블로그
