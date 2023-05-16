@@ -584,6 +584,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
   - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
   - [카카오 테크](https://tech.kakao.com/)
 - 긱뉴스 스크랩(GeekNews)
+  - [Brex의 프롬프트 엔지니어링 가이드](https://news.hada.io/topic?id=9190)
   - [Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임](https://news.hada.io/topic?id=9160)
+  - [GitHub Copilot Chat 전체 프롬프트 유출](https://news.hada.io/topic?id=9182)
+  - [Google I/O: Ubiquitous AI가 SEO에 큰 변화를 가져올 것](https://news.hada.io/topic?id=9189)
+  - [향후 5년간 연매출 $25M 이상의 1인 기업이 더 많이 등장할 것](https://news.hada.io/topic?id=9181)
 - 기타
   - [파이토치 한국 사용자 모임](https://pytorch.kr/)
