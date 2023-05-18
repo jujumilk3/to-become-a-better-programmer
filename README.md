@@ -533,6 +533,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 - [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 - [주니어, 미드레벨과 시니어 개발자의 차이점](https://erwinousy.medium.com/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec#:~:text=%EC%8B%9C%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94%20%EC%A3%BC%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C,%EC%9E%91%EB%8F%99%EC%8B%9C%ED%82%AC%20%EC%83%9D%EA%B0%81%EB%A7%8C%20%ED%95%A9%EB%8B%88%EB%8B%A4.)
+- [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://velog.io/@teo/computational-thinking)
 - [통합관제 EMS(종합관제)](http://hamonsoft.co.kr/solution/integrated-control/integrated-management/netis-ems/)
 
 ## 컴퓨터 공학
