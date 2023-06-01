@@ -529,11 +529,14 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 인공지능
 
 - [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
+- [The Ultimate Guide to Deep Learning Model Quantization and Quantization-Aware Training](https://deci.ai/quantization-and-quantization-aware-training/)
 - [Embedding이란 무엇이고, 어떻게 사용하는가?](https://www.syncly.app/ko/blog/what-is-embedding-and-how-to-use)
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
-- [[추천시스템] Cold Start 문제는 어떻게 해결할까?](<https://techblog-history-younghunjo1.tistory.com/166>)
+- [인공지능에서 양자화 기술이 중요한 이유는?](https://m.post.naver.com/viewer/postView.nhn?volumeNo=19437431&memberNo=20717909)
+- [저전력 인공지능(AI) 구현을 가능케 하는 알고리즘은?](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16696626&memberNo=20717909)
+- [[추천시스템] Cold Start 문제는 어떻게 해결할까?](https://techblog-history-younghunjo1.tistory.com/166)
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
 ## 좋은 글들
