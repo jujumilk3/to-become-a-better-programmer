@@ -534,9 +534,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
+- [머신러닝 분야의 임베딩에 대한 상세한 가이드 (The Full Guide to Embeddings in Machine Learning)](https://discuss.pytorch.kr/t/the-full-guide-to-embeddings-in-machine-learning/1708)
 - [인공지능에서 양자화 기술이 중요한 이유는?](https://m.post.naver.com/viewer/postView.nhn?volumeNo=19437431&memberNo=20717909)
 - [저전력 인공지능(AI) 구현을 가능케 하는 알고리즘은?](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16696626&memberNo=20717909)
-- [[추천시스템] Cold Start 문제는 어떻게 해결할까?](https://techblog-history-younghunjo1.tistory.com/166)
+- [[추천시스템] Cold Start 문제는 어떻게 해결할까?](<https://techblog-history-younghunjo1.tistory.com/166>)
 - [파이토치 한국 사용자 모임](https://pytorch.kr/)
 
 ## 좋은 글들
@@ -621,6 +622,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [GPT같은 LLM을 커스텀 데이터셋으로 파인튜닝 하는 방법](https://news.hada.io/topic?id=9288)
     - [Prompt Engineering이 진짜 가치가 있는가](https://news.hada.io/topic?id=9285)
     - [Same Stop: 애플에서 프로그래머로 26년 일한 뒤의 삶](https://news.hada.io/topic?id=9244)
+    - [머신러닝 분야의 임베딩(Embedding)에 대한 상세한 가이드](https://news.hada.io/topic?id=9316)
     - [향후 5년간 연매출 $25M 이상의 1인 기업이 더 많이 등장할 것](https://news.hada.io/topic?id=9181)
 - 해커뉴스 스크랩(HackerNews)
     - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
