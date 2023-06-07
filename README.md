@@ -534,6 +534,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Embedding이란 무엇이고, 어떻게 사용하는가?](https://www.syncly.app/ko/blog/what-is-embedding-and-how-to-use)
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
+- [Using LLaMA with M1 Mac](https://dev.l1x.be/posts/2023/03/12/using-llama-with-m1-mac/)
+- [llama : Metal inference](https://github.com/ggerganov/llama.cpp/pull/1642?fbclid=IwAR0JMfY-AxX5_stcGLvJn7u_XoP0uTR0OuI9vGzyd4crXBKWiToJbZ7Hgs8)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 - [머신러닝 분야의 임베딩에 대한 상세한 가이드 (The Full Guide to Embeddings in Machine Learning)](https://discuss.pytorch.kr/t/the-full-guide-to-embeddings-in-machine-learning/1708)
 - [인공지능에서 양자화 기술이 중요한 이유는?](https://m.post.naver.com/viewer/postView.nhn?volumeNo=19437431&memberNo=20717909)
