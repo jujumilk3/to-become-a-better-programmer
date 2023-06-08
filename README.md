@@ -357,9 +357,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Mac에 카프카 설치하고 실행해보기!](https://somjang.tistory.com/entry/Kafka-Mac%EC%97%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
     - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
 - Kubernetes, k8s
+    - [Amazon EKS 30분만에 구성하기 (CloudFormation)](https://waspro.tistory.com/651)
     - [Affinity & NodeSelector 사용하기](https://aws-diary.tistory.com/123)
     - [AWS에 kops로 쿠버네티스 클러스터 구축하기](https://twofootdog.tistory.com/43#:~:text=1.%20kops%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80,%EC%82%AD%EC%A0%9C%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%A7%80%EC%9B%90%ED%95%9C%EB%8B%A4.)
     - [Calico CNI 동작원리 이해하기](https://velog.io/@200ok/Kubernetes-Calico-CNI-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+    - [etcd란?](https://www.redhat.com/ko/topics/containers/what-is-etcd)
     - [For the love of god, stop using CPU limits on Kubernetes (updated)](https://home.robusta.dev/blog/stop-using-cpu-limits)
     - [HA(High Availability) 구성 - master node](https://psnote.tistory.com/210)
     - [Hello Minikube](https://kubernetes.io/ko/docs/tutorials/hello-minikube/)
@@ -373,6 +375,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [k8s fission](https://fission.io/)
     - [k8s kind](https://kind.sigs.k8s.io/)
     - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
+    - [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
     - [[kubernetes] 쿠버네티스 cr과 crd란?(쿠버네티스 확장)](<https://frozenpond.tistory.com/111>)
     - [Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
     - [kubectl 개요](https://kubernetes.io/ko/docs/reference/kubectl/overview/)
@@ -514,6 +517,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 운영체제
 
 - [Deadlock 개념이란? 그에 대한 해결책/회피책](https://jwprogramming.tistory.com/12)
+- [Swap memory](https://monny.tistory.com/253#:~:text=Swapping%EC%9D%80%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%A4%EC%A0%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC,%EA%B3%BC%20RAM%EC%9D%98%20%EC%A1%B0%ED%95%A9%EC%9E%85%EB%8B%88%EB%8B%A4.)
 - [데드락(Deadlock, 교착 상태)이란?](https://chanhuiseok.github.io/posts/cs-2/)
 - [운영 체제(위키)](https://ko.wikipedia.org/wiki/%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)
 - 리눅스(Linux) / 유닉스(Unix)
