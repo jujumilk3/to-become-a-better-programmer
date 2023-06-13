@@ -479,6 +479,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [A guide to logging in Python](https://www.bloomberg.com/company/stories/guide-logging-python/)
     - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
     - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
+    - [Instagram이 Python garbage collection 없앤 이유](https://luavis.me/python/dismissing-python-garbage-collection-at-instagram)
     - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
     - [[pytest] python 코드를 테스트 해봅시다. (Feat. Fixture)](<https://binux.tistory.com/47>)
     - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
