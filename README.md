@@ -555,6 +555,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 좋은 글들
 
 - [APM (Application Performance management)](https://blog.daum.net/ossogood/8435674)
+- [awesome-devteam](https://github.com/leehosung/awesome-devteam)
 - [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
 - [Git 커밋 메시지는 왜 중요할까?](https://insight.infograb.net/blog/2023/04/21/why-commit-convention-is-important/)
 - [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
