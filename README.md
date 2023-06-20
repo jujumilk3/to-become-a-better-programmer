@@ -372,6 +372,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
     - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
     - [Job/CronJob](https://kimjingo.tistory.com/135)
+    - [[K8S] Control Plane, Data Plane이란?](https://wooono.tistory.com/700)
     - [k8s fission](https://fission.io/)
     - [k8s kind](https://kind.sigs.k8s.io/)
     - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
@@ -385,6 +386,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
     - [Rancher](https://www.rancher.com/)
     - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
+    - [커스텀 리소스](https://kubernetes.io/ko/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
     - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
     - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
     - [쿠버네티스 컴포넌트](https://kubernetes.io/ko/docs/concepts/overview/components/)
@@ -482,6 +484,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Instagram이 Python garbage collection 없앤 이유](https://luavis.me/python/dismissing-python-garbage-collection-at-instagram)
     - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
     - [[pytest] python 코드를 테스트 해봅시다. (Feat. Fixture)](<https://binux.tistory.com/47>)
+    - [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
     - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
     - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
     - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
@@ -592,6 +595,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
 - [civitai](https://civitai.com/)
+- [DB-Engines](https://db-engines.com/)
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [GeekNews](https://news.hada.io/)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
