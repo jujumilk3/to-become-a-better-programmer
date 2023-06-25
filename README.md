@@ -167,6 +167,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 - MySQL
     - [How to bind MySQL server to more than one IP address?](https://serverfault.com/questions/139323/how-to-bind-mysql-server-to-more-than-one-ip-address)
+- MongoDB
+    - [[MongoDB] 몽고DB 샤딩(Sharding) 구성하기!](https://tmjb.tistory.com/39)
+    - [[ MongoDB ] 샤딩(Sharding)이란?](https://dev-cini.tistory.com/36)
+    - [[ MongoDB ] 샤딩 (Sharding)시스템 구성 실습](https://dev-cini.tistory.com/37)
+    - [[몽고DB 완벽가이드] 샤딩의 개념](https://devfunny.tistory.com/907)
 - Telegraf
     - [How to Use Custom Telemetry From Telegraf in New Relic One](https://newrelic.com/blog/how-to-relic/how-to-collect-telegraf-metrics)
     - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
@@ -480,6 +485,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
         - [타입스크립트 모노레포](https://deptno.github.io/posts/2018/typescript-monorepo/)
 - 파이썬(Python)
     - [A guide to logging in Python](https://www.bloomberg.com/company/stories/guide-logging-python/)
+    - [[CS/Python]Thread(1)-GIL과 Thread 구현/실행, Event](https://velog.io/@jaewan/CSPythonThread1)
+    - [[CS/Python]Thread(2)-Lock과 RLock](https://velog.io/@jaewan/CSPythonThread2)
+    - [[CS/Python]Thread(3)-Condition, Lock, Mutex, Semaphore, Local Data](https://velog.io/@jaewan/CSPythonThread3-Condition-Lock-Mutex-Semaphore-Local-Data)
     - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
     - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
     - [Instagram이 Python garbage collection 없앤 이유](https://luavis.me/python/dismissing-python-garbage-collection-at-instagram)
@@ -503,6 +511,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교](https://specialscene.tistory.com/142#:~:text=%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%B9%84%EA%B5%90%EA%B0%80%20%EB%A7%8E%EC%9D%B4,%ED%95%98%EA%B1%B0%EB%82%98%20%EB%B3%80%EA%B2%BD%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8B%A4%EB%8A%94%20%EA%B2%83.)
     - [파이썬 세 개의 점, ELLIPSIS 객체는 무엇인가요?](https://tech.madup.com/python-ellipsis/)
     - [파이썬 Object Interning](http://pythonstudy.xyz/python/article/512-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Object-Interning)
+    - [파이썬의 global과 nonlocal 키워드 사용법](https://www.daleseo.com/python-global-nonlocal/)
     - [파이썬의 유닛테스트를 한번에 파악할 수 있는 코드](https://this-programmer.tistory.com/502)
     - [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
     - [파이썬 인터닝 (Python Interning) - 객체 재사용](https://this-programmer.tistory.com/508)
