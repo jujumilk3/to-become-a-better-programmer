@@ -74,6 +74,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 검색
 
 - [단어 임베딩: 어휘의 의미(Lexical semantics)를 인코딩하기](https://tutorials.pytorch.kr/beginner/nlp/word_embeddings_tutorial.html)
+- [[데이터 색인] 역색인 구조 (역 인덱스; Inverted Index)](https://the-dev.tistory.com/30)
 
 ## 기타등등
 
@@ -102,6 +103,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
 - [SSO(Single Sign-On)이란?](https://toma0912.tistory.com/75)
 - [TCP/IP의 이해](https://m.blog.naver.com/jhc9639/221411218450?referrerCode=1)
+- [TCP와 UDP의 특징 및 차이점 알아보기](https://dev-coco.tistory.com/144)
 - [TLS (Transport Layer Security)](https://brownbears.tistory.com/402)
 - [브라우저의 렌더링 과정](https://medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%ED%92%88%EA%B2%A9/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95-5c01c4158ce)
 - [실시간 스트리밍 프로토콜-RTSP(Real Time Streaming Protocol)란?](https://mingtrace.tistory.com/442)
