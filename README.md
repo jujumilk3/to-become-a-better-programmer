@@ -48,6 +48,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 강의
 
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
+- AI
+    - [Naver Ai Boostcamp](https://blahblahlab.tistory.com/107)
 - Airflow
     - [Airflow란?](https://dydwnsekd.tistory.com/27?category=897626)
 - Elixir
@@ -164,7 +166,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Elasticsearch란? (개념 및 종류, RDBMS와 차이)](https://choseongho93.tistory.com/231)
     - [fuzzy 알고리즘 (무엇을 찾고 있는가?)](https://knight76.tistory.com/entry/elasticsearch-fuzzy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%B0%BE%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
     - [Using ElasticSearch, Fluentd and Kibana (for log aggregation)](https://technology.amis.nl/continuous-delivery/containers/using-elasticsearch-fluentd-and-kibana-for-log-aggregation/)
-    - [macOS에서 ELK stack 구성하기 (elasticksearch)](https://this-programmer.tistory.com/476)
+    - [Field data types](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-types.html)
+    - [macOS에서 ELK stack 구성하기 (elasticsearch)](https://this-programmer.tistory.com/476)
     - [엘라스틱서치로 파이썬(Python) 어플의 구조화 로깅(Structured Logging) 구현하기 (1)](https://blog.naver.com/olpaemi/221967869387)
     - [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 - MySQL
@@ -230,6 +233,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Coroutine과 Subroutine의 차이](https://kotlinworld.com/214)
 - [Coroutine은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139)
 - [Coroutine 기초](https://medium.com/@sunminlee89/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-coroutine-%EA%B8%B0%EC%B4%88-1342ae6916ce)
+- [Dependency injection and inversion of control in Python](https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html)
 - [IoC, DI, DIP 개념 잡기](https://vagabond95.me/posts/about-ioc-dip-di/)
 - [What is the difference between JMP and CALL?](https://www.quora.com/What-is-the-difference-between-JMP-and-CALL)
 - [고가용성](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
@@ -436,8 +440,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Hash, Hashing, Hash Table(해시, 해싱 해시테이블) 자료구조의 이해](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
 - [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
+- [Star (graph theory)](https://en.wikipedia.org/wiki/Star_(graph_theory))
 - [YAML](https://ko.wikipedia.org/wiki/YAML)
 - [YAML이란?](https://www.redhat.com/ko/topics/automation/what-is-yaml)
+- [그래프 이론 기초 & 그래프 패턴](https://blahblahlab.tistory.com/140)
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
 - [이진 트리](https://thebook.io/007031/part01/ch03/07/01/)
@@ -490,6 +496,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [[CS/Python]Thread(1)-GIL과 Thread 구현/실행, Event](https://velog.io/@jaewan/CSPythonThread1)
     - [[CS/Python]Thread(2)-Lock과 RLock](https://velog.io/@jaewan/CSPythonThread2)
     - [[CS/Python]Thread(3)-Condition, Lock, Mutex, Semaphore, Local Data](https://velog.io/@jaewan/CSPythonThread3-Condition-Lock-Mutex-Semaphore-Local-Data)
+    - [Dependency injection and inversion of control in Python](https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html)
     - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
     - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
     - [Instagram이 Python garbage collection 없앤 이유](https://luavis.me/python/dismissing-python-garbage-collection-at-instagram)
