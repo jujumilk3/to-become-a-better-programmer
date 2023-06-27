@@ -497,6 +497,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [[CS/Python]Thread(2)-Lock과 RLock](https://velog.io/@jaewan/CSPythonThread2)
     - [[CS/Python]Thread(3)-Condition, Lock, Mutex, Semaphore, Local Data](https://velog.io/@jaewan/CSPythonThread3-Condition-Lock-Mutex-Semaphore-Local-Data)
     - [Dependency injection and inversion of control in Python](https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html)
+    - [Garbage Collection in Python](https://medium.com/dmsfordsm/garbage-collection-in-python-777916fd3189)
     - [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
     - [How to set up HTTPHandler for python logging](https://stackoverflow.com/questions/51525237/how-to-set-up-httphandler-for-python-logging)
     - [Instagram이 Python garbage collection 없앤 이유](https://luavis.me/python/dismissing-python-garbage-collection-at-instagram)
@@ -508,6 +509,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Python logging json formatter](https://everythingtech.dev/2021/03/python-logging-with-json-formatter/)
     - [Python multiprocessing's Pool process limit](https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit)
     - [python pool.map() and shared array variable](https://stackoverflow.com/questions/56585130/python-pool-map-and-shared-array-variable)
+    - [python 동시성 관리 (1) - 프로세스(Process)와 스레드(Thread)](https://velog.io/@jaebig/python-%EB%8F%99%EC%8B%9C%EC%84%B1-%EA%B4%80%EB%A6%AC-1-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9CThread)
+    - [python 동시성 관리 (2) - GIL(Global Interpreter Lock)](https://velog.io/@jaebig/python-%EB%8F%99%EC%8B%9C%EC%84%B1-%EA%B4%80%EB%A6%AC-2-GILGlobal-Interpreter-Lock)
+    - [python 동시성 관리 (3) - 코루틴(Coroutine)이란?](https://velog.io/@jaebig/python-%EB%8F%99%EC%8B%9C%EC%84%B1-%EA%B4%80%EB%A6%AC-3-%EC%BD%94%EB%A3%A8%ED%8B%B4Coroutine)
     - [Pytorch weight 저장에 대해 우리가 알아야하는 모든 것](https://comlini8-8.tistory.com/50)
     - [Rusty Python](https://rangho.postype.com/post/6680526)
     - [Tool for generating SQLAlchemy queries from JSON-esque values?](https://stackoverflow.com/questions/10342700/tool-for-generating-sqlalchemy-queries-from-json-esque-values)
@@ -521,11 +525,11 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [파이썬 세 개의 점, ELLIPSIS 객체는 무엇인가요?](https://tech.madup.com/python-ellipsis/)
     - [파이썬 Object Interning](http://pythonstudy.xyz/python/article/512-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Object-Interning)
     - [파이썬의 global과 nonlocal 키워드 사용법](https://www.daleseo.com/python-global-nonlocal/)
+    - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)- 
     - [파이썬의 유닛테스트를 한번에 파악할 수 있는 코드](https://this-programmer.tistory.com/502)
     - [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
     - [파이썬 인터닝 (Python Interning) - 객체 재사용](https://this-programmer.tistory.com/508)
     - [파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/)
-    - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
     - [파이썬 함수의 매개변수에 쓰이는 bare asterisk(*)의 의미](https://this-programmer.tistory.com/503)
     - AsyncIO
         - [asyncio 파헤치기](https://brownbears.tistory.com/540)
@@ -603,6 +607,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 - [10분 Actor Model 정리](https://hyojabal.tistory.com/1)
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
+- [컴퓨터의 '보수표현'이란?](https://seollal.tistory.com/700)
+- [컴퓨터의 음수 표현과 보수법](https://hs-archive.tistory.com/26)
 - [메모리의 구조 (코드, 데이터, 힙, 스택 영역)](https://all-young.tistory.com/17)
 - [행위자 모델](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EC%9E%90_%EB%AA%A8%EB%8D%B8)
 
