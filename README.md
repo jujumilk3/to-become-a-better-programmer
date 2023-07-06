@@ -135,14 +135,16 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 데이터베이스
 
+- [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
 - [Inner Join과 Outer Join 차이점](https://server-engineer.tistory.com/306)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
 - [ORM이란](https://gmlwjd9405.github.io/2019/02/01/orm.html)
-- [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](<https://blog.voidmainvoid.net/91]>)
+- [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91)
 - [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)
+- [WAL (Write-Ahead-Logging)](https://nays111.tistory.com/12)
 - [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 - [왜 데이터베이스(DB) 튜닝을 해야할까?](https://travislife.tistory.com/25)
 - [인덱스(index)란?](https://mangkyu.tistory.com/96)
@@ -278,6 +280,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [헥사고날 아키텍처란](https://cantcoding.tistory.com/107)
 
 ## 소프트웨어 인프라
 
