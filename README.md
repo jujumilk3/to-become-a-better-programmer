@@ -389,6 +389,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Helm 이란?](https://tech.ktcloud.com/51)
     - [HPA: Horizontal Pod Autoscaling](https://kubernetes.io/ko/docs/tasks/run-application/horizontal-pod-autoscale/)
     - [How To Manage Your Kubernetes Configurations with Kustomize](https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize)
+    - [Istio Sidecar Injection](http://itnp.kr/post/istio-injection-automatically-installing-sidecar-on-the-pod-in-use)
     - [Istio 🌶️트래픽 흐름 Life of a packet](https://www.notion.so/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
     - [Istio란 무엇인가?](https://twofootdog.tistory.com/78)
     - [Istio 아키텍처와 기능 이해하기](https://velog.io/@beryl/Istio-%EA%B0%9C%EB%85%90)
@@ -406,6 +407,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Kubernetes 환경에 affinity, anti-affinity 적용하기](https://malgogi-developer.tistory.com/32)
     - [Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
     - [Rancher](https://www.rancher.com/)
+    - [라즈베리 파이로 쿠버네티스 클러스터를 만들어보자.](https://www.binaryflavor.com/raspberry-pi-kubernetes-1/)
     - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
     - [커스텀 리소스](https://kubernetes.io/ko/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
     - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
@@ -537,7 +539,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [파이썬 세 개의 점, ELLIPSIS 객체는 무엇인가요?](https://tech.madup.com/python-ellipsis/)
     - [파이썬 Object Interning](http://pythonstudy.xyz/python/article/512-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Object-Interning)
     - [파이썬의 global과 nonlocal 키워드 사용법](https://www.daleseo.com/python-global-nonlocal/)
-    - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)- 
+    - [파이썬의 대표적인 네 자료형(리스트, 셋, 튜플, 딕셔너리) 특성 알아보기](https://this-programmer.tistory.com/445)
     - [파이썬의 유닛테스트를 한번에 파악할 수 있는 코드](https://this-programmer.tistory.com/502)
     - [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
     - [파이썬 인터닝 (Python Interning) - 객체 재사용](https://this-programmer.tistory.com/508)
@@ -602,7 +604,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
-- [StackExchangePerformance](https://stackexchange.com/performance)- 
+- [StackExchangePerformance](https://stackexchange.com/performance)
 - [StackOverflow는 9대의 on-prem 서버로 운영중](https://news.hada.io/topic?id=6993&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
 - [Y Combinator 인터뷰 + 탈락 썰](https://ssowonny.medium.com/y-combinator-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%83%88%EB%9D%BD-%EC%8D%B0-cb8a8a00ef03)
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
