@@ -103,6 +103,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [OAuth란? 그리고 OAuth1, OAuth2](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
 - [OAuth2를 이용한 SSO 환경 구축 (1/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-1-2/)
 - [OAuth2를 이용한 SSO 환경 구축 (2/2)](http://www.nextree.co.kr/oauth-2reul-iyonghan-sso-hwangyeong-gucug-2-2/)
+- [OSI 모형](https://namu.wiki/w/OSI%20%EB%AA%A8%ED%98%95)
 - [SSO(Single Sign-On)이란?](https://toma0912.tistory.com/75)
 - [TCP/IP의 이해](https://m.blog.naver.com/jhc9639/221411218450?referrerCode=1)
 - [TCP와 UDP의 특징 및 차이점 알아보기](https://dev-coco.tistory.com/144)
@@ -180,6 +181,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 - MySQL
     - [How to bind MySQL server to more than one IP address?](https://serverfault.com/questions/139323/how-to-bind-mysql-server-to-more-than-one-ip-address)
+    - [[MYSQL] 📚 인덱스(index) 핵심 설계 & 사용 문법 💯 총정리](https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-%EC%9D%B8%EB%8D%B1%EC%8A%A4index-%ED%95%B5%EC%8B%AC-%EC%84%A4%EA%B3%84-%EC%82%AC%EC%9A%A9-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - MongoDB
     - [[MongoDB] 몽고DB 샤딩(Sharding) 구성하기!](https://tmjb.tistory.com/39)
     - [[ MongoDB ] 샤딩(Sharding)이란?](https://dev-cini.tistory.com/36)
@@ -188,6 +190,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - Telegraf
     - [How to Use Custom Telemetry From Telegraf in New Relic One](https://newrelic.com/blog/how-to-relic/how-to-collect-telegraf-metrics)
     - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
+- Postgresql
+    - [Postgresql DB의 인덱싱 알고리즘](https://tre2man.tistory.com/278)
 
 ## 데이터-파이프라인
 
@@ -288,6 +292,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [datadog integrations](https://docs.datadoghq.com/integrations/#all)
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
+- [GlusterFS basic](https://gruuuuu.github.io/linux/glusterfs/)
 - [How to do version control in Machine Learning projects](https://pyaf.medium.com/how-to-do-version-control-in-machine-learning-projects-2d693510efcf)
 - [monorepo.tools](https://monorepo.tools/)
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
@@ -399,10 +404,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [[K8S] Control Plane, Data Plane이란?](https://wooono.tistory.com/700)
     - [k8s fission](https://fission.io/)
     - [k8s kind](https://kind.sigs.k8s.io/)
+    - [[k8s] 쿠버네티스 애플리케이션 접근 구성하기: NodePort, Ingress, Istio](https://wrynn.tistory.com/66)
     - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
     - [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
     - [[kubernetes] 쿠버네티스 cr과 crd란?(쿠버네티스 확장)](<https://frozenpond.tistory.com/111>)
     - [Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
+    - [Kubernetes Istio 설치/적용하기 (Kubernetes Istio service mesh)](https://joobly.tistory.com/60)
     - [kubectl 개요](https://kubernetes.io/ko/docs/reference/kubectl/overview/)
     - [Kubernetes : Local에 설치하기](https://velog.io/@sixhustle/k8s-started-1)
     - [Kubernetes 좀 더 잘 이해하기](https://suhwan.dev/2019/04/22/understanding-kubernetes-design/)
@@ -589,6 +596,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [The two-pizza rule and the secret of Amazon's success](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success)
 - [Using LLaMA with M1 Mac](https://dev.l1x.be/posts/2023/03/12/using-llama-with-m1-mac/)
 - [llama : Metal inference](https://github.com/ggerganov/llama.cpp/pull/1642?fbclid=IwAR0JMfY-AxX5_stcGLvJn7u_XoP0uTR0OuI9vGzyd4crXBKWiToJbZ7Hgs8)
+- [규칙 기반 학습 (Rule Based Learning)](https://yngie-c.github.io/machine%20learning/2020/04/05/rule_based/)
 - [딥러닝이란 무엇인가](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EB%94%A5%EB%9F%AC%EB%8B%9D/1-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 - [머신러닝 분야의 임베딩에 대한 상세한 가이드 (The Full Guide to Embeddings in Machine Learning)](https://discuss.pytorch.kr/t/the-full-guide-to-embeddings-in-machine-learning/1708)
 - [아마존 제프 베조스의 '피자 두 판의 법칙'](https://www.ttimes.co.kr/article/2015102814057788682)
@@ -662,7 +670,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
 - 개발자 블로그
+    - [Inpa Dev 👨‍💻 인파](https://inpa.tistory.com/)
     - [N.K LAB](https://blog.neonkid.xyz/)
+    - [yngie-c](https://yngie-c.github.io/)
     - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
 - 교육
     - [K-MOOC](https://www.kmooc.kr/)
