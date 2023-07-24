@@ -250,6 +250,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [What is the difference between JMP and CALL?](https://www.quora.com/What-is-the-difference-between-JMP-and-CALL)
 - [고가용성](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
 - [객체지향 설계 5원칙 - SOLID란 무엇일까?](https://devlog-wjdrbs96.tistory.com/380)
+- [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://tecoble.techcourse.co.kr/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
 - [데몬 (컴퓨팅)](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))
 - [동시성(Concurrency) vs 병렬성(Parallelism)](https://seamless.tistory.com/42)
 - [명령형 프로그래밍 VS 선언형 프로그래밍](https://boxfoxs.tistory.com/430)
@@ -289,6 +290,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 소프트웨어 인프라
 
 - [ArgoCD 정리 (1) - GitOps Repo 구성과 ArgoCD 설치](https://asuraiv.tistory.com/20)
+- [[CEPH] Ceph Architecture](https://chhanz.github.io/ceph/2021/08/18/ceph-architecture/)
 - [datadog integrations](https://docs.datadoghq.com/integrations/#all)
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
@@ -589,11 +591,12 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 인공지능
 
 - [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
-- [The Ultimate Guide to Deep Learning Model Quantization and Quantization-Aware Training](https://deci.ai/quantization-and-quantization-aware-training/)
 - [Embedding이란 무엇이고, 어떻게 사용하는가?](https://www.syncly.app/ko/blog/what-is-embedding-and-how-to-use)
+- [Extracting Features from an Intermediate Layer of a Pretrained VGG-Net in PyTorch](https://medium.com/the-owl/extracting-features-from-an-intermediate-layer-of-a-pretrained-vgg-net-in-pytorch-43f801866a2e)
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
 - [The two-pizza rule and the secret of Amazon's success](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success)
+- [The Ultimate Guide to Deep Learning Model Quantization and Quantization-Aware Training](https://deci.ai/quantization-and-quantization-aware-training/)
 - [Using LLaMA with M1 Mac](https://dev.l1x.be/posts/2023/03/12/using-llama-with-m1-mac/)
 - [llama : Metal inference](https://github.com/ggerganov/llama.cpp/pull/1642?fbclid=IwAR0JMfY-AxX5_stcGLvJn7u_XoP0uTR0OuI9vGzyd4crXBKWiToJbZ7Hgs8)
 - [규칙 기반 학습 (Rule Based Learning)](https://yngie-c.github.io/machine%20learning/2020/04/05/rule_based/)
