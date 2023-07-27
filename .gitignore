@@ -6,3 +6,5 @@
 .idea
 out
 gen
+.history
+.vscode

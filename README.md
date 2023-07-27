@@ -406,6 +406,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [[K8S] Control Plane, Data Plane이란?](https://wooono.tistory.com/700)
     - [k8s fission](https://fission.io/)
     - [k8s kind](https://kind.sigs.k8s.io/)
+    - [k8s 인증 완벽이해 #1 - X.509 Client Certs](https://coffeewhale.com/kubernetes/authentication/x509/2020/05/02/auth01/)
     - [[k8s] 쿠버네티스 애플리케이션 접근 구성하기: NodePort, Ingress, Istio](https://wrynn.tistory.com/66)
     - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
     - [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
@@ -561,6 +562,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - AsyncIO
         - [asyncio 파헤치기](https://brownbears.tistory.com/540)
         - [asyncio 뽀개기 1 - Coroutine과 Eventloop](https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/)
+        - [asyncio 뽀개기 2 - Future의 활용](https://tech.buzzvil.com/blog/asyncio-no-2-future/)
+        - [asyncio 뽀개기 3 - SIGTERM (CTRL+C) 올바르게 처리하기](https://tech.buzzvil.com/blog/asyncio-no-3-sigterm/)
         - [파이썬과 비동기 프로그래밍 #1, 비동기 프로그래밍이란](https://sjquant.tistory.com/13)
     - 장고(Django)
         - [APIView, Mixins, generics APIView, ViewSet을 알아보자](https://ssungkang.tistory.com/entry/Django-APIView-Mixins-generics-APIView-ViewSet%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90?category=366160)
