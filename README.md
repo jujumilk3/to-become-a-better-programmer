@@ -345,6 +345,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [로그 수집 패턴, Fluentd 개념 정리](https://nyyang.tistory.com/120)
 - Git
     - [django로 github actions찍먹해보기](https://this-programmer.tistory.com/474)
+    - [Git Flow란, 깃 브랜치 전략](https://puleugo.tistory.com/107)
     - [Github Action 사용법 정리](https://zzsza.github.io/development/2020/06/06/github-action/)
     - [github actions로 자동 1일 1커밋 봇 만들기](https://this-programmer.tistory.com/490)
     - [Github Action을 마켓에 등록해보자](https://medium.com/jung-han/github-action%EC%9D%84-%EB%A7%88%EC%BC%93%EC%97%90-%EB%93%B1%EB%A1%9D%ED%95%B4%EB%B3%B4%EC%9E%90-7a181a0b4a8f)
@@ -443,8 +444,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [FizzBuzz 문제](https://bryan.wiki/260)
 - [Levenshtein Distance (편집거리 알고리즘) - 문장 유사도 분석을 어떻게 하는가?](https://renuevo.github.io/data-science/levenshtein-distance/)
 - [Lock Free 알고리즘(Non-Blocking 알고리즘)](https://effectivesquid.tistory.com/entry/Lock-Free-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Non-Blocking-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [Lucene ANN 분석1 - HNSW algorithm](https://chocolate-life.tistory.com/11)
 - [RAFT ALGORITHM](https://dinonotes.com/archives/909#:~:text=RAFT%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80%20Consensus%20Algorithm,%ED%95%A9%EC%9D%98%EB%A5%BC%20%ED%95%98%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%8B%A4.)
 - [논 블로킹 알고리즘(Non-blocking Algorithms)](https://parkcheolu.tistory.com/33)
+- [대충? 거의 정확하다! 벡터 검색 엔진에 ANN HNSW 알고리즘 도입기 (feat. SWIG Golang)](https://forward.nhn.com/2022/sessions/42)
 - [동적 계획법(Dynamic Programming)](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 - [레벤슈타인 거리를 이용해서 두 문장 비교하기](https://hoony-gunputer.tistory.com/entry/%EB%A0%88%EB%B2%A4%EC%8A%88%ED%83%80%EC%9D%B8-%EA%B1%B0%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%91%90-%EB%AC%B8%EC%9E%A5-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0#:~:text=%EB%A0%88%EB%B2%A4%EC%8A%88%ED%83%80%EC%9D%B8%20%EA%B1%B0%EB%A6%AC%EB%8A%94%20%EB%8F%85%EC%9D%BC%EC%9D%98,%EB%8B%A4%EB%A5%B8%EC%A7%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%B4%EB%8B%A4.)
 - [브루트 포스(Brute Force)](https://steemit.com/kr-dev/@gyeryak/easyalgo-2-bruteforce)
