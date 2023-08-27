@@ -14,9 +14,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 그냥 스스로도 더 나은 프로그래머가 되고 싶어서, 또 한글로 된 양질의 자료도 많은데 파편화돼있는 게 아쉬워서 시작하게 됐다.
 그래서 저장소의 이름 자체도 To Become a Better Programmer(더 나은 프로그래머 되기)로 정하였다.
 
-되도록이면 한글로 된 자료 중에 쉽고 알아보기 쉬운 자료를 차용할 것이며, 직접 코드를 써야할 경우에는
-비전공자들도 쉽게 알아볼 수 있는 python3으로 작성할 예정이다.
-목차나 내용은 jwasham의 Coding Interview University을 참고할 것이나 완전히 같지는 않을 것이며, 정렬은 123->abc->가나다 순서대로 할 것이다.
+되도록이면 한글로 된 자료 중에 쉽고 알아보기 쉬운 자료를 모을 것이지만 영어로 된 자료도 있을 것이다.
+목차나 내용은 jwasham의 Coding Interview University을 참고할 것이나 완전히 같지는 않을 것이며, 정렬은 123->abc->가나다 순서이다.
 그리고 [내 블로그](https://this-programmer.tistory.com/)에 있는 글들도 이용할 예정이다.
 
 ## 목차
@@ -112,6 +111,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [실시간 스트리밍 프로토콜-RTSP(Real Time Streaming Protocol)란?](https://mingtrace.tistory.com/442)
 - [웹 브라우저에 URL을 입력하면 어떤 일이 일어날까?](https://owlgwang.tistory.com/1)
 - [웹의 동작 원리](https://velog.io/@wonhee010/%EC%9B%B9%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- [인증과 인가 (권한 부여) 비교 – 특징 및 차이점](https://www.okta.com/kr/identity-101/authentication-vs-authorization/)
 - [쿠키와 세션의 차이](https://jeong-pro.tistory.com/80)
 - [토근 기반 인증에서 bearer는 무엇일까?](https://velog.io/@cada/%ED%86%A0%EA%B7%BC-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D%EC%97%90%EC%84%9C-bearer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [프록시(proxy)란, forward proxy와 reverse proxy](https://sujinhope.github.io/2021/06/13/Network-%ED%94%84%EB%A1%9D%EC%8B%9C(Proxy)%EB%9E%80,-Forward-Proxy%EC%99%80-Reverse-Proxy.html)
@@ -139,6 +139,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
+- [[DB] SQL - JOIN문, JOIN 종류 (Inner Join,Natural Join,Outer Join,Cross Join)](https://doh-an.tistory.com/30)
 - [Inner Join과 Outer Join 차이점](https://server-engineer.tistory.com/306)
 - [Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
 - [MongoDB의 Transaction과 session문제](https://crmrelease.tistory.com/138)
@@ -192,6 +193,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
 - Postgresql
     - [Postgresql DB의 인덱싱 알고리즘](https://tre2man.tistory.com/278)
+    - [Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
 
 ## 데이터-파이프라인
 
