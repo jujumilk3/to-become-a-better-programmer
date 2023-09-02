@@ -285,6 +285,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 소프트웨어 아키텍쳐
 
 - [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
+- [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - [헥사고날 아키텍처란](https://cantcoding.tistory.com/107)
@@ -306,6 +307,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [페일오버(Failover)란 무엇인가](https://oriyong.tistory.com/80)
+- ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유](https://www.itworld.co.kr/insight/214234)
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - AWS
