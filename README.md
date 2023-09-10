@@ -136,6 +136,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 데이터베이스
 
+- [📋 제 1-2-3 정규화 & 역정규화 기법 💯 정리](https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EC%A0%9C-1-2-3-%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94)
 - [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
@@ -384,13 +385,16 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [젠킨스란 무엇인가](https://ict-nroo.tistory.com/31)
 - Kafka
     - [[Apache kafka 조금 아는 척하기] 카프카란?](<https://freedeveloper.tistory.com/396>)
+    - [[Apache Kafka] 카프카 컨슈머(Consumer)의 파티션과 메시지 순서를 알아보자 [2]](https://firststep-de.tistory.com/39)
+    - [Apache Kafka 주요 개념 정리 (Cluster, Topic, Producer, Consumer)](https://wildeveloperetrain.tistory.com/225)
     - [Error Handling Patterns for Apache Kafka Applications](https://www.confluent.io/blog/error-handling-patterns-in-kafka/)
     - [Introducing ksqlDB](https://devidea.tistory.com/73)
     - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
-    - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
+    - [[kafka] 카프카 컨슈머 그룹(consumer group) 이해하기](https://jhleed.tistory.com/180)
     - [Kafka Manager (CMAK)](https://server-engineer.tistory.com/759)
     - [Kafka란?](https://galid1.tistory.com/793)
     - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
+    - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)- 
     - [Mac에 카프카 설치하고 실행해보기!](https://somjang.tistory.com/entry/Kafka-Mac%EC%97%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
     - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
 - Kubernetes, k8s
