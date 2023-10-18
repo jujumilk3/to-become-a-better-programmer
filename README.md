@@ -390,13 +390,15 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Error Handling Patterns for Apache Kafka Applications](https://www.confluent.io/blog/error-handling-patterns-in-kafka/)
     - [Introducing ksqlDB](https://devidea.tistory.com/73)
     - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
+    - [[Kafka 101] 컨슈머 그룹 리밸런싱 (Consumer Group Rebalance)](https://always-kimkim.tistory.com/entry/kafka101-consumer-rebalance)
     - [[kafka] 카프카 컨슈머 그룹(consumer group) 이해하기](https://jhleed.tistory.com/180)
     - [Kafka Manager (CMAK)](https://server-engineer.tistory.com/759)
     - [Kafka란?](https://galid1.tistory.com/793)
     - [Kafka 스트림 처리 : ksqlDB로 양말 분류](https://ichi.pro/ko/kafka-seuteulim-cheoli-ksqldblo-yangmal-bunlyu-250788691961603)
-    - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)- 
+    - [KSQL](https://www.confluent.io/ko-kr/product/ksql/)
     - [Mac에 카프카 설치하고 실행해보기!](https://somjang.tistory.com/entry/Kafka-Mac%EC%97%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
     - [카프카 커넥트 효율적으로 관리하기](https://medium.com/@daisy_kim/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%8A%B8-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-8ff72f69be9d)
+    - [카프카 컨슈머 그룹 리밸런싱 (Kafka Consumer Group Rebalancing)](https://techblog.gccompany.co.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EA%B7%B8%EB%A3%B9-%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1-kafka-consumer-group-rebalancing-5d3e3b916c9e)
 - Kubernetes, k8s
     - [Amazon EKS 30분만에 구성하기 (CloudFormation)](https://waspro.tistory.com/651)
     - [Affinity & NodeSelector 사용하기](https://aws-diary.tistory.com/123)
