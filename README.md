@@ -316,6 +316,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [프로비저닝(Provisioning)이란? 개념, 종류, 자동화 방법](https://www.redhat.com/ko/topics/automation/what-is-provisioning)
 - [현기증나는 인프라, 배포 용어들(IaC, 오케스트레이션, CI/CD, DEVOPS, 프로비저닝 등등) 정리](https://this-programmer.tistory.com/447)
 - AWS
+    - [AWS | ALB와 NLB 차이점](https://no-easy-dev.tistory.com/entry/AWS-ALB%EC%99%80-NLB-%EC%B0%A8%EC%9D%B4%EC%A0%90)
     - [ACM을 이용한 HTTPS 설정](https://intermediate.inflearn.devopsart.dev/2./acm-https)
     - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
     - [[AWS] ACM + Route53을 이용한 SSL(Https) 인증서 발급](<https://jjong-factory.tistory.com/92>)
