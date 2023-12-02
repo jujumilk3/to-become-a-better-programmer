@@ -305,6 +305,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [How to do version control in Machine Learning projects](https://pyaf.medium.com/how-to-do-version-control-in-machine-learning-projects-2d693510efcf)
 - [monorepo.tools](https://monorepo.tools/)
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
+- [TBD(Trunk Based Development) 전략이란?](https://helloinyong.tistory.com/335)
 - [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91)
 - [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)- 
 - [마이크로서비스 인증/인가 패턴](https://engineering-skcc.github.io/microservice%20outer%20achitecture/outer-arch-Auth/)
