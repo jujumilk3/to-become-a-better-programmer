@@ -74,6 +74,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 검색
 
+- [NDCG - Normalized Discounted Cumulative Gain(평가지표)](https://walwalgabu.tistory.com/entry/4-NDCG-Normalized-Discounted-Cumulative-Gain%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C)
 - [단어 임베딩: 어휘의 의미(Lexical semantics)를 인코딩하기](https://tutorials.pytorch.kr/beginner/nlp/word_embeddings_tutorial.html)
 - [[데이터 색인] 역색인 구조 (역 인덱스; Inverted Index)](https://the-dev.tistory.com/30)
 
@@ -443,6 +444,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
     - [커스텀 리소스](https://kubernetes.io/ko/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
     - [커스텀 측정항목을 통한 쿠버네티스 오토스케일링(custom metrics kuberntes autoscaling) - presto(1/2) - 사전작업](https://cce199.tistory.com/62)
+    - [쿠버네티스 #9 - HealthCheck](https://bcho.tistory.com/1264)
     - [쿠버네티스 교육과 인증(공식)](https://kubernetes.io/ko/training/)
     - [쿠버네티스 프로비저닝 툴과의 만남부터 헤어짐까지 . . .](https://tech.kakao.com/2023/02/10/making-of-kubernetes-provisioning-tool/)
     - [쿠버네티스 문서(공식)](https://kubernetes.io/ko/docs/home/)
@@ -745,3 +747,4 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 기타
     - [파이토치 한국 사용자 모임](https://pytorch.kr/)
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
+    - [onsites.fyi - bigtech corp interview curation](https://www.onsites.fyi/)
