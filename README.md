@@ -97,6 +97,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [http와 tcp/ip의 이해](https://hwan-shell.tistory.com/271)
 - [HTTP Protocols](https://ko.wikipedia.org/wiki/HTTP)
 - [HTTP 통신 과정](https://mysterico.tistory.com/29)
+- [🌐 IP 클래스 · 서브넷 마스크 · 서브넷팅 계산법 💯 총정리](https://inpa.tistory.com/entry/WEB-IP-클래스-서브넷-마스크-서브넷팅-총정리)
 - [JWT(Json Web Token)란?](https://mangkyu.tistory.com/56)
 - [JSON이란?](https://ko.wikipedia.org/wiki/JSON)
 - [Let’s Encrypt 와일드카드로 여러개의 서브도메인 인증서 한번에 발급받기](https://oasisfores.com/letsencrypt-wildcard-ssl-certificate/)
@@ -323,6 +324,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [ACM을 이용한 HTTPS 설정](https://intermediate.inflearn.devopsart.dev/2./acm-https)
     - [aws 프리티어 계속 쓰기 (with gmail)](https://this-programmer.tistory.com/472)
     - [[AWS] ACM + Route53을 이용한 SSL(Https) 인증서 발급](<https://jjong-factory.tistory.com/92>)
+    - [[AWS] 가장쉽게 VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
     - [CloudWatch 에이전트를 사용하여 Amazon EC2 인스턴스 및 온프레미스 서버에서 지표 및 로그 수집](https://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
     - [Mac OS에 AWS Cli 설정하기](https://longtermsad.tistory.com/13)
 - CircleCI
@@ -619,6 +621,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Linux - Namespace 란?](https://galid1.tistory.com/442)
     - [NFS서버란 무엇인가?](https://jhnyang.tistory.com/279)
     - [supervisor를 사용하여 지속적으로 실행해야 하는 프로세스 관리하기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=shino1025&logNo=221472860840)
+    - [Ubuntu iptables 저장, 리부팅 뒤 자동 복구](https://salsalchanchan.tistory.com/14)
     - [리눅스(Linux)와 유닉스(Unix)의 차이](https://this-programmer.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux%EC%99%80-%EC%9C%A0%EB%8B%89%EC%8A%A4Unix%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     - [리눅스 네임스페이스(Linux Namespace)란?](https://www.44bits.io/ko/keyword/linux-namespace)
     - [리눅스 리다이렉션 & 파이프(Linux redirection & pipe)](https://jdm.kr/blog/74)
