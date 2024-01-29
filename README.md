@@ -139,6 +139,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 데이터베이스
 
+- [@Transactional의 해로움](https://channel.io/ko/blog/bad-transactional)
 - [📋 제 1-2-3 정규화 & 역정규화 기법 💯 정리](https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EC%A0%9C-1-2-3-%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94)
 - [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
@@ -655,6 +656,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [CRM이란 무엇인가요?](https://www.oracle.com/kr/cx/what-is-crm/)
 - [Git 커밋 메시지는 왜 중요할까?](https://insight.infograb.net/blog/2023/04/21/why-commit-convention-is-important/)
 - [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
+- [Inventing on Principle](https://lilys.ai/digest/211430)
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
