@@ -15,7 +15,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 그래서 저장소의 이름 자체도 To Become a Better Programmer(더 나은 프로그래머 되기)로 정하였다.
 
 되도록이면 한글로 된 자료 중에 쉽고 알아보기 쉬운 자료를 모을 것이지만 영어로 된 자료도 있을 것이다.
-목차나 내용은 jwasham의 Coding Interview University을 참고할 것이나 완전히 같지는 않을 것이며, 정렬은 123->abc->가나다 순서이다.
+목차나 내용은 jwasham의 Coding Interview University을 참고할 것이나 완전히 같지는 않을 것이며, 정렬은 특수문자를 제외한 123->abc->가나다 순서이다.
 그리고 [내 블로그](https://this-programmer.tistory.com/)에 있는 글들도 이용할 예정이다.
 
 ## 목차
@@ -248,6 +248,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 소프트웨어 공학
 
+- [10분 Actor Model 정리](https://hyojabal.tistory.com/1)
 - [Active Record VS Data Mapper](https://velog.io/@hyob/Active-Record-VS-Data-Mapper)
 - [Actor model 에 관하여…](https://pegasuskim.wordpress.com/2015/12/23/actor-model-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
 - [Call by Value와 Call by Reference](https://re-build.tistory.com/3)
@@ -676,7 +677,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 컴퓨터 공학
 
-- [10분 Actor Model 정리](https://hyojabal.tistory.com/1)
+- [[CISC / RISC] 개념 및 차이](https://velog.io/@kjw2298/CISC-RISC-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%B0%A8%EC%9D%B4)
 - [컴퓨터가 1+1을 하는 과정](https://brunch.co.kr/@lqju/8)
 - [컴퓨터의 '보수표현'이란?](https://seollal.tistory.com/700)
 - [컴퓨터의 음수 표현과 보수법](https://hs-archive.tistory.com/26)
@@ -692,14 +693,15 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [chatpdf](https://www.chatpdf.com/)
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
-- [civitai](https://civitai.com/)
-- [DB-Engines](https://db-engines.com/)
+- [civitai](https://civitai.com/) - StableDiffusion Models
+- [DB-Engines](https://db-engines.com/) - DBMS 랭킹
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
-- [GeekNews](https://news.hada.io/)
+- [GeekNews](https://news.hada.io/) - IT 뉴스 스크랩. (최고)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
 - [Google 관리 콘솔 도구 상자](https://toolbox.googleapps.com/apps/main/) - DNS 세팅 확인하기 좋음
 - [httpstat.us](https://httpstat.us/) - http request로 http protocol 임의로 바꿔서 response 받을 수 있는 사이트
 - [infisical](https://infisical.com/) - Open Source SecretOps
+- [ipaddress](http://ipaddress.sh/) - IP주소 확인
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [ngrok](https://ngrok.com/) - 임시로 서버띄워서 확인할때 좋음
 - [Postgres.app](https://postgresapp.com/)
@@ -750,6 +752,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 해커뉴스 스크랩(HackerNews)
     - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 - 기타
-    - [파이토치 한국 사용자 모임](https://pytorch.kr/)
+    - [FreeComputerBooks.com](https://freecomputerbooks.com/)
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
     - [onsites.fyi - bigtech corp interview curation](https://www.onsites.fyi/)
+    - [파이토치 한국 사용자 모임](https://pytorch.kr/)
