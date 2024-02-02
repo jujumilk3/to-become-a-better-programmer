@@ -476,6 +476,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [대충? 거의 정확하다! 벡터 검색 엔진에 ANN HNSW 알고리즘 도입기 (feat. SWIG Golang)](https://forward.nhn.com/2022/sessions/42)
 - [동적 계획법(Dynamic Programming)](https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95)
 - [레벤슈타인 거리를 이용해서 두 문장 비교하기](https://hoony-gunputer.tistory.com/entry/%EB%A0%88%EB%B2%A4%EC%8A%88%ED%83%80%EC%9D%B8-%EA%B1%B0%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%91%90-%EB%AC%B8%EC%9E%A5-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0#:~:text=%EB%A0%88%EB%B2%A4%EC%8A%88%ED%83%80%EC%9D%B8%20%EA%B1%B0%EB%A6%AC%EB%8A%94%20%EB%8F%85%EC%9D%BC%EC%9D%98,%EB%8B%A4%EB%A5%B8%EC%A7%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%B4%EB%8B%A4.)
+- [벡터 검색은 무엇인가요?](https://www.elastic.co/kr/what-is/vector-search)
+- [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Search?)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165293)
 - [브루트 포스(Brute Force)](https://steemit.com/kr-dev/@gyeryak/easyalgo-2-bruteforce)
 - [빅오 표기법(Big-O Notation), 시간 복잡도, 공간 복잡도](https://cjh5414.github.io/big-o-notation/)
 - [에라토스테네스의 체(Sieve of Eratosthenes)](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
