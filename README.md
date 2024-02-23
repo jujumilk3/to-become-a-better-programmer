@@ -433,6 +433,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [k8s 인증 완벽이해 #1 - X.509 Client Certs](https://coffeewhale.com/kubernetes/authentication/x509/2020/05/02/auth01/)
     - [[k8s] 쿠버네티스 애플리케이션 접근 구성하기: NodePort, Ingress, Istio](https://wrynn.tistory.com/66)
     - [Kubernetes Calico Plugin](https://ssup2.github.io/theory_analysis/Kubernetes_Calico_Plugin/)
+    - [kubernetes Pod의 진단을 담당하는 서비스 : probe](https://medium.com/finda-tech/kubernetes-pod%EC%9D%98-%EC%A7%84%EB%8B%A8%EC%9D%84-%EB%8B%B4%EB%8B%B9%ED%95%98%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-probe-7872cec9e568)
     - [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
     - [[kubernetes] 쿠버네티스 cr과 crd란?(쿠버네티스 확장)](<https://frozenpond.tistory.com/111>)
     - [Kubernetes의 HPA를 활용한 오토스케일링(Auto Scaling)](https://medium.com/dtevangelist/k8s-kubernetes%EC%9D%98-hpa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-auto-scaling-2fc6aca61c26)
@@ -757,4 +758,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [FreeComputerBooks.com](https://freecomputerbooks.com/)
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
     - [onsites.fyi - bigtech corp interview curation](https://www.onsites.fyi/)
+    - [TECH ICONS](https://techicons.dev/)
     - [파이토치 한국 사용자 모임](https://pytorch.kr/)
+  
