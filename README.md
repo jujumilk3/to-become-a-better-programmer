@@ -312,7 +312,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
 - [TBD(Trunk Based Development) 전략이란?](https://helloinyong.tistory.com/335)
 - [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91)
-- [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)- 
+- [TICK Stack(Telegraf + InfluxDB + Chronograf + Kapacitor)](https://notemusic.tistory.com/67)
+- [Trunk Based Development](https://trunkbaseddevelopment.com/)
 - [마이크로서비스 인증/인가 패턴](https://engineering-skcc.github.io/microservice%20outer%20achitecture/outer-arch-Auth/)
 - [배포 방법 정리 (고정/롤링/블루-그린/카나리 릴리즈 배포)](https://devpouch.tistory.com/136)
 - [안정적인 운영을 완성하는 모니터링, 프로메테우스와 그라파나](https://velog.io/@moey920/%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
@@ -742,6 +743,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [AI Canon - a16z가 큐레이션한 AI 필수 자료 모음](https://news.hada.io/topic?id=9284)
     - [Blink 1.0 릴리즈 - 초경량 x86-64-linux 에뮬레이터](https://news.hada.io/topic?id=9361)
     - [Brex의 프롬프트 엔지니어링 가이드](https://news.hada.io/topic?id=9190)
+    - [Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법](https://news.hada.io/topic?id=13821)
     - [Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임](https://news.hada.io/topic?id=9160)
     - [GitHub Copilot Chat 전체 프롬프트 유출](https://news.hada.io/topic?id=9182)
     - [Google I/O: Ubiquitous AI가 SEO에 큰 변화를 가져올 것](https://news.hada.io/topic?id=9189)
