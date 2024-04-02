@@ -199,8 +199,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [How to Use Custom Telemetry From Telegraf in New Relic One](https://newrelic.com/blog/how-to-relic/how-to-collect-telegraf-metrics)
     - [Telegraf input plugins](https://docs.influxdata.com/telegraf/v1.9/plugins/inputs/)
 - Postgresql
-    - [Postgresql DB의 인덱싱 알고리즘](https://tre2man.tistory.com/278)
     - [Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
+    - [Postgresql DB의 인덱싱 알고리즘](https://tre2man.tistory.com/278)
+    - [PostgreSQL Vacuum에 대한 거의 모든 것](https://techblog.woowahan.com/9478/)
+    - [PostgreSQL 튜닝 - Autovacuum 최적화에 대하여](https://nrise.github.io/posts/postgresql-autovacuum/)
 
 ## 데이터-파이프라인
 
