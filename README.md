@@ -764,5 +764,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
     - [onsites.fyi - bigtech corp interview curation](https://www.onsites.fyi/)
     - [TECH ICONS](https://techicons.dev/)
+    - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
+    - [xkcd](https://xkcd.com/)
     - [파이토치 한국 사용자 모임](https://pytorch.kr/)
-  
