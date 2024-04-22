@@ -298,6 +298,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [분산 시스템이란?](https://www.atlassian.com/ko/microservices/microservices-architecture/distributed-architecture)
 - [헥사고날 아키텍처란](https://cantcoding.tistory.com/107)
 
 ## 소프트웨어 인프라
@@ -697,6 +698,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 유용한 사이트 정보 블로그 도구 등등
 
+- [ATLASSIAN 소프트웨어 개발](https://www.atlassian.com/ko/software-development)
 - [chatpdf](https://www.chatpdf.com/)
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
