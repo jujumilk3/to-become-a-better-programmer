@@ -127,6 +127,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [python 에서 gRPC 테스트 해보기](https://kim-daeyong.github.io/2021-07-23-grpc_python/)
 - nginx
     - [nginx로 로드밸런싱 하기](https://kamang-it.tistory.com/entry/WebServernginxnginx%EB%A1%9C-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1-%ED%95%98%EA%B8%B0)
+    - [nginx와 http basic auth로 사용자 인증하기](https://ghleokim.github.io/http-basic-auth%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC/)
 - RestAPI
     - [REST API 제대로 알고 사용하기](https://meetup.toast.com/posts/92)
     - [그놈의 RESTful API. 한 줄로 정의하자면](https://this-programmer.tistory.com/entry/%EA%B7%B8%EB%86%88%EC%9D%98-RESTful-API-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A0%95%EC%9D%98%ED%95%98%EC%9E%90%EB%A9%B4)
