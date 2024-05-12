@@ -764,6 +764,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [인스타그램이 오직 3명의 엔지니어로 1400만 사용자를 확보한 방법](https://news.hada.io/topic?id=10916)
     - [임베딩(Embeddings)은 무엇이고 왜 중요한가](https://news.hada.io/topic?id=11593)
     - [향후 5년간 연매출 $25M 이상의 1인 기업이 더 많이 등장할 것](https://news.hada.io/topic?id=9181)
+- 깃허브 프로젝트(GitHub)
+    - [The Evolution of Trust](https://github.com/ncase/trust)
 - 해커뉴스 스크랩(HackerNews)
     - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 - 기타
