@@ -35,6 +35,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [소프트웨어 아키텍쳐](#소프트웨어-아키텍쳐)
     - [소프트웨어 인프라](#소프트웨어-인프라)
     - [알고리즘](#알고리즘)
+    - [연구논문](#연구논문)
     - [자료구조](#자료구조)
     - [언어와 프레임워크](#언어와-프레임워크)
     - [운영체제](#운영체제)
@@ -502,6 +503,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [피보나치 수열을 구하는 세 가지 방법. (재귀, 동적 계획법, 반복)](https://makefortune2.tistory.com/60)
 - [해시 함수](https://ko.wikipedia.org/wiki/%ED%95%B4%EC%8B%9C_%ED%95%A8%EC%88%98)
 
+## 연구논문
+
+- [Attention is All you Need](https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+
 ## 자료구조
 
 - [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
@@ -774,6 +779,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 해커뉴스 스크랩(HackerNews)
     - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 - 기타
+    - [Elo Rating System (엘로 평점 시스템)](https://jeonggyun.tistory.com/126)
     - [FreeComputerBooks.com](https://freecomputerbooks.com/)
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
     - [onsites.fyi - bigtech corp interview curation](https://www.onsites.fyi/)
@@ -783,3 +789,4 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [파이토치 한국 사용자 모임](https://pytorch.kr/)
     - [Green Software Foundation](https://greensoftware.foundation/)
     - [Andy Matuschak](https://andymatuschak.org/)
+    - [엘로 평점 시스템](https://ko.wikipedia.org/wiki/%EC%97%98%EB%A1%9C_%ED%8F%89%EC%A0%90_%EC%8B%9C%EC%8A%A4%ED%85%9C)
