@@ -50,6 +50,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [gRPC 와 python 을 활용한 Microservice 개발기 - 송지형 - PyCon.KR 2019](https://www.youtube.com/watch?v=KGAernd-42M)
 - AI
     - [Naver Ai Boostcamp](https://blahblahlab.tistory.com/107)
+    - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 - Airflow
     - [Airflow란?](https://dydwnsekd.tistory.com/27?category=897626)
 - Elixir
@@ -87,6 +88,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
 - [NVIDIA-SMI 확인방법 및 활용하기](https://kyumdoctor.co.kr/10)
 - [람다 대수](https://ko.wikipedia.org/wiki/%EB%9E%8C%EB%8B%A4_%EB%8C%80%EC%88%98)
+- [분류 모델 성능 평가 지표(Accuracy, Precision, Recall, F1 score 등)](https://white-joy.tistory.com/9)
+- [[이론 및 파이썬] L1 Norm과 L2 Norm](https://hwanii-with.tistory.com/58)
 
 ## 네트워크
 
@@ -144,6 +147,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [@Transactional의 해로움](https://channel.io/ko/blog/bad-transactional)
 - [📋 제 1-2-3 정규화 & 역정규화 기법 💯 정리](https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EC%A0%9C-1-2-3-%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94)
 - [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
 - [[DB] SQL - JOIN문, JOIN 종류 (Inner Join,Natural Join,Outer Join,Cross Join)](https://doh-an.tistory.com/30)
@@ -300,6 +304,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Architectural Katas - neal ford](https://nealford.com/katas/)
 - [connascence.io/](https://connascence.io/)
 - [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
+- [Observability vs Monitoring 차이점은 무엇일까요?](https://blog.stkcorp.co.kr/splunk/observability-vs-monitoring-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [What Is a Modular Monolith?](https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
@@ -318,6 +323,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [GlusterFS basic](https://gruuuuu.github.io/linux/glusterfs/)
 - [How to do version control in Machine Learning projects](https://pyaf.medium.com/how-to-do-version-control-in-machine-learning-projects-2d693510efcf)
 - [monorepo.tools](https://monorepo.tools/)
+- [Nexus3를 이용한 pypi 사설 저장소 구축](https://www.bearpooh.com/45)
 - [Sentry.io 에러 로깅](https://woolbro.tistory.com/93)
 - [TBD(Trunk Based Development) 전략이란?](https://helloinyong.tistory.com/335)
 - [[Telegraf + influxDB + Grafana]10분만에 데브옵스를 위한 모니터링 시스템 구축하기](https://blog.voidmainvoid.net/91)
@@ -510,7 +516,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 자료구조
 
-- [B-Tree, B+ Tree](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
+- [B-Tree, B+ Tree(Gone)](https://ssup2.github.io/theory_analysis/B_Tree_B+_Tree/)
+- [B-트리(B-Tree)란? B트리 탐색, 삽입, 삭제 과정](https://velog.io/@chanyoung1998/B%ED%8A%B8%EB%A6%AC)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Hash, Hashing, Hash Table(해시, 해싱 해시테이블) 자료구조의 이해](https://velog.io/@cyranocoding/Hash-Hashing-Hash-Table%ED%95%B4%EC%8B%9C-%ED%95%B4%EC%8B%B1-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-6ijyonph6o)
 - [Linked list (연결 리스트) 란 무엇인가?](https://supermemi.tistory.com/67)
 - [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
@@ -518,6 +526,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Speed up millions of regex replacements in Python 3](https://stackoverflow.com/questions/42742810/speed-up-millions-of-regex-replacements-in-python-3)
 - [YAML](https://ko.wikipedia.org/wiki/YAML)
 - [YAML이란?](https://www.redhat.com/ko/topics/automation/what-is-yaml)
+- [[자료구조] 간단히 알아보는 B-Tree, B+Tree, B*Tree](https://ssocoit.tistory.com/217)
 - [그래프 이론 기초 & 그래프 패턴](https://blahblahlab.tistory.com/140)
 - [배열(Array)과 리스트(List)](https://wayhome25.github.io/cs/2017/04/17/cs-18-1/)
 - [이진 트리(Binary Tree)의 종류](https://hsc-tech.tistory.com/7)
@@ -796,3 +805,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [엘로 평점 시스템](https://ko.wikipedia.org/wiki/%EC%97%98%EB%A1%9C_%ED%8F%89%EC%A0%90_%EC%8B%9C%EC%8A%A4%ED%85%9C)
     - [파이토치 한국 사용자 모임](https://pytorch.kr/)
     - [뭐든 제대로 이해하는 방법](https://www.youtube.com/watch?v=sQYQgiHVyAM)
+    - [B-Trees](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+- 다른 개발자들의 회고
+    - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+    - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
