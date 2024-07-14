@@ -320,6 +320,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [datadog integrations](https://docs.datadoghq.com/integrations/#all)
 - [devops란 - from aws](https://aws.amazon.com/ko/devops/what-is-devops/)
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
+- [Flapping in Autoscale](https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-flapping)
 - [GlusterFS basic](https://gruuuuu.github.io/linux/glusterfs/)
 - [How to do version control in Machine Learning projects](https://pyaf.medium.com/how-to-do-version-control-in-machine-learning-projects-2d693510efcf)
 - [monorepo.tools](https://monorepo.tools/)
@@ -667,6 +668,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Extracting Features from an Intermediate Layer of a Pretrained VGG-Net in PyTorch](https://medium.com/the-owl/extracting-features-from-an-intermediate-layer-of-a-pretrained-vgg-net-in-pytorch-43f801866a2e)
 - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
+- [nvidia-docker GPU 할당하여 사용 하는 방법 3가지](https://iamreo.tistory.com/entry/nvidia-docker-GPU-%ED%95%A0%EB%8B%B9%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80)
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
 - [The two-pizza rule and the secret of Amazon's success](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success)
@@ -789,6 +791,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 해커뉴스 스크랩(HackerNews)
     - [Ask HN: Is it just me or GPT-4's quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 - 기타
+    - [Double Irish with a Dutch Sandwich](https://namu.wiki/w/%EB%8D%94%EB%B8%94%20%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8B%9C%20%EC%9C%84%EB%93%9C%20%EC%96%B4%20%EB%8D%94%EC%B9%98%20%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98)
     - [Elo Rating System (엘로 평점 시스템)](https://jeonggyun.tistory.com/126)
     - [FreeComputerBooks.com](https://freecomputerbooks.com/)
     - [LeadDev 웨스트 코스트 2023의 에반 모리카와 - LeadDev](https://lilys.ai/result?videoId=PeKMEXUrlq4)
