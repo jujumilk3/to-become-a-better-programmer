@@ -213,6 +213,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 데이터-파이프라인
 
 - [데이터 파이프라인이란 무엇인가?](https://blog.voidmainvoid.net/265)
+- [데이터 파이프라인이란, ETL과 ELT](데이터 파이프라인이란, ETL과 ELT)
 - [코드 작성 없이 데이터 파이프라인 운영하기](https://blog.mathpresso.com/%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%97%86%EC%9D%B4-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-84769d598674)
 - [하둡(hadoop)과 스파크(Spark)](https://velog.io/@cha-suyeon/%ED%95%98%EB%91%A1hadoop%EA%B3%BC-%EC%8A%A4%ED%8C%8C%ED%81%ACSpark)
 - [하둡(hadoop)의 MapReduce](https://velog.io/@kimdukbae/MapReduce)
@@ -771,6 +772,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [우아한형제들 기술블로그](https://techblog.woowahan.com/)
     - [카카오 테크](https://tech.kakao.com/)
 - 긱뉴스 스크랩(GeekNews)
+    - [15년 전의 나에게 해주고 싶은 프로그래밍 조언](https://news.hada.io/topic?id=15848)
     - [AI Canon - a16z가 큐레이션한 AI 필수 자료 모음](https://news.hada.io/topic?id=9284)
     - [Blink 1.0 릴리즈 - 초경량 x86-64-linux 에뮬레이터](https://news.hada.io/topic?id=9361)
     - [Brex의 프롬프트 엔지니어링 가이드](https://news.hada.io/topic?id=9190)
@@ -779,6 +781,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [GitHub Copilot Chat 전체 프롬프트 유출](https://news.hada.io/topic?id=9182)
     - [Google I/O: Ubiquitous AI가 SEO에 큰 변화를 가져올 것](https://news.hada.io/topic?id=9189)
     - [GPT같은 LLM을 커스텀 데이터셋으로 파인튜닝 하는 방법](https://news.hada.io/topic?id=9288)
+    - [Notion이 급격한 성장에 맞춰 데이터 레이크를 구축하고 확장한 방법](https://news.hada.io/topic?id=15847)
     - [Pinterest가 6명의 엔지니어만으로 1100만명의 사용자로 확장한 방법](https://news.hada.io/topic?id=11825)
     - [Prompt Engineering이 진짜 가치가 있는가](https://news.hada.io/topic?id=9285)
     - [Same Stop: 애플에서 프로그래머로 26년 일한 뒤의 삶](https://news.hada.io/topic?id=9244)
