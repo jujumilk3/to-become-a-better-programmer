@@ -147,6 +147,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [@Transactional의 해로움](https://channel.io/ko/blog/bad-transactional)
 - [📋 제 1-2-3 정규화 & 역정규화 기법 💯 정리](https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%EC%A0%9C-1-2-3-%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94)
 - [#1 데이터베이스의 무결성을 보장해주는 WAL(Write-Ahead Logging)](https://bourbonkk.tistory.com/86)
+- [ACID vs BASE](https://velog.io/@jeb1225/ACIDvsBASE)
+- [ACID 데이터베이스와 BASE 데이터베이스의 차이점은 무엇인가요?](https://aws.amazon.com/ko/compare/the-difference-between-acid-and-base-database/)
 - [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [Clustering vs Replication vs Sharding](https://jordy-torvalds.tistory.com/94)
 - [DB 트랜잭션 (Transaction)의 ACID 속성과 분산시스템 BASE 속성](https://velog.io/@issac/DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-Transaction%EC%9D%98-ACID-%EC%86%8D%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%82%B0%EC%8B%9C%EC%8A%A4%ED%85%9C-BASE-%EC%86%8D%EC%84%B1)
