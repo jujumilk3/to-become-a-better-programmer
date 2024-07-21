@@ -43,6 +43,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [좋은 글들](#좋은-글들)
     - [컴퓨터 공학](#컴퓨터-공학)
     - [컴퓨터 비전](#컴퓨터-비전)
+    - [프론트 엔드](#프론트-엔드)
     - [유용한 사이트 정보 블로그 도구 등등](#유용한-사이트-정보-블로그-도구-등등)
 
 ## 강의
@@ -82,6 +83,9 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 ## 기타등등
 
+- [Asynchronous Engine — (1) libuv](https://blue-hope.medium.com/asynchronous-engine-1-libuv-2508a4bebb42)
+- [Asynchronous Engine — (2) uvloop](https://blue-hope.medium.com/asynchronous-engine-2-uvloop-ef895d2c2b4a)
+- [Asynchronous Engine — (3) uvicorn](https://blue-hope.medium.com/asynchronous-engine-3-uvicorn-e52e99b61b80)
 - [Base64 인코딩이란?](https://effectivesquid.tistory.com/entry/Base64-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%B4%EB%9E%80)
 - [Base64이란 무엇일까? / Base64 사용 이유와 인코딩과 디코딩](https://devuna.tistory.com/41)
 - [Jupyter notebook 서브도메인 설정 및 Nginx https 설정 방법(certbot)](http://blog.ju-ing.com/posts/DNS-subdomain/)
@@ -725,6 +729,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 ## 컴퓨터 비전
 
 - [OpenCV-특징 검출, 디스크립터, 매칭](https://wjddyd66.github.io/opencv/OpenCV(8)/)
+
+## 프론트 엔드
+
+- [Airbnb의 Server-Driven UI](https://brunch.co.kr/@advisor/37)
 
 ## 유용한 사이트 정보 블로그 도구 등등
 
