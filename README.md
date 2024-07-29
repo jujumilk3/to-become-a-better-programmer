@@ -773,6 +773,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 기업 테크 블로그
     - [CloudNet@ Blog](https://www.notion.so/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
     - [MADTECH](https://tech.madup.com/)
+    - [LINE DEV](https://techblog.lycorp.co.jp/ko)
     - [SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/)
     - [SOCAR Tech Blog](https://tech.socarcorp.kr/)
     - [syncly](https://www.syncly.app/ko/blog)
