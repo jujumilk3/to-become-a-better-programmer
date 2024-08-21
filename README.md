@@ -474,6 +474,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Rancher](https://www.rancher.com/)
     - [Understanding Envoy Rate Limits](https://www.aboutwayfair.com/tech-innovation/understanding-envoy-rate-limits)
     - [라즈베리 파이로 쿠버네티스 클러스터를 만들어보자.](https://www.binaryflavor.com/raspberry-pi-kubernetes-1/)
+    - [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부](https://tech.kakaopay.com/post/jack-k8s-internals-part-1/)
     - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
     - [커스텀 리소스](https://kubernetes.io/ko/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
     - [커스텀 측정항목을 통한 쿠버네티스 오토스케일링(custom metrics kuberntes autoscaling) - presto(1/2) - 사전작업](https://cce199.tistory.com/62)
