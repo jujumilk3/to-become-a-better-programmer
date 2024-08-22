@@ -827,3 +827,4 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - 다른 개발자들의 회고
     - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
     - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
+    - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
