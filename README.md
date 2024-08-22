@@ -676,6 +676,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Extracting Features from an Intermediate Layer of a Pretrained VGG-Net in PyTorch](https://medium.com/the-owl/extracting-features-from-an-intermediate-layer-of-a-pretrained-vgg-net-in-pytorch-43f801866a2e)
 - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 - [MLOps 란 무엇일까?](https://medium.com/daria-blog/mlops-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-7ba8d9aae221)
+- [MLOps란? MLOps가 꼭 필요한 이유](https://elice.io/ko/newsroom/whats_mlops)
 - [nvidia-docker GPU 할당하여 사용 하는 방법 3가지](https://iamreo.tistory.com/entry/nvidia-docker-GPU-%ED%95%A0%EB%8B%B9%ED%95%98%EC%97%AC-%EC%82%AC%EC%9A%A9-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80)
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 - [Study Artificial Intelligence](http://www.aistudy.co.kr/)
