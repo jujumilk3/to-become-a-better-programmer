@@ -798,6 +798,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Pinterest가 6명의 엔지니어만으로 1100만명의 사용자로 확장한 방법](https://news.hada.io/topic?id=11825)
     - [Prompt Engineering이 진짜 가치가 있는가](https://news.hada.io/topic?id=9285)
     - [Same Stop: 애플에서 프로그래머로 26년 일한 뒤의 삶](https://news.hada.io/topic?id=9244)
+    - [Stuart Ellis의 Python 현대적 모범 사례](https://news.hada.io/topic?id=15837)
     - [머신러닝 분야의 임베딩(Embedding)에 대한 상세한 가이드](https://news.hada.io/topic?id=9316)
     - [인스타그램이 오직 3명의 엔지니어로 1400만 사용자를 확보한 방법](https://news.hada.io/topic?id=10916)
     - [임베딩(Embeddings)은 무엇이고 왜 중요한가](https://news.hada.io/topic?id=11593)
