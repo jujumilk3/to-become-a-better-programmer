@@ -426,6 +426,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Introducing ksqlDB](https://devidea.tistory.com/73)
     - [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
     - [Kafka Introduction](https://kafka.apache.org/intro)
+    - [[Kafka 101] 스키마 레지스트리 (Schema Registry)](https://always-kimkim.tistory.com/entry/kafka101-schema-registry)
     - [[Kafka 101] 컨슈머 그룹 리밸런싱 (Consumer Group Rebalance)](https://always-kimkim.tistory.com/entry/kafka101-consumer-rebalance)
     - [[kafka] 카프카 컨슈머 그룹(consumer group) 이해하기](https://jhleed.tistory.com/180)
     - [Kafka Manager (CMAK)](https://server-engineer.tistory.com/759)
