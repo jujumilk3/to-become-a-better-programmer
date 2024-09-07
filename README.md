@@ -241,6 +241,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - Kubeflow
     - [Airflow vs. Kubeflow](https://velog.io/@rhee519/airflow-vs-kubeflow)
     - [Kubeflow vs Airflow – Which is Better For Your Business: 4 Critical Differences](https://hevodata.com/learn/kubeflow-vs-airflow/)
+- PySpark
+    - [[pyspark/빅데이터기초] Parquet(파케이) 파일 형식이란?](https://butter-shower.tistory.com/245)
 
 ## 디자인패턴
 
