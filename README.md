@@ -759,6 +759,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Postgres.app](https://postgresapp.com/)
 - [Programming Fonts](https://www.programmingfonts.org/)
 - [Redhat Topic](https://www.redhat.com/ko/topics)
+- [Simple Icons](https://simpleicons.org/) - 3,000개 이상의 svg 아이콘
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/) - 언어 사용량 랭킹
 - [UI Avatars](https://ui-avatars.com/) - 간단하게 글씨로 아바타 placeholder 만들어주는곳
