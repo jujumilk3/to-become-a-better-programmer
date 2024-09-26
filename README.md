@@ -331,6 +331,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Failover, 페일오버란 무엇인가](https://m.blog.naver.com/on21life/221221178100)
 - [Flapping in Autoscale](https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-flapping)
 - [GlusterFS basic](https://gruuuuu.github.io/linux/glusterfs/)
+- [Hot key Cache Stampede와 Probabilistic Early Recomputation 적용](https://velog.io/@xogml951/Hot-key%EC%97%90%EC%84%9C-Cache-Stampede%EC%99%80-Probabilistic-Early-Recomputation-%EC%A0%81%EC%9A%A9)
 - [How to do version control in Machine Learning projects](https://pyaf.medium.com/how-to-do-version-control-in-machine-learning-projects-2d693510efcf)
 - [monorepo.tools](https://monorepo.tools/)
 - [Nexus3를 이용한 pypi 사설 저장소 구축](https://www.bearpooh.com/45)
