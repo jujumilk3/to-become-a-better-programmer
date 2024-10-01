@@ -774,6 +774,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [N.K LAB](https://blog.neonkid.xyz/)
     - [yngie-c](https://yngie-c.github.io/)
     - [구르미의 개발 이야기](https://gurumee92.tistory.com/)
+    - [Hardcore Software by Steven Sinofsky](https://hardcoresoftware.learningbyshipping.com/p/001-becoming-a-microsoftie-chapter)
 - 교육
     - [K-MOOC](https://www.kmooc.kr/)
     - [T academy](https://tacademy.skplanet.com/live/player/listLecture.action)
