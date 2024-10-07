@@ -99,6 +99,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 - [AB(Apache http server Benchmarking tool)를 활용한 벤치마킹 테스트](https://sysops.tistory.com/77)
 - [Apache Avro 란](https://p-bear.tistory.com/48)
+- [AWS VPC를 디자인해보자(1) - Multi AZ와 Subnet을 활용한 고가용성](https://bluese05.tistory.com/45)
 - [[Firebase] FCM에 대해서 알아보자. 🔔](<https://donghun.dev/Firebase-Cloud-Messaging>)
 - [GET과 POST의 차이](https://hongsii.github.io/2017/08/02/what-is-the-difference-get-and-post/)
 - [HTTP와 HTTPS의 차이점](https://dany-it.tistory.com/96)
@@ -215,6 +216,8 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Postgresql DB의 인덱싱 알고리즘](https://tre2man.tistory.com/278)
     - [PostgreSQL Vacuum에 대한 거의 모든 것](https://techblog.woowahan.com/9478/)
     - [PostgreSQL 튜닝 - Autovacuum 최적화에 대하여](https://nrise.github.io/posts/postgresql-autovacuum/)
+- Redis
+    - [[Redis] ZSet 자료구조 개요](https://bugoverdose.github.io/development/redis-zset-basics/)
 
 ## 데이터-파이프라인
 
@@ -713,7 +716,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [StackOverflow는 9대의 on-prem 서버로 운영중](https://news.hada.io/topic?id=6993&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
 - [Y Combinator 인터뷰 + 탈락 썰](https://ssowonny.medium.com/y-combinator-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%83%88%EB%9D%BD-%EC%8D%B0-cb8a8a00ef03)
 - [가장 효과적인 창업자들을 연구해서 얻은 교훈들](https://news.hada.io/topic?id=6792&utm_source=slack&utm_medium=bot&utm_campaign=T02VBL70FGV)
-- [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과](http://channy.creation.net/blog/1600)
+- [국내 최고의 개발 문화를 가진 회사는? - 설문 조사 결과](http://channy.creation.net/blog/1600)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [소프트웨어, 실무형 인재의 신화](https://sangminpark.blog/2011/08/26/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%EB%AC%B4%ED%98%95-%EC%9D%B8%EC%9E%AC%EC%9D%98-%EC%8B%A0%ED%99%94/)
 - [아마존(Amazon)에서 배운 5가지 글쓰기와 소통 방식](http://channy.creation.net/blog/1620)
