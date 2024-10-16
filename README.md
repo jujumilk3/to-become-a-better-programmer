@@ -3,13 +3,6 @@
 ## 설명
 
 Description에도 써있다시피 jwasham의 Coding Interview University에서 영감을 받아 시작하게 되었다.
-물론 해당 저장소에도 [한국어로 번역된 판](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)이
-존재하지만
-막상 뚜껑을 열어보면 안내만 한글일 뿐이지 그가 걸어놓은 링크나 자료 모두 영어로 구성돼있단 걸 알 수 있을 것이다.
-물론 영어에 능숙하면 그가 올려놓은 양질의 자료를 쉽고 빠르게 탐독할 수 있겠지만 나는 영어에 능숙하지 않은 프로그래머들이 한국에 많이 있다는 걸 안다.
-나 또한 그 중 하나이다.
-
-그런 의미로 여기에서 한국판 Coding Interview University를 작성하려 한다.
 약간의 차이가 있다면 Interview University라는 이름과는 달리 코딩 면접을 위한 프로젝트는 아니라는 점이다.
 그냥 스스로도 더 나은 프로그래머가 되고 싶어서, 또 한글로 된 양질의 자료도 많은데 파편화돼있는 게 아쉬워서 시작하게 됐다.
 그래서 저장소의 이름 자체도 To Become a Better Programmer(더 나은 프로그래머 되기)로 정하였다.
@@ -318,6 +311,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [MSA 기반 환경에서의 인증과 인가 - 1. 개요](https://devs0n.tistory.com/26)
 - [Observability vs Monitoring 차이점은 무엇일까요?](https://blog.stkcorp.co.kr/splunk/observability-vs-monitoring-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+- [System Design: The complete course](https://kps.hashnode.dev/system-design-the-complete-course)
 - [What Is a Modular Monolith?](https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith)
 - [계층구조(Hierarchy)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sipack7297&logNo=220427434575)
 - [🌍 레이어드 아키텍쳐](https://velog.io/@may_soouu/%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
@@ -710,6 +704,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
 - [Inventing on Principle](https://lilys.ai/digest/211430)
 - [IT직군에서 많이 쓰이는 SI, SM, SE, PG 등 용어의 의미](https://this-programmer.tistory.com/entry/IT%EC%A7%81%EA%B5%B0%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EC%9D%B4%EB%8A%94-SI-SM-SE-PG-%EB%93%B1-%EC%9A%A9%EC%96%B4%EC%9D%98-%EC%9D%98%EB%AF%B8)
+- [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
 - [OKR이란?](https://experience.dropbox.com/ko-kr/resources/what-is-an-okr)
 - [POC (Proof Of Concept)란?](https://m.blog.naver.com/pmw9440/221763425946)
 - [StackExchangePerformance](https://stackexchange.com/performance)
@@ -828,7 +823,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [xkcd](https://xkcd.com/)
     - [Green Software Foundation](https://greensoftware.foundation/)
     - [Andy Matuschak](https://andymatuschak.org/)
-    - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+    - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
     - [Unexpected Anti-Patterns for Engineering Leaders — Lessons From Stripe, Uber & Carta](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
     - [How to Learn Anything with the Feynman Technique](https://todoist.com/inspiration/feynman-technique)
     - [엘로 평점 시스템](https://ko.wikipedia.org/wiki/%EC%97%98%EB%A1%9C_%ED%8F%89%EC%A0%90_%EC%8B%9C%EC%8A%A4%ED%85%9C)
@@ -836,6 +831,6 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [뭐든 제대로 이해하는 방법](https://www.youtube.com/watch?v=sQYQgiHVyAM)
     - [B-Trees](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
 - 다른 개발자들의 회고
-    - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+    - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
     - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
     - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
