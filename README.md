@@ -342,6 +342,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [안정적인 운영을 완성하는 모니터링, 프로메테우스와 그라파나](https://velog.io/@moey920/%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81.-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
 - [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
 - [오케스트레이션(Orchestration)이란?](https://www.redhat.com/ko/topics/automation/what-is-orchestration)
+- [장애 대응 능력을 확인할 수 있는 지표 MTTD/MTTR/MTTF/MTBF](https://www.whatap.io/bbs/board.php?bo_table=blog&wr_id=220)
 - [코드형 인프라(IaC)란?](https://www.redhat.com/ko/topics/automation/what-is-infrastructure-as-code-iac)
 - [페일오버(Failover)란 무엇인가](https://oriyong.tistory.com/80)
 - ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유](https://www.itworld.co.kr/insight/214234)
