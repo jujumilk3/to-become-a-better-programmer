@@ -167,6 +167,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [[Database] 정규화(Normalization) 쉽게 이해하기](https://mangkyu.tistory.com/110)
 - [[DB] DB의 INDEX 개념정리](https://azderica.github.io/00-db-index/)
 - [[DB] 정규화(Normalization)란? 정규화 예시, 1NF, 2NF, 3NF, BCNF](https://code-lab1.tistory.com/48)
+- [Postgresql 의 MVCC, Vacuum에 대해 알아보자](https://velog.io/@on5949/Postgresql-%EC%9D%98-MVCC-Vacuum%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [클러스터링 vs 리플리케이션 vs 샤딩](https://velog.io/@gkskaks1004/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-vs-%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-vs-%EC%83%A4%EB%94%A9)
 - [클러스터드 인덱스 (Clustered Index), 넌 클러스터드 인덱스 (Non Clustered Index)](https://velog.io/@sweet_sumin/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%93%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4-Clustered-Index-%EB%84%8C-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%93%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4-Non-Clustered-Index)
 - [클러스터 인덱스와 넌클러스터 인덱스/ 개념 총정리](https://junghn.tistory.com/entry/DB-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80-%EB%84%8C%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B0%9C%EB%85%90-%EC%B4%9D%EC%A0%95%EB%A6%AC)
@@ -475,6 +476,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
     - [Rancher](https://www.rancher.com/)
     - [Understanding Envoy Rate Limits](https://www.aboutwayfair.com/tech-innovation/understanding-envoy-rate-limits)
+    - [공인 쿠버네티스 자격증 알아보기 (CKA, CKAD, CKS, KCNA)](https://hong-sam.tistory.com/179)
     - [라즈베리 파이로 쿠버네티스 클러스터를 만들어보자.](https://www.binaryflavor.com/raspberry-pi-kubernetes-1/)
     - [쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부](https://tech.kakaopay.com/post/jack-k8s-internals-part-1/)
     - [워크로드 리소스](https://kubernetes.io/ko/docs/concepts/workloads/controllers/)
@@ -743,9 +745,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 
 - [ATLASSIAN 소프트웨어 개발](https://www.atlassian.com/ko/software-development)
 - [chatpdf](https://www.chatpdf.com/)
+- [civitai](https://civitai.com/) - StableDiffusion Models
 - [CodebaseShow](https://codebase.show/) - qualified framework project examples
 - [codewars](https://www.codewars.com/) - codekata
-- [civitai](https://civitai.com/) - StableDiffusion Models
+- [CSIS](https://www.csis.org/) - Center for Strategic and International Studies
 - [DB-Engines](https://db-engines.com/) - DBMS 랭킹
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [GeekNews](https://news.hada.io/) - IT 뉴스 스크랩. (최고)
@@ -799,6 +802,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [GitHub Copilot Chat 전체 프롬프트 유출](https://news.hada.io/topic?id=9182)
     - [GN⁺: 좋은 소프트웨어 개발 습관](https://news.hada.io/topic?id=17820)
     - [Google I/O: Ubiquitous AI가 SEO에 큰 변화를 가져올 것](https://news.hada.io/topic?id=9189)
+    - [GPS는 망가졌고, 기술 발전을 가로막고 있음. 이제는 GPS 대안 기술을 살펴봐야할 때](https://news.hada.io/topic?id=18638)
     - [GPT같은 LLM을 커스텀 데이터셋으로 파인튜닝 하는 방법](https://news.hada.io/topic?id=9288)
     - [Notion이 급격한 성장에 맞춰 데이터 레이크를 구축하고 확장한 방법](https://news.hada.io/topic?id=15847)
     - [Pinterest가 6명의 엔지니어만으로 1100만명의 사용자로 확장한 방법](https://news.hada.io/topic?id=11825)
@@ -834,6 +838,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [뭐든 제대로 이해하는 방법](https://www.youtube.com/watch?v=sQYQgiHVyAM)
     - [B-Trees](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
 - 다른 개발자들의 회고
+    - [2025년 미국 뉴욕 소프트웨어 엔지니어 취업기](https://www.nyprogrammer.com/p/job-hunting-2025)
     - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
     - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
     - [I've Built My First Successful Side Project, and I Hate It](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
