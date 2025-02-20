@@ -750,6 +750,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [codewars](https://www.codewars.com/) - codekata
 - [CSIS](https://www.csis.org/) - Center for Strategic and International Studies
 - [DB-Engines](https://db-engines.com/) - DBMS 랭킹
+- [Flair.ai](https://flair.ai/) - The AI design tool for product photoshoots
 - [fly.io](https://fly.io/) - phoenix 포함 특정 프레임워크 최적화 클라우드 서버
 - [GeekNews](https://news.hada.io/) - IT 뉴스 스크랩. (최고)
 - [Google Cloud Spanner](https://cloud.google.com/spanner) - Global managing RDB
@@ -759,8 +760,10 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [ipaddress](http://ipaddress.sh/) - IP주소 확인
 - [netlify로 사이트 배포하기](https://goddino.tistory.com/190)
 - [ngrok](https://ngrok.com/) - 임시로 서버띄워서 확인할때 좋음
+- [Patterns for building realtime features](https://zknill.io/posts/patterns-for-building-realtime/)
 - [Postgres.app](https://postgresapp.com/)
 - [Programming Fonts](https://www.programmingfonts.org/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
 - [Redhat Topic](https://www.redhat.com/ko/topics)
 - [Simple Icons](https://simpleicons.org/) - 3,000개 이상의 svg 아이콘
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
@@ -772,6 +775,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
 - 개발자 블로그
+    - [Geoffrey Huntley](https://ghuntley.com/)
     - [Inpa Dev 👨‍💻 인파](https://inpa.tistory.com/)
     - [N.K LAB](https://blog.neonkid.xyz/)
     - [yngie-c](https://yngie-c.github.io/)
@@ -797,6 +801,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
     - [AI Canon - a16z가 큐레이션한 AI 필수 자료 모음](https://news.hada.io/topic?id=9284)
     - [Blink 1.0 릴리즈 - 초경량 x86-64-linux 에뮬레이터](https://news.hada.io/topic?id=9361)
     - [Brex의 프롬프트 엔지니어링 가이드](https://news.hada.io/topic?id=9190)
+    - [CEO를 뽑는 방법 - 비노드 코슬라](https://news.hada.io/topic?id=19271)
     - [Figma 데이터베이스 팀이 100배 규모 확장을 견뎌낸 방법](https://news.hada.io/topic?id=13821)
     - [Gandalf - 거대 언어 모델이 비밀번호를 유출하게 만드는 게임](https://news.hada.io/topic?id=9160)
     - [GitHub Copilot Chat 전체 프롬프트 유출](https://news.hada.io/topic?id=9182)
