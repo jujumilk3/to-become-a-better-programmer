@@ -765,6 +765,7 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [Programming Fonts](https://www.programmingfonts.org/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Redhat Topic](https://www.redhat.com/ko/topics)
+- [serpapi](https://serpapi.com/) - 검색 엔진 결과 가져오기
 - [Simple Icons](https://simpleicons.org/) - 3,000개 이상의 svg 아이콘
 - [TechEmpower: Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 - [TIOBE](https://www.tiobe.com/tiobe-index/) - 언어 사용량 랭킹
@@ -774,6 +775,13 @@ Description에도 써있다시피 jwasham의 Coding Interview University에서 �
 - [아이보스 마케팅 캘린더](https://www.i-boss.co.kr/ab-marketing_calendar)
 - [유튜브를 가마우지로 만들어보자](https://this-programmer.tistory.com/509)
 - [인디드(indeed)로 살펴본 프로그래밍 언어의 실력대비 연봉 테이블](https://this-programmer.tistory.com/507)
+- [Thesify](https://www.thesify.ai/)
+- [Elicit](https://elicit.com/)
+- [SciSpace](https://bit.ly/)
+- [Jenni AI](https://jenni.ai/)
+- [Julius AI](https://julius.ai/)
+- [AnswerThis](https://answerthis.io)
+- [Unriddle](https://www.unriddle.ai/)
 - 개발자 블로그
     - [Geoffrey Huntley](https://ghuntley.com/)
     - [Inpa Dev 👨‍💻 인파](https://inpa.tistory.com/)
